@@ -162,3 +162,8 @@ cython_debug/
 *.pth
 *.en
 en_lang
+*.zip
+pickle_dump
+en_lines.txt
+loi.txt
+ol.txt
