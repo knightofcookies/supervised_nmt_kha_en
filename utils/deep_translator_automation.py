@@ -79,7 +79,7 @@ if __name__ == "__main__":
     asyncio.run(main())
     end = datetime.datetime.now()
     print(end - start)
-    winsound.Beep(2500, 1000)
+    winsound.Beep(500, 500)
     with open(PICKLE_DUMP_PATH, "wb") as f:
         pickle.dump(complete, f)
     incomplete: List[int] = []
