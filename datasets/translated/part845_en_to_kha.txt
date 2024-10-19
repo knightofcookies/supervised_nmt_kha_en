@@ -1,29 +1,1250 @@
 " Ka la long kaba eh ha ka met bad ka jingmut jingpyrkhat bad hynrei kata ka long kaba phi pynkhreh kum u nongialehkai pyrthei . " " "
 U Manish u la shah pynbna kum u briew uba tbit tam ha ka jingialehkai .
-Ha ka klas kaba hynriew ngi la nang ia kaei ka equation bad kaei ka simple equation bad kumno ban thaw ia ki equation na ki problem jong ka jingim bashisha bad ban pynbeit ia ka .
+Ha ka klas kaba hynriew ngi la nang kaei ka equation bad kaei ka equation kaba suk bad kumno ban shna ia ki equation na ki jingeh ba shisha bad ban pynbeit ia ka .
 Ki share PNB ki dang sah hapoh ka jingeh ban die bad ki la duh sa 5 . 25 na ka shispah .
-U la kynnoh ruh ba u nongshah mudui ba kongsan ha kane ka mukotduma u Arun Sharma u dei uba iajan bha bad u myntri ka koit ka khiah jong ka jylla u Tulsiram Silavat .
+U la kynnoh ruh ba u nongshah kynnoh ba kongsan ha kane ka kam u Arun Sharma u dei uba iajan bad u myntri ka koit ka khiah ka jylla u Tulsiram Silavat .
 Bun na ki nongrep ki long kiba sngur ha u khaw .
 Na ka bynta kiba bun ki samla , ka jinglong trendy ka long kaba kongsan bha .
 Ka sorkar jong ngi kam ai shit .
-Ka jingpule ka la ithuh ia ki jingpher kiba kongsan hapdeng ki thain bad ki jylla ha ka jingdon jong ki briew kiba im bad ka jingpang shini bad ka jingpang snam kaba heh .
-Haba iaroh ia ki dohnud shlur kiba la aiti ia la ka jingim ha Pulwama , u PM u la ong ba ka jaitbynriew ka ieng hajan jong ki ha kane ka kynta jong ka jingsngewsih bad jingsngewsih .
-Ym baroh ki jylla ki pyndap ia ki bynta jong ki bad kine ki ai sha kiwei pat .
-Kham bunsien ka TV ka pynkynmaw ia ngi ia ki jait jingpynbyrngia bapher bapher .
-U Myntri Rangbahduh ka ri u Narendra Modi ruh u la kitbok kitrwiang ia u Gandhi da ka tweet ha kaba u la ai khublei sngi kha ia ka President ka seng Congress ka Smt Sonia Gandhi .
-Nga la sdang ban pyrkhat ba phi kham kwah ia ka jaka hapoh ka kamra phatok .
-Ka la shah thung ruh kum ka CMO bad ka RML Hospital hadien ba ka la pass na Maulana Azad Medical College .
-Lada u PM u mynjur ba ki rit paid ki im ha ka jingtieng , u dei ban tip ba ki briew kiba pyniap ia u Akhlaq ki shong ha ka shuki ba shakhmat ha ka jingialang paidbah elekshon .
-Ka jingdawa mynshwa ia u Yogi Adityanath ka dei na Chhattisgarh bad Rajasthan hynrei mynta ki jingdawa ki wan na Madhya Pradesh , Telengana bad Mizoram .
-Ka jingïakynduh kyrteng Mersal : Ka Madras HC ka la weng noh ïa ka dorkhas pyrshah ïa ka phlim jong u Vijays
-KATTO KATNE ki jingpynbna thymmai .
-Ka CSIR ka la pyntreikam ia ki lad ki lynti kiba la kwah ban kyntiew ia ka jingseng kam seng jam , kaba lah ban ialam sha ka jingpynbha ia ka jingthaw bad jingpyndonkam ia ki jingpynmih thymmai kiba radbah bad kiba pynthut , kiba kyrshan ia ka jingkiew jong ki bynta thymmai jong ka ioh ka kot .
-Ka jingeh ka la jur bha na ka bynta ka Congress ha Gujarat , u MLA ba hynriew u la iehnoh kam .
-Hato ki kyntiew ia ka jingsuk ka balang ?
+Ka jingpule ka la ithuh ia ka jingpher kaba khraw hapdeng ki thain bad ki jylla ha ka jingdon jong ki briew kiba im bad ka jingpang shini bad ka jingpang snam kaba heh .
+Haba iaroh ia ki dohnud kiba shlur kiba la aiti ia la ka jong ka jingim ha Pulwama , u PM u la ong ba ka jaitbynriew ka ieng hajan jong ki ha kane ka kynta jong ka jingsngewsih bad jingsngewsih .
+Baroh ki jylla kim pyndap ia ki bhah jong ki bad kine ki aiti sha kiwei pat .
+Kham bunsien ka TV ka pynkynmaw ia ngi ia ki jait jinglehkai bapher bapher .
+U Myntri Rangbah duh ka ri u Narendra Modi u la ai khublei ruh ia u Gandhi lyngba ka tweet jong u , ha kaba u ai khublei sngi kha ia ka President ka Congress ka Smt Sonia Gandhi .
+Nga la sdang ban pyrkhat ba phi kham sngewtynnad ia ka bynta ba shapoh jong ka cell phatok .
+La thung ruh ia ka kum ka CMO bad ka RML Hospital hadien ba ka la pass na ka Maulana Azad Medical College .
+Lada u PM u mynjur ba ki jaitbynriew rit paid ki im ha ka jingtieng , u dei ban tip ba ki briew kiba pyniap ia u Akhlaq ki shong ha ka ben ba shakhmat ha ka jingialang paidbah elekshon .
+Mynshwa ka jingdawa ia u Yogi Adityanath ka long na Chhattisgarh bad Rajasthan hynrei mynta ki jingdawa ki wan na Madhya Pradesh , Telengana bad Mizoram .
+Ka jingkynnoh ia ka kyrteng Mersal : Weng noh ka Madras HC ia ka jingujor pyrshah ia ka phlim jong u Vijays
+KATTO KATNE NA ki jingpynkylla thymmai .
+Ka CSIR ka la pyntreikam ia ki lad ki lynti ba la kwah ban kyntiew ia ka jingseng kam seng jam , kaba lah ban ialam sha ka jingpynbha bad jingpyndonkam ia ki jingpynmih thymmai kiba shyrkhei bad kiba pynthut , kaba kyrshan ia ka jingpynroi ia ki bynta ba thymmai jong ka ioh ka kot .
+Ka jingeh ka nangjur na ka bynta ka Congress ha Gujarat , u MLA ba hynriew u la iehnoh ia ka kam .
+Hato ki kyntiew ia ka jingsuk jong ka balang ?
 Lai tylli ki giraffe kiba la san kiba iaid kai ha ka jaka kaba jrong kaba don ki phlang .
 U Sucha Singh Chottepur u kyrtong jong ka Aam Aadmi Party na Gurdaspur u la leit sha ka jingïalap elekshon jong u .
-Ka sorkar ka pynleit jingmut ha ka jingpynpoi ia ki mar ki mata ha ka imlang sahlang .
-U Kejriwal u la pynbna ia ki metro , ki bus khlem jingsiew na ka bynta ki kynthei ha Delhi kum ka ' lad jingiada ' .
-" " " U la iathuh ia nga ba ka jingieit jong u baroh shi jingim ia ka art u Gaudi ka la wan na ka kmie jong u kaba la khlad noh kaba la long ruh ka nongkyrshan kaba khraw ia ki jingtrei jong u William Blake ."
-Ka don hangne ​​ngan sah .
-Kumjuh ruh U Jehobah u la pyni ba u la don ha ka jingsynshar kaba pura halor ka jinglong jingman haba u la shim khia mardor bad pynbna ia ka jingbishar halor ki nongleh pyrshah .
+Ka sorkar ka pynleit jingmut ha kaba pynpoi ia ki mar ki mata ha ka imlang sahlang .
+U Kejriwal u pynbna ia ka metro , bus khlem jingsiew ia ki kynthei ha Delhi kum ka ' lad jingiada ' .
+" " " U la iathuh ia nga ba ka jingieit jong u ha ka jingim jong u ia ka kam shna dur jong u Gaudi ka la wan na ka kmie jong u kaba la khlad noh , kaba la long ruh ka nongkyrshan kaba khraw ia ka jingtrei jong u William Blake ."
+Ka dei hangne ​​ngan sah .
+Kumjuh ruh u Jehobah u la pyni ba u la synshar pura ia ka jinglong jingman haba u la shim khia mardor bad pynbna ia ka jingbishar ia ki nongleh pyrshah .
+Nangta u Mr . bad ka Mrs . U Loftin u la ialam ia nga ban shong bad ki ha ka kper jong ki kaba shiphew mail na sor .
+Kum kane ka jingpyrkhat ka ailad ia ka khubor jong ki Baibl ban ktah ia ka dohnud jong ngi bad ka pynroi ia ka jingkmen kaba ngi shem ha kaba pule ia ka Ktien U Blei .
+Shit, peit, nga la klet, ko briew.
+U ju don ryngkat bad arngut ki paralok jong u kata u Chandra Shekhar bad u Dilip Singh .
+U Rajinder Mohan Singh Chhina uba la shah pynieng na ka bynta ka jingthep vote ha Amritsar Lok Sabha hadien ba u Capt Amarinder Singh u la iehnoh kam ia kane ka kam , u la kren ha kane ka jingialang paidbah .
+Kane ka division ka kynthup ia ka Lucknow , Hardoi , Lakhimpur Kheri , Raebareli , Sitapur , bad Unnao .
+Kine ki rukom treikam ki la pynlah ia palat 300 000 ngut ki kynthei ha ka pyrthei ban kha khun da kaba jop .
+Ka Republic ka la pynrung ruh ïa ki ophisar ba rangbah thymmai na ka bynta ka kynhun jong ka Frontier ha ka liang ka pisa tyngka bad ka khaii pateng , nalor kiwei pat ki jingkylla ha ka kynhun nongïalam ba hakhmat eh .
+Nga ai khublei ia ki nongpyniaid kiba la shim ia kane ka jingthmu .
+Wat la katta ruh ia ki rikshaw la pynitynnad bha da ki blang , syntiew da ka plastik bad jain , la shna da ki dur jong ki sim .
+Lada ngi shim ba phi kren ia ngi baroh na kane, bad, u khynnah u la pyniap shisha ia la u kpa. Hato ?
+HA ki snem 1890 ba sdang , ki kot khubor paidbah ki la thoh shaphang kawei ka jingialap kaba kyrpang kaba la ai da uwei u lyngdoh niam ha Brooklyn , New York , U . S . I .
+La thung ia u K Vijayendra Pandiyan kum u majistor ba thymmai jong ka Gorakhpur .
+Ka South Africa ka la pynliem ia ka Australia ban ioh ia ka takma ksiar .
+Baroh kine ki jingïalehkai ki dei ki mawjam ban poi sha ka thong ba kongsan jong ka Rio Olympics 2016 , ong u Sardar .
+Ka kynhun jong kiei kiei kiba la pule ha ka jingkhein ba kyrpang ka lah ban long kaba kut ne kaba khlem kut .
+Teng teng la tip ia u kum u Kapten Nair namar ka jingshakri jong u ha ka kynhun shipai India .
+Hynrei u la iai bteng ban pynbor ia ka ban shongkurim ia u .
+Ka Baibl ka ong : U briew u sngewkmen ha ka jubab ka shyntur jong u bad ka ktien ha ka por kaba biang ka long kaba bha katno !
+Jingieid . . . un ym iakynduh iano iano ruh lait na ki briew kiba u iatrei kam bad ki .
+Teng teng la ju pyndonkam ruh ia ki jhur .
+Balei ka long kumta , lah ban kylli ?
+U dei u nongialehkai uba pher bak-ly-bak ha ka kamra pynkup jain .
+Baroh ki team ki long kumjuh .
+Ka jingeh ka la jur bha ha Europe naduh ki jingshah thombor ha Paris .
+Ka la lah ban poi sha ki thong jong ka jingkynthoh .
+U Ajay u la ïoh ïa ka nam da ka jingïalehkai ba phylla jong u ha ka jingïakhun phainal jong ka Kabaddi World Cup 2016 , ha kaba ka India ka la jop ïa ka nam lahduh .
+Ka myntri rangbah duh ka Sheikh Hasina ka la ong ba yn ym ai kyrteng ia ki khun jong ki nongleh kam sniew ha ka thma .
+Nalor kata kumba 100 ngut ki shipai Pak ki la ïap ha ka jingïakynad bad ki nongïaleh laitluid ha Bahabal Dighi jong ka Biral upazila .
+" " " Ka shong ha ki lai tylli kiei kiei ."
+U Nitish Rana , u Andre Russell , u Robin Uthappa bad u Shubhman Gill ki dei baroh napdeng ki nongïalehkai .
+Ka India ka la jop ha ka sngi kaba ar
+Ha kane ka rukom , ha Mathura bad Vrindavan la rakhe ia ka jinglehkmen Holi haduh 15 sngi .
+Lada shim ba ka Euodia ka la khot katto katne ki parabangeit sha ïing jong ka ban ïabam bad ïakynduh lang .
+Wat hapdeng ka jingsngewtynnad kaba khraw na ki klob na Europe , ki jingeh ha ka jingpynrung kam shipai ki la pynlong ïa ka jingkyrmen jong u Ansarifard ban leit sha ka klob nabar ri kaba eh .
+Ki jied ruh ia la ki jong ki dkhot bad ki bishar bniah ia ka jingtreikam jong ki dkhot .
+Kiei ki jingkylla kiba ngin iohi ha ka kynhun ialehkai ka Royal Challengers Bangalore ?
+" Da kaba kyntait ba u la dawa ia ka jinglong myntri rangbah , u Sinha u la ong " " Ngam pat ju ong ia kane " .
+Ki khubor ba ki nongñiah kali ki pynpaw ïa ka jingbitar jong ki sha kiwei pat ki nongñiah kali ki nang kham paw .
+Ha kane ka phlim la pyni ia u Ranbir Kapoor bad ka Alia Bhatt kum ki nongiashim bynta nalor u Amitabh Bachchan bad u Mouni Roy ha ki bynta ba pawnam .
+Ki nongpyrkhat kiba kham mynshuwa ruh ki pynksan ia ka jingialeh kum ka jinglong ba la kha na ka jingim ha ka imlang sahlang .
+Ngi iohsngew ia kine ki kyntien man ka por hynrei ki mut aiu shisha ?
+Mynta 633 ngut ki briew bad 407 tylli ki tiar ki don ha katei ka jaka na ka bynta ban pynlait im .
+Bad ka jingbun ka lyer kumta u la nang shah pynduh .
+Baroh ki long kiba jrong pdeng .
+Ka jingkyrkhu kyrdoh jong nga na ka bynta ki jingpyrshang jong phi baroh kiba hadien !
+Ha ki jingpynwandur video ba tynrai jong ka series , la ai ia u ia ka jingpynwandur kaba kham long briew bad ka jinglong kaba kham pynsngewtynnat .
+U Rahul Gandhi u lah ban iakhun ia ka elekshon Lok Sabha na ki 3 tylli ki seat
+Hato don kano kano ka jingbam kaba ngi sngewtynnad ?
+U Maulana Azad u la don ka bynta kaba kongsan ban pynlaitluid ia ka ri India .
+U khun jong ka Reena um shym la don ha ka por ba jia katei ka jingjia .
+Ka histori jong ka dahi handi .
+Ka para jong ka Kangana Ranauts ka Rangoli Chandel dang shen ka la ther ia ka Taapsee Pannu namar ba kam shym la kdew ia ka kyrteng jong ka para jong ka haba kane ka aktress jong ka Game Over ka la iaroh ia ka trailer jong ka phlim Judgementall Hai Kya .
+Ki nongïalehkai jong kane ka phlim kaba kynthup ïa u khlur jong ka South Prabhas , ka Pooja Hegde bad ka Priyadarshi ki long shi bynta jong kane ka prokram .
+Ka jingpynkhreh ia ka aiom shongkurim .
+Ka don haduh 190 km ka jingjngai na kano kano ka nongbah jong ka jylla .
+New Delhi : Ka la don ka jingpluh ding ha kawei ka hotel ha Delhi ha ka sngi palei ha kaba ki sah mynta ki kynhun ïalehkai kriket ka Jharkhand bad u skipper barim ka India u Mahendra Singh Dhoni .
+Namar ka jingiatreilang hapdeng ki doktor khmat bad ki doktor khmat , ka jingbha jong ka jingsumar ka shong kham bun ha ka jinglah jong ki doktor shimet shimet ban ia kaba ki dei ki jait nongtrei .
+Ha ka sien kaba nyngkong ha ka jingim jong u une u khlur ïalehkai badminton na Hyderabad u la rung ha ka top 10 .
+U la ong ba katkum ka jingpynbna thymmai jong ka komishon , ki kyrtong kin hap ban ai ia ki jingtip ba bniah shaphang ki jaka jong ki shabar ri , nalor kiba don ha ka ri .
+Ki marpoh khyndew kiba don ha Kenya ki kynthup ia : u mawshun , ka dewbilat , ka umsoh , ki mawkordor , ka umphniang , ka gas , ka dewbilat , ki mrad khlaw bad ka bor ding um .
+Step 2 : Pynbeit ia ka password kaba thymmai .
+Ki nongmihkhmat jong ki paidbah ha ka Kashmir kaba synshar paidbah kin sa rai la ka jylla ka dei ban iasoh bad ka India ne ka Pakistan .
+Ki pulit ka cantonment ki la register case halor kane .
+Ngam long marwei : Priyanka Chopra .
+U President ka ri India u ai khusnam ia ki nongwan jngohkai pyrthei 2019
+Hynrei namar ba ki lain telephone ki la shah pynthut , ym shym la lah ban pdiang ia ki call .
+Ka long ka jingkylli kaba eh ban jubab ha ka por kaba lyngkot kum kane .
+Ka niam Pentekostal lane ka niam Pentekostal ba rim ka dei ka niam Khristan Protestant kaba pynksan ia ka jingshem shimet jong U Blei lyngba ka jingpynbaptis da U Mynsiem Bakhuid .
+Ki nongjngohkai pyrthei ki wan ha kane ka jaka kaba itynnad bad ki pynlut por ha ka jingkhraw .
+Ka jingkhynñiuh jumai kaba jur khyndiat ka la khie ha ki bynta ba shathie jong ka Maharashtra
+Ki trai jong katei ka iing ki don shabar ri ha ka por ba jia katei ka jingjia .
+Ki pulit ki la buh ia ki jingkhang lynti kham ha shuwa jong ka madan ban khanglad ia ki nongiakhih .
+U Myntri Rangbah duh ka ri u Narendra Modi ryngkat bad ki lanot kiba la mynsaw ha ka jaka sumar jong ka Kollam district .
+Ki lain ki long katkum ka jingiateh ba la iasoi bad ka China ha u snem 1898 .
+Ka show ka don ha ki saw tylli ki bynta .
+Kumta , phi lah ban pyndonkam da ka Jio ka sim card bad phone da ka sur lyngba ka network 4G jong ka Jios .
+Ka jingthmu kaba ar ka long ban thaw ia ki jingdon jingem kiba neh ha ka imlang sahlang , ka imlang sahlang bad ka ioh ka kot na ka bynta ka jingroi jingpar kaba neh .
+U Ranveer Singh u la ioh ia ka khusnam kum u aktor ba bha tam ha ka IIFA dang shen , nalor kiwei pat ki jingialehkai .
+Ki iew bad ka kad liengsuin ki la dap da ki mar ba la wanrah bad shalan da ka muhor jong u syiem .
+Ka Ericson ka la mudui kum kine ki mukotduma pyrshah ia ka Gionee , ka Intex bad ka Micromax .
+Ka jingjahthait , ka jingbam kaba bha bad ka jingdih kaba bun ki long kiba biang bunsien ban iarap ia u briew ban koit .
+Balei ba u heh barim ka RBI u Raghuram Rajan um lah ban don ha ka Twitter , hangne ​​ka jubab jong u .
+Shivakumar myntri ka sorkar Karnataka u myntri ka CBI hahala
+U MS Dhoni u la neh khlem shah rem ban jop ia ka jingialehkai na ka bynta ka India .
+Ka Xiaomi Redmi 4 kaba dei ka nongmihkhmat jong ka Redmi 3S bad ka Redmi 3S Prime series la pynmih paidbah ha India .
+Ka jingheh jong ka khlieh jong ka ka kham heh ban ia ka met jong ka .
+Shuh shuh dang shna 2 tylli ki tank thymmai ha ki District Perambalur bad Dindigul ha ka jinglut kaba la antad ba kan long Rs . 4, 419 lak ban pynmyntoi ia ka ayacut kaba 2, 819 ngut. 40 akar ka jaka .
+" Ki la shon saw tylli ki jingrwai : " " Ksiar Tooth Mama Blues " " " " " Death Bell Blues " " " " " Too Black Bad " " " " " " " Ka long kaba rkhiang bha " " " "
+Ka jingiathuhkhana kam pher ha ka shnong Chhatlis .
+Mynshwa la jied 20 tylli ki nongbah ha u bnai Jymmang 2016 , 13 tylli ha u bnai Naiwieng 2016 , 27 tylli ha u Naitung 2016 , 30 tylli ha u bnai Iaiong 2017 bad 9 tylli ha u bnai Jymmang 2018 .
+Katba 126 ngut ki dkhot ki kyrshan ia kane ka jingthmu , 325 ngut ki pyrshah ia ka .
+Ka Shimla ka la ioh ia ka jinghap slap kaba rekod haduh 118 . 6 mm ha kine ki 24 kynta ba la dep , kaba long kaba heh tam ha ka nongbah ha ka shisngi ha kine ki 68 snem ba la dep .
+Ha ka pisa ruh , ka dor jong ka umphniang ka la hiar sha ka T.5777 . 70 shi bbl ha ka 24 . 09 . 2012 na ka 5886 tyngka . 97 shi bbl ha ka 21 . 09 . 2012 .
+Ka ophis jong ka thain ka la kynnoh ba halor kane ka nongrim ka jingkylli ban antad ia ka jingpynlut ba la pyndap kam mih .
+Katto katne na ki nongialam kiba la iehnoh kam la khein ba ki dei kiba iajan bha bad u general secretary ka BJP u Kailash Vijayvargiya .
+Ka jingtap ka long kaba pynitynnad bad ka don ka dur kaba itynnad , katba ka nang kiew kyrdan hadien kawei pat .
+Nga kwah shisha ban iarap ia ki .
+Kita baroh ki long ki jingkyrkhu kiba kongsan .
+Lai ngut ki khynnah kynthei shah rahbor , shah thang im ha Nizamabad .
+Ka sla kaba ar ka long kaba sngewtynnad shisha .
+Kawei kaba dei ban buh ha ka jingmut haba pynsuk ia ki jingleh ba laitluid ka long ba u nonghikai u dei ban long , bha , um dei ban long uba lehkai .
+Ka kynhun B ka don ïa ka Dhaka Metropolis , Khulna Division , Barisal Division bad ka Sylhet Division .
+Khlad ia u pulit pyniaid kali ha ka trok kaba iaid stet
+U Myntri Rangbah ka Bihar u Nitish Kumar yn synran lang ia u myntri rangbah barim ka Punjab u Parkash Singh Badal bad u heh ka Shiv Sena u Uddhav Thackeray .
+Ka Kareena Kapoor bad u Saif Ali Khan ki dei ki shijur kiba pawnam bha ha Bollywood .
+Ym don kawei ruh na ki kot jong u kaba la pynmih kum ka kot .
+Kawei ka kynthei kaba la kha khlem ka kpoh ka la kha ia u khunlung ha ka jaka sumar jong ka University Baylor ha Dallas .
+Ka kynhun myntri kan rai ia kino ki jingai jingmut ban pyntreikam .
+Ka Rally jong u PM Modi ha Haryana :
+Ka hap ban tuh pisa na ka bank jong ka .
+U Guru Tegh Bahadur u dei uba hynniew na ki shiphew ngut ki Guru jong ka niam Sikh .
+Ia kine la pynkhreh da ki shyieng lactic acid bad la iada na ki katto katne ki jingpang .
+Ki file ba la buh ha khmat jong phi kim dei tang ki kot lyngkdop , ki don ia ki jingangnud jong ki briew , ki jingangnud jong uwei bad ka jingim jong uwei .
+Ka CBI ka dei ban wad bniah ia ki tduh jong ka jingbamsap ha ka sorkar Yeddyurappa
+" U la kylli " " Hato ki iohsngew ia phi haba phi khot ia ki ?"
+Ka Pakistan ka don hapoh ka jingpynbor kaba jur na ka pyrthei ban pynpra noh ia ki jingtei jong ki lehnoh ha ka khyndew jong ka .
+Baroh ngi tip ba ka jingsuk , ka jingiatylli bad ka jingiatylli ki long ki lad ban weng ia ki jingeh jong ngi bad ruh ban pynthikna ia ka jingkiew bad jingkiew jong ngi .
+2 ngut ki samla pule doktor ki sahkut ha Jaintapur quicksand , khlad noh .
+Ka long kumba 70 na ka shispah .
+La khein ia ka kum ka jingtei katkum ka ain jong ka Hessian .
+Ha kane ka sngi la ak ruh ia u Atul Kulkarni kum ka Tatya Tope bad ka Ankita Lokhande kum ka Jhalkarbai .
+Ka sorkar ka la pynduh ia ka dor jong ka umphniang ha u bnai Iaiong 2010 bad la pynkiew khatduh ia ka dor ha ka 4 tarik u Nailur jong u snem ba la dep .
+" " " Ngi khmih lynti ban wan sha India " .
+Ka Exchange ka don 241 ngut ki dkhot kiba shakri ia ki jingdonkam bapher bapher jong ki nongbei tyngka .
+Ka Australia ka la jop ia ka India kaba khlem jingtip.
+Ha ka por jong ka spah snem kaba nyngkong SK , ka niam Zoroaster ka la kylla long ka niam kaba donbor ha kane ka thain . hynrei ka thain kan iaid lyngba ar tylli kiwei pat ki jingkylla niam .
+Ka jingiakynduh lang ha skul Sarla Birla .
+" " " Nga la don bad u Ashraf , bad haba ngam lah ban pyrkhat ei ei ban ong nga shu kren ia ka jingshisha " " "
+Pynlong ia ka jingiada ha khmat jong baroh .
+U kham tbit ban ia nga .
+Lada ka jinglong jingman ka pynbor ia ki ban phet krad te ka dei ka kamram jong ngi kaba don akor ban ai ia ki ia ka jinglong nongshong shnong jong ka ri India .
+Na ka bynta jong nga , ka vada pav ka long kumjuh kum u nombar jong ki tiar ha ki phlim .
+Ha kane ka bynta , ka ain treikam jong ngi kaba dang shu thaw dang shen halor ka jingiada ia ka imlang sahlang ka la ai ia ka lynti na ka bynta ka jingiada ia ka imlang sahlang baroh kawei ia baroh 500 million ngut ki nongtrei jong ka ri .
+Ka jingleh pyrshah jong u MP ba shong jong ka Congress u S . P .
+Ka bym lah kiar ka la wan ban long .
+Ka jingmyntoi ha ka ioh ka kot bad ka sain pyrthei jong ka bor synshar phareng ka la ktah jur ia ka jingpynkylla ia ka jingbun briew hapdeng ki thain bad ka jingpynroi ia ki jaka shong jaka sah .
+Hadien kata ka la kylla long ka nongpyniaid ia ka samoi kaba hynriew jong ka lympung ialehkai India .
+Naduh kata ka por , ka jingïakynad hapdeng ki jaitbynriew ka la jur ha katei ka thaiñ .
+La kem hapdeng u Saif uba la ieid ia ka Kangana hynrei um lah ban pynsangeh ia ka jingieit kaba dang sdang jong ka bad u Shahid.
+Mynta kane ka thuk thuk ka dang iaid ha ka jingtest ia ka jinglah ban shah ban ioh ia ka certification ARAI kaba yn pyndep ha u bnai Jymmang 2018 .
+Ki Nuksa jong ka jingshlur kiba dei ban bud Kaei ka nuksa babha jong ka jingshlur kaba U Jisu u la ai bad kumno u la pynshlur ïa ki nongbud jong u ?
+Ha ka minit ba ka um ka la rkhiang , ka jingtap jong ka kettle ne ka umphniang ka la jngi . Ka jingshit ka la shah pynkylla
+U nongak phlim na Pakistan u Saba Qamar u la ak kum ka kynthei ba kongsan bad u Irrfan ha katei ka phlim .
+U briew uba harum um lah ban pynshisha ia ka jingiateh shongkurim :
+Ka kynhun myntri jong ka sorkar pdeng ba la pyniaid da u myntri rangbah duh ka ri u Shri Narendra Modi ka la ai ia ka jingmynjur ia ka MoU hapdeng ka India bad ka Guinea ha ka liang ka Renewable Energy .
+Ka la long ka jingtynjuh ia ka jinglah jong nga .
+Ha kaei baroh ar ki Khristan ba la pynsleh bad kiwei pat ki langbrot ki kut jingmut ban bat skhem ?
+Kane ka dei ruh ka snem kaba 150 jong ka jingrakhe ia u Gandhiji .
+U dei u nongshong shnong jong ka Perambra , Kozhikode .
+BALEI KA LONG KYNTA : Bun kiba matlah kim sngewtynnad ban iakren bad ki briew ki bym tip .
+U la pan jingbit na ki bor pyniaid liengsuin ban hiar .
+Ngim don hok ban leh kumta .
+Uwei u heh pulit jong ka nongbah Delhi uba la tip kyrteng kum u Ratan Lal u la shah pyniap .
+Ki Nongsakhi pat ki la pynshlur ia ki ban pyrkhat ia kaei kaba ka Ktien U Blei ka don ban ong .
+Kumjuh ruh 35 tylli ki iing ki la shah thang lut ne shah thang shi bynta .
+Ki pulit ki la ong ba ki dang ap ia ka kaiphod jong ka jingpeit bniah .
+Kum ka nuksa , kawei ka kot jong ka ri Russia ka kren shaphang ka jingsuk ha kaba ki nongleh kam sniew ki lait khlem da shah pynshitom .
+Ka jingai dawai ruh kan sdang ha ka ri shen .
+Ka kyndon kaba suk ka long kaba dei ban siew khajna ha ki tamasa pyrthei kiba lah ban pdiang ha ki tamasa pyrthei dei ban iehnoh .
+bad u shabi hangne ​​ka long ban buh ia ki baroh ar ha ka por ba kongsan jong ka kam shipai .
+10 ron ha ki ar tylli ki over ba khatduh .
+Iano phi khot iano mynstep kumne ?
+Ka BJP ka la pynieng thymmai ia u Bharatsinh Dabhi bad u Jagdish Panchal kiba dang shong MLA na ka bynta ka elekshon ha Gujarat .
+U nongpyniaid jong ka WASA u la pynskhem mardor ba ka um ka long kaba khuid shispah percent .
+Ka Bengaluru ka dei ka jaka kaba ar kaba slem tam ha ka jingstet jong ki kali ha ka ri .
+Balei ngi sngewtynnad ban leit sha ki jingialang kiba kum kine ?
+Lai ngut ki briew ki la mih ban wad ia u .
+La khmih lynti ruh ba un ïalehkai ha ka Ranji Trophy bad u physio jong ka kynhun ka India u Nitin Patel uba la ailad ïa u ban ïakhun ïa ka Gujarats ha ka jingïalehkai ban wan ha Surat .
+Hadien ka jinglaitluid jong ka Zimbabwe hadien ka thma Rhodesian Bush la pynkylla kyrteng ia kane ka skulbah sha ka University of Zimbabwe ha u snem 1980 .
+Ka Congress kam don jubab .
+Ka Technology Centre kan trei ban tei ia ki jingiateh ba lah ban shaniah ha ka suinbneng , ka bor sngi , ki buit nano bad kiwei kiwei ki buit kiba dang kiew .
+Ym don ka bor kaba lah ban pyniakhlad ne pynpra ia kane ka ri .
+Ki OMC ki pynlong ia ka jingialang jong ka LPG .
+Ha ka imlang sahlang jong ngi la shem bun ki briew kiba iaroh ia kiwei khlem daw .
+Ka jingmih baroh , pynban ka la kiew da 17 . 4 per cent sha ka 12 231 klur tyngka hapoh ka quarter kaba long 10 414 klur tyngka ha kajuh ka por jong u snem ba la dep .
+Nga ju thang ia ki sharak na ka bynta ka Sabbaton , pule ia ka Torah jong ngi bad duwai da ka jingiarap jong ka siddur , ne ka kot jingduwai .
+Ryngkat bad kane ka jingpynhiar dor , ka Amazon ka ai ka jingpynhiar dor kaba 10 percent mardor ha ki card bad ka debit jong ka HDFC Bank bad haduh T.16 hajar tyngka haba pynkylla .
+U Principal Bahadar Singh u la pule ia ka kaiphod ba man la u snem jong ka skul .
+U Lat ka New York U Andrew Cuomo u la bthah ïa u President ka jylla Donald Trump ban pynmih ïa ka hukum kaba pynlong ïa ki ban deng ïa ki mask hapdeng ka khlam coronavirus .
+Hynrei ka jingsma kaba sniew jong ki kot barim ka synshar .
+U LK Advani u ong ' Ka jingphohsniew kaba jan bad ka dohnud jong nga '.
+" " " Ngi la ia kren shaphang ka jinglaitluid ha ka niam ."
+Ka jingleit ka long kaba jrong .
+Nga dei ban kdew ba bunsien ka don kawei ka jingpyndonkam bakla ia ka PCA bad phi ju iohsngew teng teng shaphang kiwei pat kiba leh ia kane kyrmen ba ym ju leh than .
+U Salman Khurshid, myntri kam bar ri barim u la ong ba u Myntri Rangbahduh jong katei ka por u Manmohan Singh u la ong ia u paralok jong u na Pakistan u Nawaz Sharif ba ym don uwei ruh u PM ka India uba lah ban soi ia ka Kashmir .
+U Inspector Neeraj Kumar un khlieh ia ka zone number 4
+Katto katne ngut ki heh ki la leit jngoh ia katei ka jaka bad ki la khmih ia ka kam .
+Ka Kangana Ranaut ka la leh ia ka Ganga aarti.
+Hynrei kita ki arngut ki kham paw bha ha ka khmat ban ia ka tnum jong ki jingpynbna baroh kawei .
+Nyngkong eh , ka long kaba donkam ban pynmih ia ka jingmih ban bei tyngka ia ki prokram ba bun jong ngi jong ka jingpynrung lang .
+U Imran Khan u kular ban pynlong ia ka Pakistan kum ka ri Islam ha ka jingpynbna elekshon jong ki sengbhalang
+Kaei pat kaba lah ban khmih lynti na ki nongmihkhmat ba don ha ka liang shiliang ?
+" " " Lada ka sorkar kam lah ban pynthikna ia ka jingiap jong ki nongshah kynnoh ki dei ban pyniap ia ngi bad tep lang ia ngi baroh hangne ​​" " ka la bynrap . "
+Ia ka jingpynshitom la khein katkum ka 3 . 27 lak tylli ki kali Volkswagen diesel ha India kiba la buh ia ka tiar thok .
+Dang shen ka sorkar ka la bthah ia ki bank ban buh sa 10 lak tylli ki PoS terminal hapoh ka 31 tarik u Risaw ha ki bynta bapher bapher jong ka ri .
+Kiba bun ki ron ha ka samoi IPL : Lada don kiba kynmaw , ka dei ka samoi 2016 , ha kaba u Kohli u la kamai 973 ron ha ki 16 tylli ki jingialehkai na ka bynta ka kynhun .
+Ki jingjia aksiden ki lah ban jia hapoh ne shabar jong ka seng .
+Phi la iohi ia ka kmie jong nga ?
+La thmu ruh ban thaw ia ka iing dorbar bad ban soi ia ka riti synshar .
+Hynrei u nongniah jong katei ka kali u la lah ban phet krad hadien ba u la mynsaw .
+Dei ban leh ei ei ban peit ia kane .
+Dei na kane ka jingïakhih ba la kha ïa ka Indian Medical Council , ka kynhun ba hakhmat eh na ka bynta ka jinghikai doktor ha ri India . U Kumudsankar u la long u dkhot nongseng , bad ha kaba khatduh u la long u President jong ka .
+Ki jingthmu ba kongsan jong kum kine ki jingpynkylla ia ki dor Tariff ki long ban iada ia ki karkhana ha ka thain bad ban tehlakam ia ka dor jong ki mar ba kongsan .
+U myntri ka koit ka khiah ka Punjab u Balbir Sidhu u la ioh ia ka jingpang coronavirus .
+Ka jaitbynriew Bru kaba la khot ruh ki Reang ha Tripura ka don napdeng ki 21 tylli ki jaitbynriew ba la buh kyrteng ha ka ri .
+Ia ka tarik ban pynmih ia ka iPhone 12 la pynbna da ka Apple .
+U M Shaheen Iqbal u la shah thung kum u heh duh ba thymmai jong ka Navy
+Ka kamra shet kaba don ka um dih kaba lieh bad ar tylli ki sink .
+U don kali ha ka kyrteng jong u .
+Ki don bun ki riew shimet kiba hadien ba ki la thep ia ka jingpyntip khajna jong ki ki la sngewthuh ba ka don ka jingbakla ha ka phorm lane ki jingtip ba la ai kim long kiba dei .
+U PM Modi u kren shaphang u Nehru , Pakistan hynrei u sngap jar halor ka mat ba kongsan jong ka jingkyrduh kam : U Rahul Gandhi .
+Hadien u la iathuh ha la ki kmie ki kpa shaphang kane .
+Ka kaiphod jong ka CFSL ka la kam ruh ba ka la ioh ia ka DVD ha ka jinglong kaba la tyrkhong na ka kut .
+Ha ophis ka party la iohi ia u ba u dang kdup ia ki nongialam ba la rim jong ka seng Congress ka kong Sheila Dikshit bad ka kong Mohsina Kidwai .
+Peit , mynshuwa ki kpa tymmen jong nga ong .
+Peel bad ot ia u sohjew .
+Kane ka lah ban batai ia ka U . S . ka jingwad bniah kaba la pynpaw ba 41 percent na ki khynnah skul heh ki leit sha ka jingdih kyiad man la ka ar taiew .
+Ki la tyrwa ba ia uno uno u nongpynkhein dei ban bret ha ka thliew jong ki sing .
+Ka jinglong jong ka jingkylla ka long kaba kham heh ha ki jait jingthaw kiba la kham san , kiba ioh jingmyntoi na ka jingheh jong ka sla .
+Ka Hero MotoCorp ka la pynbna ia ka jingtyrwa thymmai ia ka thuk thuk Xtreme 200S ha iew India .
+Kane ka jia sawdong jong ngi .
+" " " Baroh ar tylli ki Orbiter bad Lander ki long kiba koit ba khiah , " " ong ka ISRO . "
+Ki pulit ki la iathuh ba utei u briew u la shah pynpra ha ka por ba tohkit bad u la phla ia katei ka kam runar .
+La kem 20 ngut ki briew baroh ki dei na ki shnong ba marjan bad na ka shnong Thakor .
+Ka Roerich Art Gallery kaba don ia ki dur jong u nongdro dur na Russia .
+Kane ka dei ka por kaba kongsan tam jong ka snem ban rep ia ki jingthung .
+Ka jingkhein kaba lah ban pdiang ka long hapoh 200 .
+Kim shah iano iano ban rung shapoh , la ong u nongiasaid ain ha ki nongthoh khubor .
+U nongtied fast bowling u Jhye Richardson u la shah pynthut ha ka tyrpeng kaba long ka jingshah pynjot kaba khraw ia ka Australia ha shwa ka World Cup .
+Bigg boss 14 : Rift hapdeng u Abhinav Shukla bad ka Rubina Dilaik
+La iohi ia ka jingdie ha ki kali , ki FMCG , ki bank bad ki stock bor ding .
+U John u la sei ia u shabi na ka pla jong u .
+Wat pynleit jingmut ha ka jingpang .
+U pyrkhat ba u dei u angel .
+U la ong ba la ai kam katkum ka jinglah .
+Ha u snem 2005 ka Ïing Dorbar Europe ka la ai ïa ka takma Robert Schumann .
+Ngi wad ia ka hok da kaba im ka jingim kaba khuid ha ka akor .
+U Eli u la iohi ia ki rmiang shyntur jong ka Hannah kiba khih , ia ki jingud jong ka bad ia ka jinglong ba sngewsih jong ka .
+U nongrah lama ha Beijing 2008 .
+Baroh shilynter ki rud duriaw bad ki dulir jong ka pung , kine ki shnong rit ki pdiang ia ki nongwan jngohkai kiba wanrah ia ka khubor jong ka jingsuk .
+Balei ki rabbi bad ki lyngdoh kim khang ia ki ban kren pop bad ban bam ia ka spah ba la khang ? Ka jingsniew ka long kaba ki la ju leh .
+Lada ianujor bad kiba bun kiwei pat ki bsein , ki bsein bunsien ki paw ba ki kham jem .
+Hynrei to ai ba ka jingpynshoi kan iaid beit .
+Shaniah ha ka bor U Allah .
+Ki sngewtynnad ia ka jingmut , bad ki ong : ‘ To ngin sdang ban tei . ' .
+" " " Hynrei ka Hyderabad kan dang sah kum ka nongbah ba iasoh lang jong baroh ar tylli ki jylla ha ka por kaba ym palat ia ka shi snem " " " .
+Ka sorkar pdeng ka pynmih ia ka jingpynbna ban thung biang ia u Shri U . K . U Sinha sha ka kam Chairman ka SEBI .
+Ka kashari ha ka taiew ba la dep ka la bthah ba ia katei ka khynnah dei ban eksamin da ka kynhun ba kyrpang jong ki riew shemphang bad ki doktor ha ka hospital Rajawadi .
+Ka jingpyniaid kali kaba la pynlong ia ka jingpyrshang ha ka lynti rel
+Bad u la leh ia nga kum ki jaboh .
+Nga kwah ban leh ia kaei kaei kaba thymmai bad ban nang ia kaei kaei kaba pher .
+U long uba sngewbha , uba kren beit bad uba tbit bha .
+Kata ka dei ka jingdeng kaba nga la pyndonkam ha ka phlim .
+42 , 000 klur la shim ram da ka sorkar pdeng lyngba ka jingkhang shim ram ba kyrpang .
+Ka square jong ka jingbymjukut .
+Ki khynnah skul ki kynnoh ia u nonghikai ba u kren bein
+Ill leh ia baroh kaba nga lah ban long ha khlieh duh .
+Ia ka jingmih yn sa ioh ruh lyngba ka app bad ka SMS .
+U Steve Jobs u la shah kdew shisien ba ka Apple ka la leh ia kaei kaba ka Apple ka leh bha ban pynsuk ia ki aplikeshon kiba eh , bad ban pynlong ia ki ban kham khlain ha ka jingtreikam .
+Kata ka pynmih ia ka jingkylli kaba mardor .
+Hadien kane ka dor jong ka petrol ka la hiar sha ka T.81 . 50 shi litar ha Delhi bad ka diesel sha ka Rs 72 . 95 shi litar ha ka 5 tarik u Lber .
+U la pynroi ia ki jingpyrshang jong ki ha ka jingim jong u baroh kawei .
+Ka iing syiem jong ka Westminster ka kynthup ruh ia ki iing sah jong ka sorkar na ka bynta ki ophisar ba pyniaid ia ki ar tylli ki iing dorbar .
+Uwei u la khlad , 16 ngut ki la mynsaw ha ka jingjia aksiden .
+U Assange u kyntait ia ki jingkynnoh bad u ong ba ki dei kiba don jingthmu ha ka sain pyrthei .
+Ban pyntip bad ai mynsiem ia ki Hindu ha kylleng ka pyrthei bad ia ki briew kiba sngewtynnad ia ka niam Hindu . 3 .
+Kan iarap ia ngi ha kiba bun ki liang .
+Ia kane ka iingmane la tei da ki Templar , ka kynhun shipai jong ka Priory .
+" " " Kynduh ia ka surok Wall : Kaei kaba ki Kam ki donkam ban tip " " . "
+Ka app phah khubor ba pawnam ka WhatsApp ka la pynmih shi bynta ïa ka User Interface ba thymmai na ka bynta ki apps web ne desktop ha ka jingpynkylla beta ba thymmai jong ka na ka bynta ka Android 2 21 1 3 .
+Ha ka jinglyngngoh jong ka ka la lap ia ka pla kaba dap da ki pisa ksiar bad ki mawkordor ba la buhrieh hapoh kata ka thliew !
+La kem arngut namar ba ki leh beijot ia ki samla pule kynthei
+Ka nongialam liangpyrshah ka Mahinda Rajapakse ka la pynbna ba ka por ka la dei ia ka President Kumaratunga ban pyndonkam ia ka bor synshar jong ka ban thaw ia ka sorkar kaba thymmai .
+Ka dor jong ka umphniang ka la kiew ha ka sngi kaba 14 : Peit ia ki dor
+Ki kyrtong kiba thep kyrteng hynrei kim donkam ban ïakhun
+" " " Ha ka jingsiew kylliang, kaei ka jingmyntoi jong ki briew jong ka ri ? " " "
+Kata ka mut ban tip kham bniah shaphang U Nongthaw bad ban iajan bad u .
+Ka la iakhun ha ka sien kaba nyngkong ha ka elekshon .
+Ka la bynrap ba ka la hap ha surok namar ba ka trok ruh ka la tynrah ia ka .
+Snap ia ka mobile phone bad internet ha ka sngi republic day ha ka jylla Kashmir .
+Ka German kan long kumno khlem ki koma ?
+Ka kynhun pynlip ding kaba pynlong ia ki kam pynlait im .
+Ka jingialehkai IPL 2019 DC pyrshah ia ka RCB : Ka Delhi Capitals ka la jop ia ka jingiakynting pisa , ka Royal Challengers Bangalore kan ioh ban bol nyngkong . hangne ​​ki don ki XI kiba ialehkai
+Katba u Stokes u la panmap halor kane na u rangïalehkai ka New Zealand u Kane Williamson .
+Ha kaba kut sepngi jong ka lynti iaid shathie ka don ka jingkhang kaba don ka khlieh kaba jrong .
+Ngi hap ban pyniasoh lang ia baroh .
+U Dhanush M . U Kumar u dei u riew saiñpyrthei jong ka ri India bad u dkhot jong ka Lok Sabha kaba 17 , uba mihkhmat ïa ka Tenkasi konstitwensi jong ka Tamil Nadu .
+U la ong ba ka kriket ka dei ka jingialehkai kaba ki nong India ki sngewtynnad bha .
+Kaei ka jingkren India wat la katta ruh ?
+U khniang jingpang u dei u nongshun bym lah ban iohi uba lah ban pynjot ia u briew , ia ka iing ka sem , ia ka imlang sahlang .
+Ka Guatemala ka dei kawei na ki ri kaba pynmih bun eh ia u kophi ha Latin America .
+Ki doktor ha Mallya Hospital ha kaba u Justice Shetty u shah sumar ki la pynpaw ba u lait na ka jingma .
+Ka jingrwai ba nyngkong na kane ka phlim ‘ Samajavaragamana’ ka la kylla long ka jingrwai Telugu kaba kham sngewtynnad ha YouTube .
+Kham hadien nga la leit sha ki jingïaseng baroh jong ki Nongsakhi U Jehobah .
+U la shna ruh ia ki jingtep jong ki kmie ki kpa jong u u Sadat Ali Khan bad u Mushir Zadi Begum .
+U Mukund Parikh u dei u nongthoh kot , myllung bad nongthoh drama na Gujarat India .
+Kumno kata ka la ktah ia ka jingim thoh jong phi ?
+Ka jingthmu jong ngi kan long ban shim ia kawei ka jingialehkai ha ka shisien ialehkai .
+Ka INS Kiltan ka dei ka lieng thma kaba nyngkong eh kaba la shna pura da ki tiar ba la shna da ki tiar .
+Ka jingpynkylla jong ki enzyme kiba pynlong ia ki molecule jong ka umphniang kum shi bynta jong ka jingpynhiar mynsiem jong ki cell .
+Dei Uba pynlong ia phi ha ki kpoh katba U mon . Ym don blei lait noh tang ma U , Uba la pynkhraw ha ka bor , Uba stad .
+Ka dor jong ka rupa ruh ka la bud bad ka la kiew da T.65 shi kilo .
+Ka long kaba donkam ia ki arngut ban pynrung kyrteng ia ka jingshongkha jong ki katkum ka ain shongkurim jong ki Hindu , 1955 , lane katkum ka ain shongkurim kyrpang , 1954 .
+Ka dorkhas ka pan ban weng noh ia ka jinglong dkhot jong ki 6 ngut ki MLA ka BSP na ka iing dorbar thawain ka jylla .
+Shuwa kata ki nongialehkai ki dei ki nongialehkai kiba dang shaniah ha ka kamai na kiwei pat ki kam bad ki ialehkai kriket ha ka por ba ki lait .
+Lada ka Swaraj la ioh da ki Satyagrahi , ka Shrestha Bharat kan ioh da ki Swachhagrahi , la ong u Myntri Rangbah duh ka ri .
+Hynrei ka la ong ba kam phet na ka ain bad ka dang pyrshang ban wan sha ka jingmut ba u Ram Rahim u la shah rai pynrem .
+" Ki la iathuh : " " Ha ka balang jong ngi , ki don tang khyndiat ngut ki samla kiba la jan dap rta ban iakynduh bad ka khun jong ngi ka Jane ."
+U Jones um shym la shah pynngat ha ki kyndon aiñ namar ba u la ïatreilang bad u nongïasaid aiñ jong ka distrik , bad u la ai sakhi pyrshah ïa u Patrick .
+Nga la pule ia kawei ka jingthoh kaba itynnad bha kaba kyrteng Ki Kynthei Ki La Ioh Ia Ka Bynta Kaba Khraw .
+Ka Dum Dum ka dei ka steshon jong ka Kolkata Metro .
+Ia kane ka jingleit jingwan la pynlong man ka sngi ha ka por 7 baje janmiet .
+Kitei ki briew kiba iap ki la jia ha Ernakulam , Kannur , Palakkad bad Wayanad .
+Mynta baroh kiba pang corona ha ka ri ki long lai lak 31 hajar 146 ngut .
+Ka bynta jong ka jingma jong ka test kan long kaba kongsan ha ka jinglong jong ka jingheh jong ka jingpynmih kot .
+Ka la don ka jingkiew dor na Delhi sha Mumbai , Bengaluru , Hyderabad , Kolkata , Chennai bad kiwei kiwei ki jaka .
+Bad hato kam shym la long ka dak ha ki ba la ithuh ia ka da ki riewstad jong ki Khun Israel ?
+Ka India , u la ong , ka kular ban iatreilang bad uno uno uba bud ia kane ka lynti , ha kaba ialeh pyrshah ia ka jingduk , ka jingbymnang thoh nang tar bad ka jingpang .
+Pyndonkam ia ka jingpynhiar mynsiem da kaba pyndonkam ia ka umphniang pynhiar mynsiem . kane kan iarap ban pynbha ia ka jingtuid ka snam .
+Bad ka la don ka jingkyrhuh kaba khraw ruh .
+Kaei ka jingleh kaba ngi dei ban leh ban shah buhrieh ha ka sngi ka jingbitar U Jehobah ?
+Ym dei ban wad ia ki jingtip ba bniah .
+U briew u lah bad un long uba jop ryngkat ne khlem ka jingpule kaba pura lada u don ia ki 5 C : ka jingaiti ha ka jinglong ka jingsngewskhem ka jinglong shlur 5 .
+" " " Nga kwah ban leh ia kaei kaei kaba kham bun ."
+Namar kine ki jingsawa kiba heh , bad da kaba buh code ia ki pulse jong ka jingshai , lah ban pyndap ia ki jingstad kiba khraw ha ki rong jong ka jingshai kiba iaid shapoh ki shniuh kiba rit .
+Da kaba ithuh ia ki lad ban wad ia ki bynta ba thymmai jong ka jingiatreilang hapdeng ki ar tylli ki ri paralok , u nongmihkhmat jong ka Bangladesh u la pynpaw ia ka jingthmu jong u ban trei ban pynskhem shuh shuh ia ka jingiadei ha ka jingjylliew bad ka jingheh .
+Ki pulit ki la phah 1,500 ngut ki ophisar bad 300 ngut ki shipai ha kylleng ka Bogota .
+Ym don jingartatien ba ki briew jong ka ri Afghanistan ki la mad jingeh la slem bah .
+Haba kren ha kane ka sngi , u Mahesh Babu u la kren shaphang ki 24 tylli ki phlim ba khatduh jong u katba u dang kdew ia ki kyrteng jong ki nongpyniaid .
+Ha u snem ba la dep nga la ioh ruh ia ka lad ban leit jngoh ia ka ri India .
+Kam dei kaei kaei kaba suk bha .
+Lada ka jingpyndonkam ia kane ka map ka mut ban pyndem ia ka jingshaniah jong phi kata ka long kaei kaei kaba ngam lah ban leh .
+U bnai December bad Jymmang ki dei ki bnai kiba khriat tam , ha kaba ka jingshit jingkhriat ka hiar haduh katta katta ha ki katto katne ki jaka .
+Ki jingkieng kiba bun ki don sawdong ka pdeng jong ka sor kaba don histori .
+Ki jingthung bad ki symbai ba pura : Ki symbai flax , ki symbai chia , ki symbai sngi , ki symbai sohjew bad kiwei kiwei .
+Ka jingpyndonkam biang ia ka umphniang ban shet ia ki jingbam ka pynbun ia ki trans fats , ka wanrah ia ki jingpang dohnud .
+Mynta ka sngi u Myntri Rangbahduh ka ri u la pyniaid ia ka jingialang bishar bniah lyngba ka Video Conferencing halor ki kam pynroi bapher bapher kiba la leh ha Varanasi .
+Nalor ki phlim Malayalam , ka Lissy ka la paw ruh ha ki katto katne ki phlim Tamil , bad Telugu .
+Ka dei kata ka por jong ka sngi !
+Ka thup jong ki ri katkum ka jingnang jingstad
+Ka jingthiah ha ka lyer kaba lait .
+Katba u Manoj Bajpayee un paw kum u Srikant , yn iohi ba ka Priyamani kan leh ia ka kam jong ka tnga jong u ka Suchitra .
+Ka kali ka la tynrah ia u dieng , u nongniah u la mynsaw .
+U la ioh ruh ia ka jingpang stroke .
+Nga sngewkmen ban long u nongjop .
+" Ka jingthoh na ka por ba nyngkong ba pdeng ka ong, " " Baroh ka ri Ijipt ba shalor ka la iap thngan bad ki briew ki la bam ia la ki khun." " "
+Ha ka jingshisha la khang ia ka ha Saudi Arabia namar ba ka long kaba shngain palat .
+Ka kamra bam kaba khuid bad kaba la pynbeit bha kaba la pynitynnad da ka rong lieh , saw bad saw .
+' Wat la ki jingmut jong u kim ju sahkut bad ki nang kiew man ka por , hynrei ka nongrim ba shapoh ka dang sah kumjuh .
+U la ong ba la ai jingmut ia ka Khaleda Zia ba kan leit shah sumar ha CMH .
+Ka jingtei ka la sdang ha u bnai Jymmang 2016 ha ka Gwadar Special Economic Zone kaba dang shna ha ka jaka kaba heh 2, 292 akar kaba don marjan bad ka kad lieng jong ka Gwadar .
+Katba u Myntri Rangbah ka jylla u Akhilesh Yadav u la aiti ia la ka jong ka thup jong ki 403 ngut ki kyrtong , u kpa jong u bad u president jong ka SP ka jylla u Shivpal Yadav u la dep ban pynbna ia ki kyrteng jong ki 175 ngut ki kyrtong .
+Hapoh ka prokram Pragati , u Myntri Rangbahduh ka ri u Narendra Modi un bishar bniah ia ka projek smart City .
+Ym don ba rung ha iing jong ngi .
+Kan iarap ban pynroi ia ka mariang ka ban pynmih shuh shuh ia ki jingbei tyngka bad ki kam ha ka jylla .
+Ka kynhun synrop jong ka liang ka diang jong u Berlusconi ka la lamkhmat da ka jingïapher kaba khraw ha ki jingkynthoh .
+Ka long kaba kongsan ban pynïahap ïa kata .
+Kumta kumno phin leh ia ka ?
+U la plie ia ki kam Iqbalpur Canal ki ban shakri ia ki jaka rep kiba heh haduh 33 000 hectare .
+La byrngem ha ki pulit , ka khynnah kynthei kaba dang rit ka la pyrshang ban pyniap ialade .
+Ka iingbishar ba ha khlieh duh ka la hukum ba ki kyrtong ki dei ban aiti ia ki affidavit jong ki .
+Robert Katende , nga dei ka kmie jong phi .
+Kane ka dei ka Syiem Akademi jong ka Saians !
+Ki nongthied ba kongsan ki kynthup ïa ka Vodafone India bad ka Uninor .
+Haba kren shaphang ka rai jong ka Ayodhya , u heh ka MNS u Raj Thackeray ha ka sngi saitjain u la ong ba u sngewkmen mynta ka sngi .
+Ka eksamin klas 12 mynta kan long ha kaba kut jong u bnai Naitung bad ia ka eksamin klas 10 ha u bnai Rymphang la ong mynta ka sngi ka myntri ka tnad pule skul ka jylla ka Varsha Gaikwad .
+La lap ia ka met iap jong ki shipai kiba la jah , la thang ia ki ha ka shnong trai .
+U la trei na iing ha kine ki khyndiat sngi ban wan .
+Khublei shibun , Im Ajay Devgn bad Id kwah ban pynpaw ia ka jingsngewnguh kaba khraw ia phi na ka bynta ka jingieid kaba phi la ai ia u Tanhaji .
+Ka ialeh pyrshah ia ka mat kaba ngi iakynduh man la ka sngi .
+" Kane ka sentens ka dei ka " " kaei " " kaba jia ."
+Ka sorkar pdeng ka la buh ia ka jingkitkhlieh ban pynhiar ia ka khajna ha ki jingkhang jong ki jylla .
+Kane ka skhim kan hikai ia ki spah ngut ki nongtrei nongkyndong na ka bynta ban pyntreikam bad maramot ia ki unit Swajal .
+Ka Left Unity ka la kamai bha ha ki skul ruh , da kaba jop 14 na ki 15 tylli ki jaka ha ki skul heh tam jong ka JNU ki Skul jong ka Imlang Sahlang , ki Samla Pule nabar ri bad ki Ktien .
+Hynrei um shym la ioh ia ka jingjop kaba khraw .
+U Ishant Sharma um shym la lah ban bol bha hynrei kumba la ju jia ia u , u la kut khlem wicket da kaba ai tang lai over ha ka pali kaba ar .
+Hooid , ka la trei lut ia ka .
+Baroh kiba tip ia u ki tip ia ka jingstad kaba jylliew jong u , ka jingkynmaw kaba phylla bad ka jinglah jong u ban trei shitom kaba neh .
+Ka IR ka la ai kontrak kumba 500 MW na ka RGPPL na ka bynta ban pyndonkam ha ki jylla jong ka Maharashtra , Gujarat , M . P . , bad ka Jharkhand na ka bynta ban pynbiang ia ka jingdonkam bor ding ilektrik jong ka .
+U nongaiktien jong ka White House ba thymmai u Sean Spicer u la ong ba ka US kan khanglad ia ka China ban shim ia ki jaka ha ki um jong ka pyrthei ha South China Sea .
+U Shah u kylla long uba sngewkmen haba u rwai ia ka jingieit : ngam lah ban rwai palat ia ka jingiaroh ia ka jingieit . Nga spel bad pule ia ka kyntien hi da ka jingsngewtynnat kaba khraw .
+U President u la kren ha ka jingialang ba nyngkong jong ka OIC halor ka science bad technology ha iing syiem jong ka jinglaitluid ha Astana , Kazakhstan .
+U la shah pyllait ha ka iingbishar haduh mynta .
+Ki lai ne san sngi ba nyngkong jong ka jingmih snam hadien ba la kha khun kaba paw rong saw bha bad kaba don shibun ki snam rong saw .
+" Ar tylli ki tnum shet jingshet ki la bthei ."
+Nga trei shitom bha , ka la ong .
+U Neil Nitin Mukesh bad u Rukmini Sahay
+Telangana : 9 tylli ki met iap la lap hapoh ka kynroh ha Warangal bad ki pulit ki lap ia ka jingmaïan ha lyndet jong ka .
+Ka Brazil kam pat ju jop ia ka ksiar ha kane ka jingialehkai Olympic .
+File Photo : U Ashok Gehlot , u Rahul Gandhi bad u Sachin Pilot .
+Ha ka elekshon 2014 u Chavan u la pynliem ia u DB Patil jong ka BJP da ka jingjop kaba rit kaba long 80 hajar vote bad donkam ban up ante ban bat ia ka shuki .
+Ngi dang tohkit ia kane ka kam ban lap ia ka daw jong kane ka jingjia .
+Ki nongialam jong ki Trade Union ha kaba sdang ki la pynbna ba kin wan ban iakren lada tang ki sorkar jylla ki pynbna ban pyniasoh ia ka RTC bad ka sorkar .
+Hynrei ka um kaba bun ha ka pyrthei jong ngi ka don ha ki duriaw jong ngi , bad ka um duriaw ka don ka jinglong mluh kaba palat ia ka lai percent .
+Pyntreikam ia ka plan ba kongsan jong ki nongjngohkai pyrthei ba la pynkhreh da ka sorkar India na ka bynta ban kyntiew ia ka kam jngohkai pyrthei kaba neh .
+" Ha ka por 10 : 30baje mynstep , la don shibun ki briew lypa , bad bun na ki ki la bat ia ki jingthoh " " Ngi ieit ia u Su " " .
+Ka la ioh ia ki khusnam jong ka ri na ka bynta saw ngut na ki .
+U briew hi um sngewthuh .
+U Rattandeep Singh u dei uba la thwet halor ki katto katne ki kam lehnoh ha Punjab , Haryana bad Chandigarh .
+Hynrei ha ka jingïaid lynti , da ki klur ngut ki Kree ki la shah pynïap .
+La iohi saw tylli ki jingdeng ryndang ha ka blei .
+Ha ka snem 1600 S.K , ka ri Grik Mycenae ka la nangroi bad hiar thma ia ki jingsah jong ka riti dustur Minoan .
+Ka litter ka lah ban long ki tiar kiba la pynphriang sawdong .
+Ka jingkhie jumai ka la jia ha ka por 5 . 02am ha ka jingjylliew kaba 5 kilomitar .
+Kaei kaba phi ong ka long ba kane ka dei ka pyrthei jong nga . . . bad ha ka pyrthei jong nga phi dei ban shah jakhlia .
+Ka kmie jong ki ka la plie ia ka jaka shet jingshet , bad ki khynnah kynthei ki la iarap ban die ia u sohjew bad u sohjew sha ki nongwan jngohkai jong ka jaka peitkai kaba rim kaba don hajan jong ka .
+Ngam don kyntien ban ong
+Ka jinglah ban don ka jingpynmih snam ka dei hok ban pyrkhat namar ka balang ka donkam ban kiar na ka jingkitkhlieh jong ka imlang sahlang na ka bynta ka jingpynmih snam .
+Ka dei ka jingtlot .
+Ka jingkynthoh ba nyngkong jong ka Baghdad ka long ban pynsangeh noh ïa ki liengsuiñ shabar ri sha Kurdistan , hynrei kane ka long ha ka jinglong jong ki jingïalehkai ba sdang ha ka jingïalehkai kaba jrong .
+Ym tang katta , ka India ka bud ruh ia ki rukom wadbniah bad ki rukom wadbniah ba mynta ban pynlong ia ki jingwadbniah kiba lah ban shaniah bad kiba lah ban pynmih biang , u la bynrap .
+U myntri bar ri jong ka Pakistan u Mehmood Qureshi u la ong ba ka ri jong u ka don lut ia ki sakhi sabut pyrshah ia u ophisar barim jong ka shipai duriaw ka India u Kulbhushan Jadhav .
+Ha ka jaka trei , phin sa pynmih ia ka jingsngewtynnat kaba kyrpang ia ka kam jong phi .
+" " " Ka iingbishar ba ha khlieh duh jong ka Madras kaba weng ia ka jingujor pyrshah ia ka jingpynrung kam beit da ki PSU ka lah ban long ka daw , " " " " u la ong . " " "
+Kane ka rai ka la mih halor ka dorkhas ba la mudui da kawei ka longkmie na Bangalore .
+Kata , pynban , kam long kaba shisha ia baroh .
+Na ka jingpeit jong ngi , kiei ki jingjia kiba iadei bad ka Hima kiba ngi iohi ?
+U lah ban pynlong ia kaba bha tam na baroh ar ki pyrthei .
+Nga sngewtynnad shibun ia ki kam ba la leh da ka Sorkar Jylla , u la pynkut .
+Ka jylla Rajasthan bad Andhra Pradesh ki don ia ka jingbuh jingkynshew kaba mar katjuh kumba long ha u snem ba la dep na ka bynta kajuh ka por .
+Kito kiba kwah ban weng ia kane ka jingeh ha ka imlang sahlang nga kyrpad ia ki ba kin iehnoh ia ka politik kaba pyniakhlad ia ka imlang sahlang .
+Ka jingpynmih dud jong ka jylla ka la kiew bha .
+Dei ban khang ia ka jingialap elekshon jong u Adityanath ha Delhi ong u Sanjay Singh .
+Ka kompeni ka dei kaba nyngkong eh ban tuklar ia ka jingsynshar shimet jong ki kompeni khaii jong ka ri Bilat ha rud duriaw Malabar da kaba shalan beit ia ki umphniang ba kongsan .
+U nongthoh jong kane ka thma kaba dang iaid u bynrap ba ki roket ruh ki dang shah pynher na Gaza sha ka thain Israel ba shathie kum ka jingmaham ia ka jingwan jngoh jong u Bush : .
+Ka Russian Grand Prix : Jop u Lewis Hamilton ban pynjlan ia ka jingjop ha ka jingiakhun ia ka nam lahduh
+Lyngba ka rta pdeng , ka jingpang sniehdoh ka kham bun ha ki shynrang haba ianujor bad ki kynthei .
+" " " Don kiba ong ba ki samla kim don jingshaniah hynrei ka jingngeit jong nga ka long ba ki samla kim don por ban pynsyrwa kai . "
+Ka jingkhang ba shadien jong ka jaka mane blei ka don ka jingdro jong u Mahesamurti .
+Ka lynti phet rieh jong u Pope !
+Hynrei ka sorkar kano kano ka sorkar ka dei ban shah tuklar bad shah kylli jingkylli . ka jingkitkhlieh ia ki paidbah ka dei ka nongrim ba kongsan jong ka synshar paidbah kaba ka BJP ka shu ioh .
+Ia katei ka mukotduma la mudui ha ka iingbishar jong ka sorkar pdeng ha Arizona , bad la buh kyrteng ruh ia u Michael Donnelly kum u nongshah mudui .
+Ka agency kaba iadei bad ka jingdie bad jingthied ia ki mar ki mata .
+Ka dur jong ka longkmie ba nyngkong ka Savita Kovind kaba shna ia ki mask na ka bynta ki jaka ri khunswet ha Delhi ka la pawnam bha .
+Ka jingkiew dor kaba jia namar ki katto katne ki daw kiba kyrpang
+Lada kata ka dei ka jingthmu , ngi dei ban sngewnguh ba ki la jied ia ka lynti kaba beit jong ka jingpynpaw paidbah kaba plie ha ka jaka jong ka lynti kaba khlem akor jong ki khana ba la thung bad ki shithi ba la bthei .
+U Apurva Chandra Secretary ka tnad Labour and Employment u la iaroh ia ka jingtrei shitom kaba long ka nuksa jong ki ophisar bad ki nongkitkam jong baroh lai tylli ki seng .
+Ka kynhun pyrshah lehnoh kan trei ha ka jingiatreilang bad ka NIA , ka kynhun pahara ha ka kompiwtor bad ki kynhun tehlakam ia ki dawai pynbuaid .
+Ka long ka jingshisha kaba la tip ba u Shah Rukh Khan u la sdang ia ka kam jong u na ka telebishon .
+Ka jingmih jong u Vijay Mallya : U Manmohan Singh, u P . Kyntait u Chidambaram ia ki jingkynnoh jong ka BJP
+Katkum ka jingong u Erikson , hadien ba la seng ia ka jinglong shimet ha ka por samla , ki samla rangbah ki wad ban thaw ia ka jingiadei kaba jur bha , kaba ju long ka jingiadei kaba sngewtynnad bad kiwei pat ki briew .
+Peit ia ki jingthoh kiba bud .
+Ban long ki nongkyrshan , sngap da ka jingsngewrit .
+U nongiasaid ain ba shah mudui u la kynthoh ba ki jingshah kynnoh hapoh ka IPC 420 , 406 bad 409 kin nym don pyrshah ia u Kamaruddin .
+Ki jingthmu ban leit shabar jong ka Tamil Virtual Academy
+Ka India ka la ju trei na ka bynta ka jingbha jong ka pyrthei .
+Ha kaba sdang ka Calcutta University ka la shah ia ka kolej ban pyniaid tang ia ka klas IA .
+U Brij Behari Prasad uba la ju spel Brij Bihari Prasad u la long u myntri ha ka Sorkar Bihar India .
+Kumba long bad ka jingshah thombor ha ka jingïalehkai kaba jem , ka Alice ka lah ban pynduna ïa ka jingma jong ka jingshah thombor ha ka Finney da kaba ap ïa ka jingsiew ban rung ha ka blockchain .
+" " " La pynkup burom ia u Gupta na ka bynta ka jingjop jong u ha ka jingim jong u " " . "
+Hynrei ka bor synshar kam shym la shim khia ei ei .
+Katto katne ngut ki kynthei ki la ioh ia ki jingbyrngem pyniap bad leh beijot ha ka Twitter .
+La buh ia ka jaka bret jaboh ha pdeng .
+Ka phlim jong ka ri Asia Sepngi teng teng la khein kum ka bynta jong ka phlim jong ka ri Mihngi Pdeng , ryngkat bad ka phlim jong ka ri Ijipt .
+Ka URI ba leit shano ban buh ia ka file .
+Nga la pyrkhat ba kane ka dei tang ka jingsngewtynnad kaba iaid lynti .
+Ka jinghikai phareng ryngkat bad ka jingbatai tamil kaba pura
+Ka iaid kham bun .
+U Mr . U Mallikarjun Kharge u dei u chairman jong ka PAC bad u ong ba ym shym la ai kum kata ka kaiphod ha kaba ïadei bad ka jingbuh dor ong u Rahul Gandhi .
+Ki dawai pyniap khniang ki ju khleh lang bad ka jingbam jong ki mrad ba la ri na ka bynta ka jingbam ban pynsted ia ka jingroi jong ki .
+Ki pulit jong ka sor ki la kem ia 18 ngut ki nongdie kyiad bad ki la kurup 408 tylli ki bilor na ki .
+Ki klob ialehkai bapher bapher ki pyndonkam ia kane ka green na ka bynta ki jingialang pyntbit .
+bad ka jingsam ia ki jingdon jingem jong ki bad ki nongpan jingkyrkhu bad kiba shah pynduh .
+Kum kine ki kam bym don jingmut jong ka jingpyntieng bad jingleh donbor dei ban iakynduh da ka jingkut jingmut bad ka jingtreilang .
+" " "Nga tharai saw tylli ki jingjop , lai tylli ki jingshah rem , phi tip , ka long ka jingmih kaba bha shibun " .
+U Tyndareus u la don uwei u hynmen uba kyrteng u Hippocoon uba la shim ia ka bor bad u la beh shnong ia u Tyndareos .
+Ka sorkar jylla ka la thaw ia ka SIT ban tohkit ia ki kam pynkulmar .
+U Opechancanough um shym la sngewtynnad ban pyrshang ban ia im suk im sain bad ki nongwan buhai shnong jong ki phareng .
+U Adi Shankara u la iakynduh ia u guru jong u u Govinda Bhagavatpada ha ki rud jong ka wah Narmada .
+Ka jingpang ha ka kpoh .
+Katba ka sorkar ka ong ba ka jingpynduh pisa kan iarap ha ka por kaba jngai hynrei ki don ki jingujor halor ka jingpyntreikam ia ka .
+Ngi la rai ban pynlong ia ka jingialang jong ka imlang sahlang .
+Ka jingiap na ka jingkhie jumai kaba jur bha kaba la pynkhih ia ki dewlynnong Maluku ba jngai jong ka Indonesia ka la kiew sha ka 30 ngut mynta ka sngi .
+Ki jingkylla da ki Rel India .
+Ka double strike jong u Rupinder ka pynlong ia ka Delhi ban jop .
+Ka Africa ka la long ka mat ba kongsan tam jong ka polisi bar ri jong ka India , la ong ka kyrwoh .
+U dei u nongthoh khubor , em ?
+Kawei ka daw ka long ka jingpyrkhat ia ka 1 Khronikl 29 : 17 , kaba khot ia U Blei Jehobah u nongpeit bniah ia ka dohnud .
+U Myntri Railway u ai Khublei ia u nongialehkai kriket ba pawnam u Sachin Tendulkar bad ia u stad saian ba pawnam u Prof . C . N . R . Rao na ka bynta ka khusnam Bharat Ratna .
+Ki kmie ki kpa jong nga ki la ïarap ïa nga ban ïohi ba U Jehobah u don bynta ha kiei kiei baroh kiba ngi leh bad kren .
+Ka kam kaba khraw da ki rang ban jop ia kata ka jingialehkai kaba tight hynnin ka miet .
+La thied ia u da ka Royal Challengers Bangalore ha ka dor T.10 klur .
+Haba nga dang rit , kata ka dei ka kam kaba nga thrang .
+" Bun na ki para lyngdoh jong u ki la shim ia u ha ka kam namar ba u pyrkhat shaphang U Blei " " kum ka bym palat ia ka jingthew jong ka jingjylliew ha ka jingshem jong u briew ." " "
+Ka iarap ruh ban pynduh ia ka tan .
+" Ha ka por ba pyniap mrad dei ban pule ia ka kyrteng U Allah , da kaba ong " " Bismillah " " khnang ban shim ia ka jingim jong u mrad ban pyndap ia ka jingdonkam kaba dei katkum ka ain jong ka jingbam . "
+U Enokh u la paw ha ka jingma kaba khraw haba U Blei u la shim ia u .
+Ha kawei ka por la pyrkhat ba ka jingpynhiar mynsiem ia ki bniat shwa ban kha ia u khunlung kan iarap ban pynkhlain ia ki bad kumta kan lait na ka jingpang bniat kaba lah ban mih .
+U Hardik un sa sdang noh shen ia ka jingpynbha ia u .
+Katto katne ki model ki buh geotag ia ki dur jong ki .
+U Shahid u la ong, Wat ju kynran dien paralok.
+U Neil Wagner u dei u nongtied bol ba kongsan jong ka kynhun nongwan bad u la khur phra tylli ki wiket .
+Ka kompeni ka la pynshai ia ka jinglong jingman .
+Baroh ki jingpyniap briew la leh da ki tiar kiba jem .
+Ngin sa nang kiew stet ban ia ka kam karkhana , u la bynrap .
+Ka jingsngew jong phi ia lade ka kham kordor ban ia ka jingmut jong kiwei shaphang jong phi .
+" " " Ka tnad rep jong ka jylla Madhya Pradesh ka la shim ruh ia ki kam ban tehlakam ha ki 5 tylli ki jaka kiba don kawei kawei ha ki distrik jong ka Satna , Balaghat , Niwari , Raisen bad Shivpuri .
+" U nongthoh khubor kriket u Colin Bateman u la ai jingmut, " " Ki nongjied kim ju shaniah shisha ia u Pat Pocock , wat la u long uwei na ki nongialehkai spin ba shisha tam jong ka pateng jong u ."
+Ka jingpynbiang ka la shim ia ka jinghiar .
+Ka mala kaba shalor ka kynthup ia ka jingtei ba kongsan jong ka mosque bad ka jingtei kaba heh shaphang shathie jong ka mosque , hynrei kaba hadien kam don shuh .
+Ka bynta kaba nyngkong bad kaba ar .
+Ki leh aiu na ka bynta jong ngi ?
+Hato um don hok ban leh kumta ?
+Kumta na ka bynta ki Khristan mynta , katno ki long kiba iadei ki ktien u Moses , kumba la pynkylla biang da u Paul : Ngan ym iehnoh ia phi da lei lei ruh em bad ngan ym iehnoh ia phi da lei lei ruh em !
+Ym don jingthmu ne jingthmu na ka bynta ka jingroi jong ka India .
+Ha ka elekshon Lok Sabha kaba dang shu kut dang shen ha kaba ka la mad ïa ka jingshah rem kaba shyrkhei , ka Congress kam shym la iehnoh ïa u mawsiang ban pynsngewbha ïa ki jaitbynriew rit paid .
+Ki karkhana ba pawnam Ka karkhana shna sniehdoh , ka karkhana welding .
+La pynmih ia ka da ka kompeni pynmih phlim jong u Amitabh Bachchan Corporation .
+Hynrei u jawan um lah ban pynim .
+Namar kine ki daw la ioh ia ka jingmih kaba kham duna .
+Kane ka ktien kam long kaba lah ban pdiang .
+Ka Haryana kan thep vote ha ka bynta kaba hynriew jong ka elekshon paidbah ha ka 12 tarik u Naitung . Yn niew ia ki vote ha ka 23 tarik u Naitung .
+Ka jingleit jngoh jong u heh shipai suin sha Oman
+Ka jait jingieit kaba pher .
+U la ong shuh shuh ba kane ka jingpyndonkam kan rah ia ka jingshai sha ka kyrdan kaba shalor bad kan pynlong ia ki sorkar jylla kiba kham kitkhlieh .
+Namar ngi tip ba ym don ei ei ban duh , ym don ei ei ban ioh .
+Ka Bhindawas Wildlife Sanctuary ka don ha ka Jylla Jhajjar kaba jngai kumba 15 km na ka sor Jhajjar .
+La kem ia u nongkhaii Ragib Ali ha India
+U PM Modi u la ong ba ka jingpyrshah ka ialam bakla ia ki nongrep .
+Ka don ka karkhana hangne ​​.
+" " " Da kaba ai ia ki nongthaw khiew da ki tiar bad jinghikai kiba mynta , ngi pyrshang ban pyniasoh biang ia ki bad ka imlang sahlang bad ban pynim biang ia ka art jong ki , la ong u Shri Saxena . " " "
+Ka sain pyrthei jong ka Himachal ka long kaba la synshar da ki Rajput .
+Baroh ki bynta la thoh bad pynïaid da u Wolfgang F . Henschel
+Ka met jong ki neuron ka long kaba jem bad kaba jem .
+Ka la iohi ia ka kynhun jong ka ri India ban ialehkai ha ka jingialehkai Fifa World Cup ha ka sien kaba nyngkong eh .
+Ka jingdon jong ki nongpynbiang jinghikai kam :
+Kane ka la iadei bad ka jaitbynriew kaba kyrpang , bad bun na ki hukum ki don ka jingmut ba iathuhlypa bad ki iarap ban ialam ia ki Jiw sha u Messaiah .
+Ka jingbun jong ka jingmyntoi kaba khlem ka jinglong ne jingshisha .
+Ka liengsuin jet kaba itynnad ka kiew na ka kad liengsuin ha Oceanside .
+Kham mynshuwa ki bank ki ju ai jingtip ia ki jingpher kham hadien ha ki kaiphod jong ki man la u snem .
+28 ngut ki nonglehbha ki rung ha ka list ha ka sien kaba nyngkong .
+" U la pynhiar mynsiem khatduh ha ka por 8. 30 baje janmiet ha u December . " " "
+Ka jingduna ka iew ka hat na ka bynta ki mar kiba bha .
+U President ka seng Congress u Rahul Gandhi u la pynpaw ia ka jingsngewkhia halor ka jingkhlad noh jong u Kamath da kaba ong ba ka dei ka jingshah pynjot ha ka seng .
+Ka Ecuador ka la buh thong ban ïoh 4,000 ngut hynrei ha u bnai Risaw ka la pyntip ba ki don 6,936 ngut ki nongïalam ba kyrpang .
+Hynrei ki long ki nombar watla katta ruh .
+Kano kano ka jingbei tyngka kaba lyngkot ka lah ban long kaba don jingma namar kan duna ka por na ka bynta ka jingbei tyngka ban kiew bad ka jingkylla ka lah ban pynsniew ia ka jingbei tyngka jong phi .
+Napdeng jong ki 250 ngut ki nongaplai ki dei kiba la ioh ia ka PhD .
+Ngi dei ban iaid sha ka teknoloji kaba mynta .
+Ka mang tyngka ka long halor ka rep ka riang , ka jingai um , ka koit ka khiah , ka leit ka wan paidbah , ka jingpule kaba kham shalor , ka kam bad ka jingshngain jong ki kynthei .
+Ka kyrdan ka kham sniew ha ki katto katne kiwei pat ki jylla .
+Ki dur ha ka jingkhang jong nga ki la hap , ka jingtap jong ka jingkhang ka la wan her kum ba don ka jingbeh lyer kaba jur , ka la iathuh ha ka Reuters .
+' Bigg Boss 13 ' : U Rashami Desai u la khot noh ia ka bad u Arhaan Khan .
+Ki nongialam ki la bishar bniah ia ki jingpynkhreh ban rakhe ia ka jingdap 70 snem jong ka jingthaw ia ka jingiadei hapdeng ki ar tylli ki ri ha u snem ban wan .
+' 2 . 0 ' ka wanrah ia u Rajinikanth , u Akshay Kumar bad u Director Shankar ha ka sien kaba nyngkong .
+" " " Ka Asia ka don lai tylli ki pdeng pisa ba kongsan : Hong Kong , Tokyo bad Singapore " " " .
+Ha katei ka hospital ki doktor ki la pynbna ba ka jingpang jong u Sandhya ka long kaba jur bha .
+La iathuh ba utei u briew u dei u nongdih drok .
+Ka jinglong tynrai jong u John Dewey , u William James bad u Charles Sanders ka la ktah ia ka jingwad bniah ha ka liang ka synshar paidbah .
+Nga sngew sarong ban long shi bynta jong kane ka projek bah .
+Ym shym la don kano kano ka jingshah pynmynsaw na ka liang jong ngi .
+Ka sorkar ka la bthah ban khang lut ia baroh ki ophis synshar , ki jaka treikam paidbah , ki pub bad ki jaka bam haduh ka 31 tarik u Risaw .
+Kata ka long kaba u Savarkar u kwah .
+U Modi u la ai ruh ka kyntien iaroh ia u Manohar Parrikar myntri kam pohiing ka ri bad u CM barim ka Goa , ha kaba ki paidbah ki la pyrta da kaba iaroh .
+Ka bynta ba nyngkong jong kane ka projek ka la dep ban sdang .
+Ka jingkylli ha kawei pa kawei ka khep kan long hato ha ka jingshisha ka met ka long kaba la synshar ha ka liang ka pisa tyngka , ka jingtreikam bad ka jingsynshar da , ne hapoh ka jingsynshar jong ka Sorkar .
+Bahubali 2 baroh la book na ka bynta ka sngi kut taiew namar ka jingkiew dor jong ki tiket , ka phlim ka la pynpra ia ki rekod jong ki tiket ba la die lypa .
+" " " Ka ri India ka long ka ri kaba stad ."
+Ka jingbam ka don ha iing .
+U nongleit jingleit bad u kulai jong u ki iaid ha kawei ka rud duriaw .
+Kumjuh ruh kine ki board kin kham rem dor bad lah ban pyndonkam ia ka pisa na ka jingpynbha ia ka PWD .
+Kumba la pynrung ia ka niam Buddha Mongolia na Tibet , ka jingpynkyntang Mongolia ruh ka bud ia kane ka kyndon .
+Ka jingiakhih Panzagar ka la sdang naduh u snem 2014 ban kyntiew ia ka jingpyndonkam kaba don jingkitkhlieh ia ka Internet .
+Hynrei hadien kata baroh ki la iaid beit .
+Ym shym la don ka jingkiew ha ka jingdie bad ka jingkhein ka la long Rs .
+Ngi dang trei ban pynduna ia kane .
+Pyrshah ki nongtrei jong ka Air India halor ka jingpynlong shimet ia ka kompeni liengsuin
+Baroh ki ophisar ba ha khlieh duh kynthup ia ki 33 Corps bad ki 17 Division ki la don lang ha kane ka jingiakren kaba bniah .
+Hynrei ki bus ki la jah rngai .
+Ki khun ki shim por 75 haduh 85 sngi ban kha khun , bad hadien ba ki la kha khun la iehnoh ia ki da ki kmie ki kpa jong ki .
+Ka bus skul kaba saw kaba iaid lyngba ia ka light kali .
+Ka la shah rem ha u Arvind Kejriwal uba dei u heh duh jong ka Aam Aadmi Party kaba thymmai da palat 24 hajar vote .
+Ka jingïalehkai jong u ka la long kaba la pyndap da ki 8 tylli ki bol na ki 81 tylli ki bol .
+Uwei u aktor phlim u la ong shai ba ryngkat bad ka jingbun ka bor ka wan ka jingkitkhlieh kaba kham bun .
+U Lowry u la long u kapten jong ka Cambridge ha ka snem 1924 , uba la ialam ia ki ban jop ha ka jingialehkai ba man la u snem pyrshah ia ka Oxford University ha Lord ' s .
+U Sunil Grover u dang iai bteng ban sngewtynnad ia ka jingleit jong u sha Prague , wat hadien ba u Kapil Sharma u la kren shaphang ka jingwanphai biang jong u sha ka The Kapil Sharma Show .
+Ha kane ka jingialang la ai jingkren ha kane ka sngi u Murali Manohar , u Ankit Chauhan , u Sachin Beniwal bad u Satish Sharma .
+Lada phi ieit shisha ia nga , ailad ia nga kawei ka lad .
+Ha ki katto katne ki ri ka jingïapher jong ki nongwan sha ka Jingkynmaw burom bad ki nongpynbna ka la kham bun shuh shuh .
+Mizoram : Ka Govt ka la pynmih ia ka ordinance ha kaba iadei bad ka jingpyndonkam ia ka mask bad ban pynneh ia ka jingiajngai iwei na iwei pat ha kino kino ki jaka paidbah ha ka jylla , lada ym leh kan long ka jingpynkhein .
+Ka jingpynrung ia ki jinglong babha ha ki khynnah skul
+Katto katne ngut ki briew na kiwei pat ki ri jong ka South Asia kum ka Afghanistan , Bangladesh bad Nepal ruh ki la ïashim bynta lang ha kane ka jingïakhih .
+U Radhagovinda Chandra u la khlad noh ha ka 3 tarik u Risaw 1975 ha ka rta kaba 97 snem .
+U heh pulit u mihkhmat ia ka tnad kam poh iing ha Kabul .
+Ka jinghikai kaba ngi lah ban ioh na u Hesekaiah ka kynthup ia ka dohnud .
+Ha kane ka sngi la donlang ruh u Director Culture u Rajesh Mishra bad u Director Gas Relief u KG Tiwari bad kiwei kiwei ki ophisar jong ka tnad Culture and Gas Relief .
+U la kyntu ruh ia ki ban kynthup ha ki kam CSR jong ki ia ka jingpynroi ia ki jingtei kiba lah ban ioh da ki briew kiba don jingduna ha ki dkhot met .
+Hadien ki snem jong ka jingjynjar , la pynrung beit katto katne hajar ki phage ha ka thliew shyntur jong u ryngkat bad ki dawai pyniap khniang kiba ki khniang jingpang ki lah ban iada na ka jingpang .
+U khun jong u , u aktor Suriya u la buh ia ka dur jong kane ha ki social media jongu .
+Ha kine ki sngi ban wan kin dang don shuh shuh ki nongialam ka TMC kiba leit sha ka BJP , ong u symbud myntri rangbah ka BJP u Kailash Vijayvargiya .
+U Hukum Singh u la ong ba man la ka por ba u pynpaw ia ka jingphetwir jong ki Hindu , ki briew kiba khlem niam ki ong ba u long uba iadei bad ka jaitbynriew .
+La iathuh ba U Ajay Devgn un sa ak ha ka phlim Hindi kaba la pynwandur biang ia ka phlim Tamil kaba la tip kyrteng kum ka Kaithi ha kaba ka Karthi ka la ak ha ka bynta ba kongsan .
+Ha kine ki lyngkha , kata kam long kaba donkam .
+Ka daw jong kane ka long ka jingkiew stet jong ka jingbun briew ha ka ri .
+Kaba phi donkam ban leh ka long tang ban plie ia ka dohnud jong phi sha ka khubor ba pyntngen na ka Ktien U Blei bad ban ailad ia ka ban pyndap ia ka jingim jong phi .
+Ha ka Nifty Pack 29 tylli ki stock ki dei kiba la die ha ka dor kaba saw , katba 21 tylli ki stock ki dei kiba la die ha ka dor kaba saw .
+Haba kynthoh ia ka jingsynshar jong u Yogi Adityanath , ka Priyanka Gandhi ka la ong ba ka sorkar UP ka long kaba bamsap ha ka akor .
+La pynbna ba ka Barisal sadar konstitwensi ka la thylli hadien ba u nongthaw ain jong kane ka konstitwensi bad u nongmihkhmat barim jong ka nongbah Barisal u Shawkat Hossain Hiron u la khlad noh ha ka 9 tarik Risaw .
+Kane ka dang long ka jinglehkai elekshon kaba bha tam jong ki BSP .
+Ka tnad peit mariang ka la ong ba ka jingkhie jumai jong ka 3 . 3 ka jingkhraw ka la jia ha ka 1 . 45 baje mynstep .
+Ka theatre , ka telebishon bad ka phlim ki long lai tylli ki lad bapher bapher .
+Ka ïingbishar jong ki Nongbishar R Banumathi , Ashok Bhushan bad AS Bopanna ki la buh kyrpang ïa ka hukum halor ka jingkyrpad jong u Sharma ban tuklar ïa ka jingkyntait ïa ka jingkyrpad jingisynei jong u da u President .
+Kham palat ia ka jingstad , ngi donkam ia ka jingbha bad jingjemnud .
+Kaei ka jingmut jong ki jingeh ?
+NEET 2020 : Ka eksamin rung doktor la buh ban pynlong ha ka 3 tarik u Naitung .
+U myntri ka tnad mariang bad khlaw ka sorkar pdeng u Harsh Vardhan u la ong ba ka jingpynkylla ia ka ain khlaw kan iarap ia ki riewlum , ki nongshong khlaw bad ki nongrep kiba duk .
+Ka Lela Rogers ka la ai burom ia shibun ki jingnoh synniang kiba kongsan ha ka jingjop ba nyngkong jong ka khun jong ka ha ka nongbah New York bad ha Hollywood , bad ka la ai jingiarap shibun ia ka ha ka jingiakren iateh kular bad ka RKO .
+Ym don synran jong nga uba lah ban leh ia kaba bakla .
+Ia kine ki nongshah kynnoh la kem hadien ba la ioh jingtip .
+U Kohli bad u Sachin Tendulkar ki dei tang ki nongialehkai kriket kiba la lah ban kamai 40 shaneng ha ka ODI century .
+Pyndam noh ia kane ka jingbatai ia ka jait file baroh kawei .
+" Hynrei ngam don ha ka jingiakop " " u la ong .
+KA DISTRICT BA BHA TAM HA KA BAN AI ÏA KA JINGSHAKRI BAN PYNBNA BAN PYNBNA
+Phi wad ia ka jingbam kaba treikam ban pynduna ia ka jingkhia ?
+Ia kine ki jingker sainar yn buh ha Rao Tula Ram Marg Flyover , Shankar Vihar Foover Bridge , Mahipalpur Flyover ha Delhi , Atlas Chowk , Rajokri Flyover , Ambience Mall bad ha Kherki Daula .
+Ka long kumjuh ha man la ki jaka ha ka pyrthei .
+Kane ka dei ka pateng synshar paidbah kaba thymmai ha ki shnong China bad ha baroh ki nongbah China .
+Ka dei ka para barit jong ka nongshna phlim ka Samira Makhmalbaf bad ka khun jong ki nongshna phlim u Mohsen Makhmalbaf bad ka Marzieh Makhmalbaf .
+" Da kaba pynpaw ba um ai jingmut ei ei ia ki jingkren ba la kren da u khun jong u Deputy CM ka Maharashtra u Ajit Pawar , u Sharad Pawar u la khot ia u kum u " " bym pat san " " .
+Ka tnga jong uwei u nongthaw jingrwai na France uba la khlad noh ha u snem ba la dep , ka Julie Vignon .
+Ha kane ka District ki don lai tylli ki jaka thaw ain kata ka dei ka Nawanshahr , ka Balachaur bad ka Banga .
+U apostol Paul u batai shai kumno ki Khristan ki dei ban long kiba theokratik .
+Ka elekshon Lok Sabha 2019 : Hangne ​​ki don baroh kiba phi donkam ban tip shaphang ka Rajasthan .
+Oh em , ka long kumba phin sa sngewsih ia ka .
+Ki nongialehkai ki la sngewkmen hadien ba ki la jop ia ka nam lahduh .
+Ka BJP pynngop ia ki nongthaw ain ka Cong da ka bor pisa kynnoh u Kamal Nath .
+U shna ia la ki jong ki kyndon .
+Kane ka long nalor ka jingpahara beat mobile jong ki pulit jong ka Janamaithri .
+Ka bar ne ka lounge kaba thylli shwa ne hadien ka por trei .
+Ka server kam kyrshan ia ka jinglap ia ka jingshakri
+Kiwei pat ki lad kiba ngi lah ban leh kumta ki long da kaba iarap ia kiba ha iing ha sem bad ki para nongmane jong ngi , da kaba long kiba pdiang sngewbha , da kaba aiti mon sngewbha na ka bynta ki kam theocratic , bad da kaba pyniar ia ka jingshakri bakhuid jong ngi .
+Ia kane ka phlim la pynmih da u Mukesh Mehta , u C V Sarathy bad u A V Anoop hapoh ka lama E4 Entertainment bad AVA Productions .
+" Ka ong : " " Nga buh ia ka jingshaniah jong nga ha U Jehobah uba pynthikna ia ngi ba un ym iehnoh satia ia ki shakri jong u ."
+U nongpynmih phlim ba pawnam bha , u nongpyniaid bad u nongthoh u Nasir Hussain u dei u hynmen rangbah bad u nonghikai jong u Tahir Hussain .
+La kumno kumno ngi dang im .
+Ki jingshim ba kongsan na ka jingkren jong u PM Modi :
+" " " Ia kane la pynlong namar ba ym don jaka ia ka rukom siew komishon ha ka sorkar jong nga ."
+Kine kiba la shah kynnoh ki dei kiba la tip kyrteng kum u Bohar Singh , Sohan Singh bad u Narain Singh .
+Nangta pyndonkam ia kaei kaba jia ha ka pyrthei bad ha ka imlang sahlang jong phi ban sdang ia ki jingiakren .
+Peit ia ka jingrwai jong ka Shuddh Desi Romance teaser .
+U Nick Jonas pic ba nyngkong na ka jingiateh lok .
+U la pynlut por shibun bad ki khynnah .
+U la pule ha ka ktien Hindi .
+Ka don ka jaka sor ha kane ka block .
+" " " Ki la pan por shuh shuh ."
+U Jadeja u la shah pynsah ha ka ben ha kaba bun ki por jong ka World Cup namar ba um shym la lah ban rung sha ka kynhun ïalehkai .
+Katto katne na ki kim shym la pynmih satia .
+Ka bynta ba nyngkong kaba kynthup ia ka jingiakop thoh video ha ka pyrthei , ha kaba yn jied ia ki nongjop hapoh kawei ka ri .
+Ka dur jong ka Jyothi ka kylla long kaba dum bad bym sngewtynnad , bad ka jingbitar jong ka ka pynlong ia u Mahesh ban buh jingkylli ia ka jingtbit jong u kum u nongshim dur .
+U rangïalehkai ba la rim bha u Suresh Raina u ngeit ba u Mahendra Singh Dhoni u dei u kapten ba tbit tam jong ka ri India .
+" " " Ha ki katto katne ki khep , ki bank ki la slem ban shim khia ."
+U CEO ka WL Ross India u Ranjeet Nabha u la ong : Ngam lah ban kren .
+Pynlong ia ka jingsiew lyngba ka lynti digital .
+Ki pixel jong ka jaka ba kham heh ha ka liang ba shalor
+Ha kane ka phlim la pyni ruh ia u Farhan Akhtar bad ka samla Dangal ka Zaira Kazmi ryngkat bad ka Priyanka .
+Ia ka lynti la pyndonkam wat hadien ka por jong ki Roman .
+Ka lah ban hap ban don ha ki kynhun ba kyrpang .
+La trei ia ka lieng pynjot , em ?
+Kam shim noh ia ka jinglong nongshong shnong na uno uno u briew .
+Kaba dei jong ka por kaba mynta .
+" " " Nga sngewsih , nga dei ban iehnoh ia phi mynta ."
+Kumta , ka jingtip ia ka domain ka long barabor ka bynta kaba kongsan .
+Ka Congress kan wan ha ka bor synshar .
+Ka jingshalan shabar ia ka dud SMP , ka shini , ka shini bad ka dud UHT ka long kaba la pyrkhat .
+Ka janmiet jong ka sngi Nyngkong ka la ai khyndiat ka jingpynpaw lypa na ka bynta ka jingai kaba sngewtynnad ban sa wan .
+U la ai ki jingnoh synniang kiba kongsan bad kiba neh ha ka jingkylla jong ki polisi iada ri , jingshngain bad ki polisi bar ri jong ka India .
+Une u briew u dei u shynrang ba 49 snem ka rta na Kalladka ha Bantwal .
+Ka thong ba kongsan jong ka sorkar jong u ka long ban pynthikna ia ka jingshakri kaba kham bha na ka bynta ki nongshong shnong .
+Ka hukum ka la bthah ia ka PMO ban pynpaw ia ki jingtip kiba iadei bad ki jingthep pisa ba la buh da ka sorkar ha ki bank account jong ki nongshong shnong ka ri India na ka pisa rong saw ba la wanrah nabar ri .
+Haba kren shaphang ka Elaka Bathinda u la ong ba ka pisa ka long haduh 3 tyngka . 23 klur la pyllait na ka bynta ki 2, 159 tylli ki mukotduma kiba dang sahkut hapoh ka skhim shagun ha ka distrik .
+Ka jingkdew ia ki khniang bad ki blang sniang ka wanrah ha ka jingmut jingpyrkhat jong ngi ia ki jingkynmaw jong ki jingshah ktah kiba sngewsih bad ka jingsawa kaba bitar jong ki khniang kiba shyrkhei .
+Nga mut ban ong , nga la don ha kiba bun .
+Ia ka dur jong ka Wii la pynmih ha ka 1 tarik u Lber 2010 ha America shatei lam mihngi bad Europe bad ia ka dur jong ka DS ha ka 8 tarik u Lber 2010 .
+Ha kata ka por , ki shakri U Jehobah ki la khmih lynti lypa ba kan donkam ban leh ia ka kam kaba khraw hadien ka thma bah ba ar .
+Hato ki briew ki leh shisha kumta ?
+U la ong kumno ka bai ieng kali ka lah ban kham heh ban ia ka bai pynrung kyrteng ha ka hospital .
+Kane ka model ka treikam ha ka batri .
+Uwei u nongphla pop Jesuit ha u syiem France u Louis XV u la ai jingmut ba na ka bynta ka jinglong babha , u syiem un buh ia ka jingkieng kaba buhrieh hapdeng ka kamra thiah jong u bad ka jong ka kynthei trai jong u .
+Balei ba u ju sangeh na ka bynta kiei kiei niam ?
+Hynrei kam don daw kaba khraw ban khuslai .
+Hynrei u Langdon u la dep ban pynbeit ia kata ka jingeh .
+Ka India ka la wan biang sha ka lynti kaba dei bad ka la iaid sha ka jingroi bad jingroi jingpar , la ong u myntri .
+Nangta la ai pisa ia ki 500 tyngka shi akar shisnem kum ka jingsiew bai lutksan kumba ar snem .
+Nga la pyrshang tang katto katne kiba suk hi hynrei baroh ki la treikam na ka bynta jong nga .
+Tangba wat peit ia ki ar tylli ki team .
+To buh ha ka jingmut ia kine ki mat .
+Ngi khot ia ki ki frikative , namar , ngi don ka sur ba jem kaba mih na ka jingkhanglad ba la thaw ha ka jingtuid jong ka Iyer bad ia kane ka jinglong la tip kum ka frikative ha ka ktien tynrai .
+Ka jingtreikam jong u jingthaw ba im ka shong ha ka jingtreikam baroh kawei jong ki cell jong u , ryngkat bad ka jingtuid jong ka bor kaba jia hapoh bad hapdeng jong ki .
+Kawei pat ka jingeh kaba ka karkhana ka iakynduh ka long ka jingduna ki nongtrei na ka bynta ki ïing buh mar bad ki jingpynpoi marbam .
+Mynta ka sngi lada ka kmie Ganga kam don te katno ka jinglong jingman kan long kaba shyrkhei .
+Ngi donkam ia ka jingroi kaba neh ha ka rep ka riang .
+Ka jinghiar thma jong ki Persia kan wan na baroh arliang mihngi bad sepngi .
+U myntri kam pohiing ka sorkar pdeng u Sh Rajnath Singh u la sngewlem halor ka jingkhlad noh jong u Sh E Ahamed
+John , nga dei ban don ha iing , ban kdup ia ka tnga jong nga .
+Hynrei ki doktor ki ong ba ka rai kam lah ban wan kloi bha.
+U Belinsky u la leh kawei na ki bynta ba kongsan ha ka jingim jong u myllung bad u nongpynmih kot Nikolay Nekrasov bad ka kot khubor ba pawnam jong u ka Sovremennik .
+Ki don shibun kiwei pat ki jingkylli kiba donkam ban jubab .
+U Mark Zuckerberg u ong ba u sngewsih ban synshar .
+" " " Ka projek ka la seng 15 tylli ki jaka ai jingtip jong ka ri India , 3 tylli ki jaka pyniasoh lieng jong ka ri India , 3 tylli ki jaka pyniaid ia ka mishon jong ka ri India , bad ka jingbuh ia baroh ki software bad ki jingpyniasoh ba iadei bad kane " " "
+Peit ia ka Miss Fifi La Belle ha baroh ki jinglong jong ka . . .
+" " La leh bha ia ngi ha Pakistan ."
+Peit ia kane ka jingjia ha ka table harum .
+Baroh ngi sngew sarong ia ka synshar paidbah jong ngi kaba la im bad roi wat hapdeng ki jingeh kiba jur ia ka .
+Kane ka la kylla long ka phang kaba pawnam ha ka pyrthei thoh khubor ha Sri Lanka .
+" " " Man la ka por ba don ka jingiakren ka India ka shim ia ki mat kiba iadei bad ka jinglong trai jong ka " " " " u la ong " " " ".
+" Katkum ka kot khubor , u Romer u la ong ba ka World Bank ka " " sdang ia ka kam ban pynbeit ia ki kaiphod ba la dep bad ban pynmih biang ia kaei kaba ka jingpynbeit kyrdan kan long khlem ka jingkylla ha ka rukom treikam " " . "
+Ka Kathimerini ka buh ia ka jingbym mynjur ha ka 68 percent .
+U Barnes u la shah pynkynriah sha ka jaka sumar jingmut jingpyrkhat jong ka ri America ha ka jaka jong ka phatok jong ka Wakanda .
+Ka jaka duwai kaba heh ka long kumba 25 x 25 meter .
+Kham mynshwa , ka BJP bad ka Congress ki la ia tyngkhuh ha ka thma ktien halor katei ka jingiakren .
+Kata ka dei ka mynsiem bashisha jong u nongialehkai .
+Hynrei ka sorkar ka la sah khlem pyrkhat bad khlem pyrkhat .
+Da kaba shu ong , ka theokrasi kaba shisha ka long ka jingsynshar da U Blei .
+Ka long kumta ha ki jingiadei baroh .
+U Raffles u la jubab ia ka da ka kyrteng kaba bakla .
+Kumta , wat nym long kiba lax ne kiba artatien .
+U Pravin Darji u la ai jingmut ia ka kyrteng jong ka kot khubor .
+Ki khlem lah ban leh ia kane lada ki long kiba tlot ha ka seng .
+Ka jingot ha kane ka por ka pynjlan ia ka jingim jong ki syntiew ba la ot bad kumjuh ruh ka jingpynsah ia ka rong jong ki .
+Kumta , kine ki long katto katne ki jingkynthoh bad kumba phi tip na ki katto katne ki nongthied kiba la mih na ka bynta kane ka mar kaba suk kum tang ka pensil .
+Ki samla pule kiba la wan sha ka eksamin ki lah ban peit ia ka result jong ki na ka website jong ki Boards .
+Kane ka rel ba kyrpang ka la mih sha Samba Sector ha Jammu ryngkat bad ki 83 ngut ki shipai ha West Bengal .
+Ki tyllong khubor jong ka tnat iada ri ruh ki la pynthikna ia kane ka jingjia .
+Pynlong ia ki jingthmu shimet jong phi bad ia ka jingbha kaba kham khraw kum kawei kaba la pyniasoh lang , khlem da pyniakhlad ia ki .
+U Tyler u la sngewtynnad mardor ia ka sur jong ka Jam Band , bad u la kwah ban pyniasoh lang ia ki ar tylli ki kynhun .
+U Rohit Sharma u la jop ïa ka India ha ka jingïalehkai Super Over ba phylla ha New Zealand.
+Ki jingmut jong u shaphang ka jingbym don niam ki long halor ka jingpynduh jait ia ka rukom synshar jaitbynriew , dei ban kyntait ia ka niam ban ioh ia ka jingpynduh jait ia ka rukom synshar jaitbynriew .
+U long uba bha hynrei um dei u Lionel Messi .
+Khatduh eh ia kane ka jingiateh kaba la don jingiakren la pynkut noh pura bad la rah sha ka komiti jong ka kynhun myntri na ka bynta ka jingshngain ban ioh ia ka jingpynbna ha u bnai August 2016 .
+Ngam tip balei ki briew ki kwah ban peit ia nga haba nga sngewbha ha ka jingim jong nga .
+Nga la phah ruh ia ka jingujor sha u Myntri Rangbah ka jylla u Capt Amarinder Singh , u la bynrap .
+Ka la dei ka kam kaba khraw ban pynduna ia ka jingeh bad ban pynbiang ia kane ka jaitbynriew da kiwei pat ki lad um dih kiba khuid .
+Ia kane ka jingpynbna la rakhe da kaba pyrta jam da ki bom bad ki jingrwai ha ki surok jong ka Pristina bad kiwei kiwei ki nongbah jong ka jylla .
+Ha kane ka sngi la don lang u Sri Shivarathri Deshikendra Mahaswamiji u Shri V . U Somanna , u Myntri ka tnat iing jong ka sorkar . jong ka Karnataka ryngkat bad ki nonghikai bad ki samla pule jong ka JSSAHER .
+Ha ka 31 tarik u Risaw 2020 kumba 9 ngut . 37 klur tylli ki ram hapoh ka kyrdan Shishu jong ka PMMY bad ka ram baroh ka long kumba Rs 1 . 62 Lak klur , ki long kiba sahkut .
+Khamtam eh ki karkhana rit bad ki karkhana rit ki dang wan .
+Hadien kata nga la sdang ban pyrkhat kham jylliew shaphang ka jingim jong nga bad ki thong jong nga , bad nga la rai ba nga kwah ban kylla .
+La aiti ia ka cheque kaba T.10 lak sha u Mohammed Anees ha ktem jong ki shipai BSF .
+Ha ka Colors tab , phi lah ban pynkylla ia ki rong bapher bapher na ka bynta kawei pa kawei ka scheme .
+Ka dei ka dak jong ka jinglong kaba khlain .
+Ngi donkam ban pynbha ia ka jinglong bad jingbun bad ka jingheh jong ki data jong ngi , bad ngi dang trei ia ka , la ong u Rajan .
+U la pynbna ia ka jingiakhih kaba jur lada ym lah ban pynurlong ia ka jingdawa .
+U bat bha ha ki jinglong jong ka ri India .
+" " " Ka projek ka kynthup ia ka jingpyniasoh bad kiwei pat ki rukom kit jingkit ha sor ha ka rukom kaba biang bad kaba lah ban long tang da kaba shim ia ki rukom shna dur kiba thymmai , ka teknoloji bad ka rukom pyniaid ia ki jaka treikam . " " "
+Kane ka jingsngew jong ka bor bad ka jingbym lah ban jop ka lah ban pynthut ia ka jingbishar bniah , kaba long ha kaba kut ka polisi kaba bha tam na ka bynta ka jingpyniaid kali kaba shngain . Ki jinglehkai kiba pynlong ia ka jingleh donbor
+Ka kyrteng jong nga ka dei u Amitabh Bachchan .
+U laitluid ban trei bad uno uno uba u kwah bad ha kano kano ka por ba u kwah .
+Ha Lucknow , ka la ong ba la khang ia ki kamra sait jain jong ki kynthei ban pynpra ia ka jingiakhih .
+Wat la ka sorkar sor ka la ju iakren bunsien halor kane ka phang hynrei ym pat pdiang ia ki projek haduh mynta .
+Ha kane ka kynti ka nongbah kaba la buh ban pynjot ka long ka Ninebe .
+Ka BJP ka la pynkut noh ia ki kyrteng jong baroh 17 ngut ki kyrtong jong ka seng na Bihar bad ka la phah ia ka thup sha ka jylla ka ban pynbna lang bad ki paralok , la ong u Nadda .
+Ka bank kaba ai pisa ka lah ban pynhun ia lade shaphang kane ka bynta .
+U khunlung u la iap hynnin ka janmiet .
+Ngi dei ka kompeni shakri kaba nangroi bad tang kawei ka jingdon jingem kaba ngi don ka long ki briew .
+Ka IGTV app ka don na ka bynta ki Android bad kumjuh ruh na ka bynta ki nongpyndonkam iOS .
+Bun ki sngewtynnad ïa ka jingkmen bad ka jingpynbeit ryntih kaba bha ha ki assembly jong ki Nongsakhi U Jehobah .
+Ki nonglam khubor kiba la pyni ia ki kot ki sla jong ki ki long :
+Bun ki jinghikai na kane ka jingialehkai watla .
+Ka jinglah jong ka kad lieng Kandla kaba mynta yn sa pynheh .
+Mynta ka komishon ka la buh ia ka 25 tarik u August kum ka tarik kaba bud ban bishar namar ba u nongujor u la wad por shuh shuh ban ioh ia ki kot ki sla kiba donkam .
+Kumta ki kynhun dohkha kmie Hilsa kiba dap da ki snier ki la shah kem ha ki nongtong dohkha hadien ba la weng noh ia ka jingkhang .
+Kham bunsien ka long kum ka jingshong hangta .
+Katba ka don ka jingbuh pud ia ki kyrtong ban pynlut ha ka jingialap elekshon jong ki hynrei kam don kum kata ka jingbuh pud ia ki seng sain pyrthei .
+Ngi hap ban ialeh pyrshah bha .
+Kane ka dei kawei na ki tempi nag ba pawnam kaba don ha ka thain Uttarakhand .
+Ka tnga jong u Shahid Kapoor ka Mira Rajput dang shen ka la pynmih ia ka dur ha ka instagram jong ka ha kaba ka khun jong ki ka Misha ha kaba lah ban iohi ia ka ba ka pynher ia ka kite .
+Bad ha kano kano ka iing kaba phi rung , to sah hangta tad haduh ba phin leit noh nangta .
+Kham mynshwa ka pisa ka long Rs100 .
+Ki pulit ki la kren bein bha ia ngi , ha ka rukom kaba sngewsih .
+U la long u dkhot ba pawnam jong ka jaitbynriew Quraysh jong u uba la tip na ka bynta ka jingaiei kaba khraw jong u khamtam eh ia ki nongleit jingleit .
+Ka periphery ka thew ia ka jaka ba marjan .
+Ha ka 14 tarik u December 1903 , ka jingpynmih thymmai jong u Wright ka la kiew na ka jaka pynher dieng jong ka ha ka sien kaba nyngkong bad ka la sah ha jrong haduh lai sekhon shiteng !
+MH 370 : Ka Australia ka la tynrah ia ki tiar kiba lah ban dei na ki liengsuin .
+Ka tulop sdang ka long tang 3000 .
+Kane ka aktor mynshwa ka la paw kyrteng ha ki phlim kum ka Peepli Live , Photograph , Secret Superstar bad Umrao Jaan .
+U Parthiv Patel ruh u la noh synniang da ka bat ha kaba u la lah ban kamai 53 ron na ka bynta ka RCB .
+U Aamir bad u Salman Khan ki la ai kawei na ki jinglehkai ba bha tam jong ki ha kane ka phlim .
+U Amish Desai uba la ialam ia ki nongpeitkai ha ka jingleit ialehkai golf kaba sngewtynnad sha ka bynta ba shathie jong ka ri India bad u la batai ia kawei pa kawei ka jaka ialehkai golf da ki jingshisha kiba thikna bad kiba sngewtynnad .
+Ki khniang bad kiwei kiwei ki khniang kin nang kiew bad kumjuh ruh ki jingpang jong ki .
+Ha kaba iadei bad ka jingheh jong ka shyntur , ka shyntur jong ki kynthei ka dei ban long 79 cms katba ia ki shynrang pat ka dei ban long 84 cms .
+Ka dei kawei na ki jinglong ba kongsan jong ka tdong .
+Ka tnad jong ka mariang , khlaw bad ka jingkylla ka suinbneng India ka buh ia ka sur ha ki jingialang COP jong ka Basel , Rotterdam bad Stockholm convention ba la pynlong ha Geneva .
+Ia kane ka ain la tip ruh kum ka ain Magnitsky .
+Hapoh ka jingsynshar jong ki phareng , ki Kharia ki la shong la sah ha Sylhet kum ki nongtrei kper sha bad khatduh ki la kylla long ki nongshong shnong ba pura jong ka thain .
+Kane ka board ka pynlong ia ki eksamin na ka bynta ki jingpule Sanskrit ha ka Purana , Kavya , Smriti , ka jingstad khlur bad ka Ayurveda bad ka Pali ha ka Sutra , Vinaya bad Abhidhamma .
+U Pravin Togadia u la thmu ia u PM Modi , u la ong ba u la duh jingkyrmen ia ka sorkar ha kine ki saw snem ba la dep.
+Kum ka jingmih , ki kam jong ki ki la kut noh kum ki kamra kiba iaid beit iaid ryntih ha ki veranda kiba jrong , ki bym don jingmutdur , bad ki dak jong ka jingtei jong ka juk mynta .
+Kan ym pynkylla ia ka jingshisha ba ka jingpyniasoh lang ia ka sain pyrthei bad ka jinghiar ka ioh ka kot ka la pynsniew jur ia ka Brand India .
+U Sharath bad u Krupesh ki dang leit sha iing u Sharath ha Koorankara .
+Ki longïing jong ki nongïoh khusnam Param Veer Chakra , ki ophisar ba rangbah jong ka tnad HRD , ki jaka ïada ri bad ka NBT , bad ki khynnah skul na Kendriya Vidyalaya ki la don lang ha kane ka sngi .
+Ka la long ka Director jong ka jaka sumar khynnah kaba la seng ha ka jaka pule jong ka skulbah Sultan Qaboos .
+Kane kan ai jingmyntoi ia kumba 60 lak ngut ki khynnah skul kiba pule ha ki klas VI haduh XII .
+Nga kyrpad ba ngan ioh ia kajuh ka jingiatreilang bad jingkyrshan kumba phi ju don ha ki snem ba la leit noh , ha kaba pyntreikam ia ka mang tyngka ba man la u snem .
+Wat mynta ka sngi ruh ki wan mareh sha nga bad ki ong ba mom phi don ha ka TV .
+Ka jingkyrpad kmie hapdeng ki khniang ka iadei bad ki jinglong , ka jingim ha ka imlang sahlang bad ka jingstad .
+Ma ka . . . kan sa wan hangne ​​shen .
+Hadien ba la ioh biang ia ka 75 jinglut , ka jinglong trai ia ki mashin kan sa leit hi sha ki nongtrei kti .
+Pyni kumno ban pynbeit ia ka jingeh .
+" Ia kawei pa kawei ka jingiatai la kyrshan da " " U Dewiong uba khuid . " " "
+Meghalaya : Baroh ki briew na Meghalaya kiba pule ne trei ha Gujarat ki la poi haduh 163 ngut ha steshon rel Guwahati .
+Hato phi sngew ba kane ka long kaba sngewtynnad , kaba ym lah ban leh na ka bynta ka juk jong ngi ? Pyrkhat khyndiat shaphang kine ki jingthoh bashisha harum .
+Katkum ka jingujor jong u uncle jong ki nongshah pynmynsaw la register case bad la phah eksamin ia katei ka khynnah kynthei , la bynrap shuh shuh u SHO .
+Ka jingkyrmen ka jingshah pynphaidien jong ka Maharashtra ka pynmih ïa ka jingstad ha ka BJP ban pynduh noh ïa ka jingkwah bor jong ka, ka jingïalehkai ban pynhap ïa ka sorkar bad ban pynbor ïa ki elekshon bym kwah.
+Ki kyrtong kiba la wan sha ka eksamin ki lah ban peit ia ka result jong ki na ka website ba thikna jong ka jaka rung .
+Ym don ba tip la kane ka dei kaba shisha .
+Ka paw shai ba ka la don ka jingbakla kaba khraw bad kaba la pynjur ia ka jingbakla ka long ka jingpyrshang ban pyrshang ban tap .
+Ka smartphone kaba bha tam kaba phi lah ban thied hapoh Rs 25 , 000 .
+Ki jylla kiba don ia ka jingbuh jingkynshew kaba kham bha ban ia u snem ba la dep na ka bynta ka por kaba iadei ki long ka Himachal Pradesh , Punjab , Odisha , Gujarat bad Uttarakhand .
+Kumno U Ioh Ia Ka Pisa ?
+Hato U Blei U La Dep Pynbeit Ia Ka Jinglong Jong Ngi ?
+Katba ia ka ICC Womens World Cup 2021 kan long ha New Zealand .
+Ki briew ki la sngewbha ban jubab .
+Namar kane , kumba Rs .
+Kaei pat kaba nga donkam ban pynshisha ?
+Ka show ka long kaba kham palat ban ia ka phlim na ka bynta jong nga .
+Nga don tang ki pisa 500 bad 1,000 tyngka kiba rim bad ka pisa 50 tyngka .
+U slap bad ka jingtwa khyndew ka la pyniap ia 83 ngut ha Kerala Karnataka .
+Ka jingma jong ka jingleh donbor jong ki Islam ngi lah ban iohi ha Europe .
+Ngi dei ban iaid da kajuh ka jingkular .
+U MP ka Shiv Sena u Ravindra Gaikwad u la shoh ia uwei u nongtrei jong ka Air India da ka slipper jong u haduh 25 sien hapoh ka liengsuin .
+La shim ia ki sienjam ban peit ia ka jingwan tuh bad jingshalan tuh ia ki tiar ialeh na shiliang khappud .
+Ngi donkam ruh ia ki shynrang ban kyrshan ia kane ka jait jingiakhih ym tang ia ki kynthei .
+Kaei kaba nga mut ban ong ka long ba lyngba ka jingpynbha ia ka teknoloji , ngi pyrshang katba lah ban pynthikna ba ka jingiarap kan poi sha ki briew kiba dei hok ha ka por katkum ki kyndon .
+Nga la pynrung lang hangne ​​ia ki jingpynshisha kiba donkam jong nga na ka bynta ka jingpule bad jingpyrkhat babha jong phi .
+Ia kane ka phlim la pyni da u Karan Johar 's Dharma Productions ha ka ktien Hindi .
+Mano ba leh ia ka pop ban khanglad ia ki hok ba la ai da ka Riti Synshar ia ki para jong nga na Jammu bad Kashmir ?
+Ki nongthoh kiba la khot kum ki nongpynkylla kim shim ia ka jinglong kaba iadei .
+Hynrei ka Sorkar ka kwah ban ialeh pyrshah ia u .
+Uwei na ki koidi u la lait im ban iathuh biang ia ka jingjia .
+Ka jingleh thok jong ka PNB : Wad ka India ban kem ia u Nirav Modis , ai jingkyrpad sha Hong Kong .
+Ki riew shim suloi kiba riam kum ki nongtem mariachi ki la pyniap ia lai ngut ki briew bad pynmynsaw ia hynriew ngut kiwei pat ha kawei ka madan ha pdeng jong ka nongbah Mexico kaba pawnam bha da ki nongjngohkai pyrthei nabar ri , la iathuh ki pulit .
+Kiei kiei kiba mynshuwa ki la jah noh . Pyrkhat ia ki briew ba la pyllait na ka jingiap , bad ka jingsngewsih bad jingpyrta kaba ka pynmih ka la jah noh junom !
+Bun ki briew ki leh ia ki jingleit jingwan kiba ma ha kaba bun ki la iap .
+Ia ki jingbam bad ki jaka shongthait la pynbiang da ka kynhun jong palat 30 tylli ki wahduid kiba heh ha ki um jong ka ri Bilat .
+Ki pulit ka Delhi ki la ujor FIR pyrshah ia u nongialam ka seng samla pule ka JNU u Aishe Ghosh bad 19 ngut kiwei pat kiba la kynnoh ba ki pynjot . . .
+Wat mynta ruh ki samla pule ki dawa jur ia ka elekshon kaba thymmai .
+Ka jingwanrah sa 600 MW ka dang don ha ka jingpynkhreh .
+Ha kano kano ka jingiadei kaba kongsan tam ka long ka jingiakren .
+Lada phi mut ka jingpyniadei lang ha ka sync , te nga ia mynjur bad phi .
+Ka kaiphod na ka ORB ka la ong ba ka jingsong jingbam ba lah ban pyndonkam tang shisien teng teng ka kylla long kaba ym lah ban leh .
+Ki bynta kiba donbor jong ki nongsynshar ki kyrshan ia u Fonseka namar ki pyrkhat ba u kham lah ban pynjari ia ki lad jingiada kiba donkam ha ka liang ka ioh ka kot .
+U Makhan Lal u la kam ba ki lai ngut ki khun jong u ki don ki iing hynrei kine ki long kiba rit palat .
+Mar kumta hi u Sharma u la siat ialade ha ka khlieh .
+Ka don ka lad kaba shai ba ki seng thain , ryngkat , kin ioh kham bun ki seat ban ia ka BJP .
+" " " U nongrep khlem u slap bad ka jingkyrshan sorkar u shah pynbor ban pyniap ialade ."
+Pynsangeh ia ka jingshah thngan ka kong Anna Hazare hadien ka jingiakren bad u myntri rangbah ka jylla Maharashtra u Devendra Fadnavis bad u myntri ka tnad rep ka sorkar pdeng u Gajendra Singh Shekhawat
+Ka jingduhnong kaba khraw ha ka jingai pisa ha u snem 2013 ka la pynlong ban pynduh noh ia kawei ka jaka sumar baroh kawei .
+Kane ka dei thik kaba la jia hangne ​​.
+Ka jingshah tap bnai kaba shi bynta ka jia haba ka sngi , ka Pyrthei bad u bnai ki ia pynbeit khlem janai ha u lain .
+Kawei kawei ka FIR la register ha Maharashtra , Bihar bad Jharkhand .
+Ka khusnam nongialehkai kynthei ba tbit tam jong ka FIFA ka dei ka khusnam phutbol jong ka seng kaba la ai man la u snem da ka kynhun pyniaid ia kane ka jingialehkai , ka FIFA .
+Kane ka phlim ka long kaba kongsan bha ia nga , ka la ong .
+Ka jingleit lieng ha wah ka kynthup ia shibun ki jingsngewtynnad .
+Kumta , kane ka dei ka hardware kaba ngi don na ka bynta ka umphniang jong ngi .
+Hynrei ki nongpynkhih kim lah ban pynjem .
+U briew uba bud uba ki la iakynduh u la khihwin ha ka jingkhriat .
+Katno kane ka pyrthei ka pang !
+Ki kali kiba wan na Secunderabad yn pynkylla sha ka Sailing Club sha ka jaka kynduh surok Kavadiguda , Lower Tank Bund , Kattamaisamma temple , Ashoknagar , RTC road .
+U heh jong ka tnad pahara u la iathuh ha ka Radio Misr ba lai ngut ki la iap kynthup ia u nongniah kali .
+Hynrei shwa kata , khyndiat shaphang ka mynta .
+Ki lad pathai khubor jong ka ri India ki ai jingmut ba ka jingpynlut jong ka China ha ka kam shipai na ka bynta u snem 2017 ka long kumba 1 . 3 percent na ka GDP , ka long lai shah ban ia ka jong ka ri India .
+Ngi tip kumno ban pynbeit ia kita ki jingbakla .
+" Ngi kwah ban pynshai ba ka dei ka rai kaba pura kaba la pynshong nongrim tang ha ki jingmih jong ngi kiba dang shen ." " "
+Wat pynlong ia nga ban leit noh kumne .
+Ha ka jingïalang la khot ïa ki ka India Bilat .
+Kane ka jingjia aksiden ka la pyniap ia 21 ngut ki briew kynthup ia saw ngut ki khynnah bad lai ngut ki kynthei .
+Ki don ar tylli ki mosque ha ka nongbah .
+Nga kwah ba phin leit ha khmat eh ha ka kad lieng .
+To long kiba pdiang sngewbha iwei ia iwei pat khlem da sngewsih . 1 PET .
+Ki nongpyni ki la iathuh kumno ba ki don ha ka rud duriaw sepngi jong ka ri India bad kumba . 1600 kms ka rud duriaw Gujarat ka la khring ia ki nongkhaii , ki nongleit jingleit , ki nongwan buhai shnong bad ki nongphetwir naduh mynbarim .
+Ka Artikl 21 jong ka Riti Synshar ka pynthikna ia ka hok ban im .
+Lada phi la im ha ka por u Mikah , kita ki kyntien khlem artatien kin jin da la shim ia ka jingmut jingpyrkhat jong phi .
+Katno ka pisa phi kwah , huh ?
+La bthah ia ki CGM jong ki projek ban leit jngoh ia ki jaka man la ka 10 sngi ban peit ia ka jingiaid shaphrang ha ka jaka .
+Hooid , ym baroh kiba don ha ka kyrdan ban leh ia kum kine ki jingkylla kiba khraw .
+Katto katne na ki jingmang pisa ba kongsan ha ka liang ka koit ka khiah ki long :
+Ka Incepta Pharmaceuticals Limited ka dei ka kompeni shna dawai generic kaba don ha Dhaka , Bangladesh kaba shna bad pynïaid iew ïa ki dawai dawai .
+Sngewbha pynkylla ia kane ka kyrteng jong ka group .
+Hato ngim dei ki nongshong shnong jong kane ka jaka ?
+Ka Indian Railway ka la pynkhreh ban pynbiang ïa ki 5231 tylli ki jaka sumar Covid sha ka jylla . Onal Railways ka la pynkylla ia kine ki kali kum ki jaka buh kyrpang .
+U kyrtong ka BJP na Rajasthan u kular ba un nym shah tuklar ha ki pulit ha ka por shongkha khynnah
+Ka jinglong jong ka um kam shym la nangbha .
+Kumno ka jinglong ba janai jong u Job hapoh ka jingtynjuh ka la kyrshan ïa ka jingsynshar U Jehobah . hynrei ha kano ka rukom u Job u la shah rem ?
+Hynrei dei ban pyntip ia ki nongleh kam sniew .
+Ia ka Mini Cooper S Carbon Edition la pyllait paidbah kyrpang ha ka Amazon .
+Mynta ka sngi u myntri ka tnad pathai khubor u Prakash Javadekar u la pyllait paidbah ia ka jingrwai ieid ri Watan ha New Delhi ha ka jingrakhe ia ka sngi laitluid jong ka ri .
+4 , 500mAh battery bad 18W ka jingpynbiang stet .
+Hadien san bnai , ka kpoh kam shym la pyni dak ei ei ba ka la shah kyntait .
+Mynshuwa , ka Sunita Williams ka nongleit bneng jong ka NASA ka la bat ia kata ka rekod da kaba 195 sngi hadien ba ka la leit sha ka ISS .
+Ka America kam dei ka kper Eden bad ngin ym lah satia ban pyllait ialade na baroh ki jingdih buaid , ong ka kaiphod jong ka Columbia University .
+Ka jingshondur ka dang sdang .
+La pynpaw ia ki jingmyntoi jong ka dud masi
+Nga bad ka Rana ngi long ki paralok kiba bha shibun .
+Hato kumne kin long ki iPhone thymmai ?
+Kane ka jingjied kan pynpaw ia ki button bad katto katne kiwei pat ki jingdonkam haba u cursor jong u mouse u don halor jong ki .
+Dei u tymmen uba la pan dih ia ka wain jong u , bad u la sdang ia ka jingiakren .
+" " " Ha ka jingleit kaba khatduh jong nga ha u snem 2015 , nga la ioh lad ban leit jngoh ia ka Anuradhapura kaba dei ka jaka ba la buh kyrpang da ka UNESCO bad ka jaka ba pawnam jong ka niam Buddhist la bun spah snem . " " "
+Nangta leh ia kata , u la ong .
+" " " U Sinha u la kren pyrshah ia ka seng ha ki rynsan bapher bapher ."
+Tang uwei na ngi uba don parashut !
+Kane ka kompeni ka don hynriew tylli ki karkhana shna cement ha Tamilnadu bad Andhra Pradesh .
+Ka la long 3 snem naduh ka sorkar Modi . katno ngut ki nongbat bank Switzerland ki don shadien ki kynroh ?
+Ka jingkut kaba khlem khmih lynti jong ka jingtip dur jong ka PNM
+Ngi dei ban ialeh pyrshah ia ka jingduk bad pdiang ia ka rukom pynroi kaba kynthup lang ban ai ia ka jingim kaba bha ia ki million ngut kiba duk bad kiba shah ktah ha ki ri bad ka thain jong ngi .
+U myntri ka tnad ka koit ka khiah u Balbir Singh Sidhu u la iathuh ba hadien ka jingap slem la ioh pdiang ia ka kynhun ba nyngkong jong ka dawai corona ' Covishield ' da ki heh ka tnad ka koit ka khiah ha kad liengsuin Chandigarh .
+Ha kane ka prokram la pynkup burom ruh ia ki nongjop bapher bapher jong kane ka jingiakop .
+Ngi la leit ban ialehkai , bad ngi la leit ban nym freak out !
+Ki nongialehkai jong ngi ki la leh bha naduh kaba sdang .
+Pyndep ia ka jingleit jngoh jong u sha Noida u PM Modi
+Ha kaba sdang jong u snem mang tyngka , ka pisa ka long T.59 . 89 shi dollar
+" Ki la khot ia U Blei jong ki U Jehobah " " U Blei jong ka jingshisha " " ".
+U Prem Chand u la ieng skhem na ka bynta ka jingiatylli ha ka imlang sahlang bad u la pyrshang katba lah ban rah ia ka khubor jong ka jingsuk lyngba ki jingthoh jong u .
+Ka rukom shim dur kaba saw tylli kan kynthup ruh ia ka dur telephoto ban kyrshan ia ka jingpynheh dur kaba 20sien .
+2 ngut ki nong India ha ka jingialehkai kwarter phainal
+" " " Ngi kwah ban pynneh pynsah ia ka ri India bad ban ym pynkylla ia ka ri baieid jong ngi sha ka dur Hindu jong ka Pakistan . " " "
+Ka jingpynmih jong ka Honda City Edge ka long katkum ka jingpynbeit SV jong ka kali sedan .
+Kumba ka long mynta 15 haduh 20 tylli ki shnong ki shah ktah ha ka jingbthei bom jong ka Pakistan , u la ong .
+Ka Patiram High School ka don hajan Taltala More . Ka skul bah jong ki khynnah kynthei jong ka Patiram Vivekananda .
+Kumba haba ar tylli ki note jingrwai kiba ialeh pyrshah ki pynbor ia kawei ka jingrwai ban iaid shakhmat , kumta ruh ka jingbym iasngewthuh jingmut ha ki jingpyrkhat , ki jingmut bad ki jinglong jong ngi ka pynbor ia ngi ban pyrkhat , ban bishar bniah biang bad ban kynthoh .
+Ka jingpynkylla ktien ka dei ka art kaba bha .
+Nalor kane , la pynkiew stet ruh ia ka bhah jong ka sorkar jylla na ka bynta ki skhim ba la kyrshan da ka sorkar pdeng .
+Nga bad kane ka kynthei kaba itynnad ngi la leit iakynduh nyngkong eh ar snem mynshuwa mynta ka sngi .
+Ki leit skul ha ka skul shimet .
+Kumta ki leh aiu ?
+Nga la leit sha kiwei pat ki jingshah sumar kiba heh ha ki snem 1984 , 1988 , 1990 , 1993 , 1995 bad 1996 baroh ki dei namar ka jingbym lah treikam ki snier jong nga .
+Ka mut ban shakri ia ki nongkyrshan ha ka pyrthei ha kaba ka jingpeitngor jong ka sorkar kam jah . ho’oid ka long kumba kan nang kiew .
+" " " Kum u nongshong shnong ba rit paid , nga sngewkmen ba kane ka dei ka jingkut kaba ngi baroh ngi kwah na ka bynta jong ki ."
+Ka aiom lehkmen ka la jan .
+Text jong ka jingkren jong ki PM sha ki skhim pynbiang um ba kyrpang ba la pynshong nongrim ha ka pung Vatrak , Mazum bad Meswo , ha Modasa .
+Nangta la pyndap ia ki sohjew ba la shet bad la ailad ban shet haduh ban da jem bha ki jhur .
+Ki bor pyniaid ki la sdang ia ki jingpyrshang ban pynduh ia ki jingtwa bad ban pynioh biang ia ka jinglong jingman ha Visakhapatnam .
+Ka jinghap slap ka dang bteng ha ka them Kashmir ha ka sngi kaba saw lynter ha ka sngi thohdieng , kaba la pynlong ia baroh ki liengsuin ban leit sha kane ka jaka ban pynsangeh noh , la iathuh ki heh sorkar .
+Mar mar la pynkit ia u sha ki Hospital Apollo ha kaba u dang ioh jingsumar .
+Ha ka samoi treikam ba la dep , u Tomar u la shakri kum u nongpyniaid ia ki katto katne ki tnad kynthup ia ki par mawshun , ki nar , ki nongtrei bad ka kam bad ka roi ka par nongkyndong bad ka panchayati raj .
+Utei u tymmen u la mynsaw jur bad u la khlad noh .
+Ka jingeh ka don ha Washington .
+Ki jingtip shaphang ka jingai jingmut jong ka Agro , ka jinglong ka suinbneng , ka dor iew , ka jingiada ia ki jingthung bad kiwei kiwei . la ai sha ki nongrep da kaba shu nion ia u button .
+60 snem ki la iaid .
+Proberb 10 : 19 : Ha ka jingbun ki ktien ym don jingpalat , hynrei uta uba teh lakam ia la ki rmiang shyntur u leh da ka jingstad .
+Ki kompeni ba la pynrung kyrteng ha India kiba don ka jingdon jingem kaba Rs . 2 . 5 klur ngut ki lah ban apply .
+U lyngdoh u la shah teh ha ka muhor jong ka jingphla pop .
+Kane ka long kaba myntoi ha kiba bun ki jinglong .
+Hadien ka jingtohkit , nga bad u Paul ngi la sah phra bnai ha ka jingshah set phatok ha ka phatok Stasi ha Halle bad hadien pat ha Magdeburg .
+Ka International Olympic Committee ka la pynrem jur ia ka ri India namar ba ka la iaid pyrshah ia ka ain jong ka Olympic .
+Ka jingktah kaba khraw : Ka jingkyrshan mang tyngka kaba T.330 . 35 klur tyngka. kan iarap ban siew ia ka tulop bym pat siew bad ban ai jingkyrshan ia ka VRS jong ki nongtrei jong ka IDPL , RDPL bad HAL .
+Ki jhur ki la shah pynjulor namar ka jinghap slap ha ka jaka kaba 473 hektar ha ka distrik Nashik .
+Nga sngewsih ia ka jingkren jong u myntri .
+Ka jingphiah shibynta ka mut ka jingphiah kaba long shibynta .
+U Mahesh Bhatt , u Mukesh Bhat bad u Pooja kim pat ju iatreilang bad u Amitabh Bachchan mynshwa .
+Une u briew u dei uba la tip kyrteng kum u Swapnil Shrimali .
+U Bedi u byrngem ban leh da ka ain , u dawa ban weng noh mardor ia ka kyrteng jong u na ka ieng jong ka Kotla .
+Ia kiba suba don jingpang Corona yn phah na ka jaka ba kyrpang shabar sha ka jaka buh kyrpang .
+Ngam shym la pynbakla iano iano ruh .
+Shaphang ka pisa tyngka , to ngin nang ban pyndonkam hok ia kaei kaba ngi don , ha ka jaka ban pyrkhat ba ki jingmih kiba kham bha ki lah ban long tang da kaba pyndap ia ki lad jingiarap .
+Kumta , wat la ka Taiwan ka ong ba ka dei ka ri , kiwei pat ki jaitbynriew ki pynslem ia ka jingsngew jong ka China shaphang jong ka .
+Bad kano kano ka jingjngai kaba kham heh ban ia kane kaba r kham heh ban ia ka 2 d square da ka lambda kan long ka thain lyngkha kaba jngai .
+La bthah ruh ia u SSP jong ka Mansa ban thep ia ka jingthoh ba balei ba u IO um shym la wan mih ryngkat bad ka case diary bad balei ba la phah ia u heh pulit .
+Ka don ka jingeh ha ka jinglong .
+Ha ka sngi U Blei , ka iingbishar ka la kyntait ia ka jingkyrpad jamin jong ka .
+Na ka bynta jong phi nga la hired hi . . . ka long kaba sngewtynnad ban iohi biang ia phi .
+U MLA barim ka TDP kynnoh pynkhein ia ki kyndon , jingiateh lok .
+U Shah u la ong ba ka Priyanka ka la leit shabar ri haduh 99 sien naduh u snem 1991 , bad 78 tylli na kitei ki long khlem ka jingpynbiang SPG .
+Ka AAP kaba la ïoh ïa ki seat ha Ambala , Karnal bad Faridabad kan sa jer kyrteng ïa baroh lai ngut ki kyrtong ha ka sngi palei .
+Haba ki la iohi ia u Moses , ki briew ki la sheptieng bad u Moses u la tap ia ka khmat jong u .
+Kane ka la jia ryngkat bad ka jingpynmih ia ka DR DOS 5 . 0 ha ka snem 1990 .
+Ki nongtrei khlaw ki la poi sha katei ka shnong bad ki la pynbeit ban pynkynriah noh ia utei u khnai na katei ka jaka .
+Ka khlem phaidien shuh na kata .
+Hynrei ki shipai Turkey ki la ong ba katei ka jingpynhap liengsuin ka la jia halor ka Elaka Yayladagi jong ka jylla Turkey Hatay kaba don ha khappud bad ka Syria .
+Lada don kiba lah ban wad ia ka lad ban weng ia ka jingeh jong ka Jammu bad Kashmir dei u Myntri Rangbahduh ka ri u Narendra Modi , ka la ong .
+Ki lah ban jop ia kano kano ka team ha ka sngi jong ki .
+Ki khynnah ki ring mynsiem kham stet ban ia ki rangbah , ki shim ar shah ia ka Iyer kaba jakhlia sha ka met barit jong ki .
+Kata kan long kaba la kham slem nangta .
+Kynmaw kumno kita ki kynthei Tutsi ki ju peit shapoh ia ki shynrang Hutu da ki shyntur kiba jrong ?
+Ka elekshon sha ka iing dorbar thawain jong ka jylla Maharashtra ka la jan kut .
+Ngam tip aiu nga la leh ban pynlong ia ka .
+16 U Paul u la pyni ba u sngewthuh bha ia kane .
+Mynta ba u la pyllait , un sa trei bad ngi ha ka jylla .
+Ki kynhun ki thep 200 , 220 bad kajuh ka kynhun ha ka jingialehkai kaba bud ka ioh 120 , 130 .
+U Sanjeev Kalia, u nongthoh jong ka seng nongiasaid ain, Garhshankar. U cashier u Surinder Pal , u Gurdeep Saini , u Harpreet Singh , u Sanjeev Banga bad u Pawan Kumar .
+Ka kynhun ka la duh noh ïa ki ar tylli ki wiket ba nyngkong da kaba kamai 33 ron ha ka board score .
+Ki dkhot jong ka kynhun ki la kyntu ia u LG ban pynthikna ba ia ki District Development Council yn thaw kloi katba lah katba dang bat ia ki jinglong ba ha khlieh duh jong ka synshar paidbah da kaba pynurlong ia ki jingangnud jong ki paidbah .
+Ka jingpyniasoh ia ka 4G network ka la kylla ha India , da ka jingai sngewbha jong ka kompeni telecom hapoh ka ri ka Reliance Jio kaba la wanrah ia ka jingkylla ha ka digital ha ka ri da kaba sdang ha u snem 2016 .
+Ka Air India ka dei ka liengsuin kaba bha .
+Ki la pyndonkam da ka Twitter ban tohkit ia katei ka kam bad ki la pynbor ia ka sorkar ban pynsangeh noh ia katei ka jingpynkylla kam .
+Ha kane ka kynti , ka kam Mayor ka long tang na ka bynta u kyrtong uba dei na ka kyrdan Scheduled Caste .
+Ha u snem 1830 ka jingiadei bad ka jingiateh jong ka jingkylla ha Belgium khlem liang ki nong Bilat
+Kaei ka jingmut jong ki jingsawa jong ki turoi
+U myntri rangbah duh ka ri u Modi u la pynpaw ia ka bynta babha ba la leh da ki lad pathai khubor ha ki jingiakhih bapher bapher kum ka Swachh Bharat , ban pynduh noh ia ki plastic ba pyndonkam tang shisien , ban pynneh pynsah ia ka um , ka Fit India bad kiwei kiwei .
+Ka nongrwai ka Shweta Pandit kaba la kynnoh ia u nongthaw jingrwai ba la rim bha u Anu Malik halor ka jingleh be-ijot , ka ong ba ka jingshah lehbein ki khynnah kam dei kaba la shim khia bha da ki shynrang ha ka ri .
+Ki doktor kiba don ha ka kam ki la pyrshang katba lah ban pynim ia ka jingim jong ki nongpang , u la kam .
+La kyrshan bha ia u ha ka thma bad ha ki kam synshar da u khun jong u , u syiem Vira Narasimha II bad la pynkup burom ia ka syiem Umadevi .
+Sukros Ym palat ia ka 5 . 0 na ka shispah da ka jingkhia .
+Tang ban pyni ia ka jingduh kaba mih na ka jingleh bad ki jingma kiba sniew kiba mih na ka jingbym pynbeit ia ka .
+Ka jingiaryngkat ha ka ioh ka kot kam dei ban mut satia ka jingdon ia ki mar pyrthei kiba iaryngkat da baroh .
+Im thikna ba nga la ong ia kata .
+Ka met ba shakhmat jong ki kali ruh ka la shah pynjulor namar ka jingshah tynrah .
+Ki ktien India kum Hindi , Punjabi , Bengali , Urdu , Gujarati bad kiwei kiwei ruh la kyrshan .
+Nion hangne ​​ban pule ia ka shithi ba pura :
+Kine ki jingpyrshang ban iarap ia u nongialeh pyrshah ha ka sain pyrthei ki long kiba kyrpang ha kata ka por .
+Lada phi leh ia ki kam ïing , pyndep ïa ki kam ïing ba la aiti ïa phi , ne ïashim bynta ha ka kam pyrthei , pynngam ïalade ha kaei kaba phi leh .
+Ka Ankara ka don kham bunsien ha ka thain Anatolia Pdeng , bad shi bynta ha ka thain Duriaw Basaw .
+U briew uba ka kam jong u ka long ban ot , pynwan dur bad sumar ia ki bniat bad kumjuh ruh ban thep ia ki jingtap kum ka acrylic bad ka UV gel la ju khot teng teng u nongshna bniat .
+Kumjuh ruh yn nym shah ia kino kino ki samla ban mih na ka jaka eksamin shwa ban kut ka por ba la buh .
+Kiwei pat ki jingleh niam ki kynthup ia ka jingkiew ia u dieng uba la khleh umphniang , ka jingkhawai , bad ki jingiakop dih kyiad .
+Kum u nongpyniaid , la tip ia u na ka bynta ka jingpyni dur kaba sngewrit ia ki kynthei , ka jingjied ia ki khana rim na ka thoh ka tar India , bad ka jingpyniaid kaba sngewthuh ia ki mat kiba iaid shaphrang .
+Ha u snem 2017 , ki don 10 878 ngut ki samla pule kiba la ioh rung ha ka klas ba dang pule jong ki IIT .
+Katei ka jingjia ka la jia ha kashari jong ka Aramagh .
+Ngi donkam ia ka jingkyrshan kaba kham bun na ki paidbah jong ka Pakistan bad ka India .
+Ka paket kaba la ioh na ka MXit .
+U la pyni ba ka jingshah mudui halor ki kam shakri ka la nang kiew bha ha kine ki khyndiat sngi bad ka jingmih ka long ba mynta ki don kumba 50, 000 tylli ki mukotduma ha ka CAT .
+U khun barit jong u Sivaji Ganesan uba la khlad noh u Prabhu u don uwei u khun shynrang uba kyrteng u Vikram bad ka khun kynthei ka Aishwarya .
+Kiba bun ki riew shemphang ha ka saiñpyrthei bad ka koit ka khiah ki mynjur ba kam long kaba lah ban long ba ka Korea shatei lam mihngi kan don zero kiba ïoh ïa katei ka jingpang haduh mynta .
+10 ngut ki Maoist ki la shah pyniap ha Chhattisgarh
+Ka jait bad ka jingbun jong ka melanin ha ka sniehdoh jong phi ka pynthikna la phin kham lah ne kham duna ka jingiada na ka sngi .
+Namar ki daw kiba sngewsih , ka klob thoh khubor jong ka Greater Noida ka la sahkut noh mardor hadien ba la seng ia ka .
+Kumta , kaei kaba U Jehobah u shem ba ka long kaba pdiang ?
+Ka Steinem ka dei ka kmie tymmen jong u Christian Bale uba la ak kum u Bateman ha katei ka phlim .
+Wat la ka long ka kmie jong saw ngut ki khun hynrei kam shym la shongkurim hynrei ka im da ka jingiamynjur lang bad uwei u shynrang .
+La thang ia u kpa jong u nongjop Asiad Toors.
+uta u briew un tan mardor ia u paralok jong u
+" Ki nongialam ka BJP kim don nongrim akor ban kren pyrshah ia u Lamphang " " "
+Ha kane ka phlim la pyni ruh ia ka Manju Warrier ha ka bynta ba kongsan .
+Kumta ki kmie ki kpa ki lah ban leh aiu ban pynim ia ka jingim jong ki khun ?
+Ki baroh arngut ki la wan ban shong hangne ​​.
+Ngim dei ban iehnoh ia kane ka mat . Ngi hap ban pynkylla ia ka jinglong ban sngap jar ha ki surok .
+Ka jingjia ka long kumjuh ha Uttar Pradesh .
+U kpa jong ka Pooja, u Kailash Kumar, u dei uba trei kam man ka sngi bad ka kmie jong ka, ka trei ia ki kam kiba pher, kum ka jingpynkhuid.
+Ia ki jinglap la pynmih ha ka kot khubor jong ka jingiada ia ki jingbam .
+" U la ong ruh ba u nongialam ka Pakistan Peoples Party u Asif Ali Zardari u kren pyrshah ia u " " ban pynsngewbha iano iano " " . "
+Ka kam jong nga ka la kylla long ka jingim jong nga .
+Ïa kane ka projek la pynïaid da u Razneesh.
+Katba ia ki balang ba marjan mynta , ngi lah ban sngewskhem ia kaei ?
+Ngi dang tohkit ia kane ka kam .
+Sdang naduh u snem 1964 la pynsangeh noh ia ka na ka bynta ka surok bah 10 ne US 60 .
+Namar kane ka daw ki don shibun ki lad ki lynti jong ka jingpule kaba kham shajrong na ka bynta ki samla pule na Bangladesh kiba don shabar ri khamtam ha America , Canada , Australia bad United Kingdom .
+Im kylli namar ba ngam tip .
+Dei ban kdew ba ka Dhaka kam dei ka jaka kaba jrong kaba bteng .
+Ka Redmi 8 , kaba don ia ka battery kaba heh bha kaba 5000 mAh , la pyllait paidbah ha India .
+Ka shithi ka la ong ba ki rukom treikam jong ki pulit ki la kut bad ym shym la don kano kano ka jingeh ha ka ain ban thang ia ka met katkum ki riti niam .
+Ngam dei na ka bynta ban shongkurim kloi kumne .
+Ka jingkamai kaba heh ha kane ka taiew ka long na ka Axis Bank , Yes Bank bad ka Maruti Suzuki India .
+U la pyndep ruh ia ki kam kiba kongsan jong u .
+Ki don hynriew tylli ki kyrdan baroh .
+U la iehnoh ia ka hangta .
+Halor ka jingkren jong ka kmie kaba la khlad noh , ki pulit ki la register mukotduma pyrshah ia hynriew ngut ki briew kynthup ia ka tnga kaba la khlad noh , halor ka jingkynnoh ba ki la pynshlur ban pyniap ialade .
+U Trump u la ong ba um shym la pynphai kylla ia ka lynti .
+Ha ka sien kaba nyngkong , ki nongtrei jong ka Delhi Metro , ki nongtrei jong ka Northern Railway bad ki lad pathai khubor kiba pynmih khubor shaphang ka jingthep vote ki lah ruh ban pyndonkam da ka postal ballot ban thep vote .
+Kumno ngin lah ban pynduh jait ia ka bad kumta ngin weng noh ia ka jingbymshngain jong ka jingim junom ? Ia kane yn sa ia kren ha ka jingthoh kaba bud .
+Ka Rashmi Desai ka la pyni ia la ka jong ka telebishon da ka phlim Raavan ha kaba ka la ak ia ka dur jong ka tnga jong u ka Mandodari .
+Ka por kan sa pynpaw ia ka jingshisha .
+Naduh ba la plie ia ka Riti Synshar , ki nongmudui na baroh ki liang ki la leit sha kane ka iingbishar ban ioh jingiada bad pyntreikam ia ki hok ba kongsan jong ki .
+La pynbna ba ka ktien Portugal ka dei ka ktien kaba marwei . ka jingleh kaba la kyrshan da ki mishoneri Fransiskan .
+U la ai jamin ia u Shukla hadien ba u la weng noh ia ka jingkyrpad jong ki pulit ban shah set phatok .
+V . U Subhash , u nongsynshar bad u khun ksiew jong u Rao u la kynthoh kum u dkhot jong ka longïing jong u Mr . Narasimha Rao , nga sngew ba nga la shah pyndem ha u Dr . U Manmohan Singh .
+Ka jingkynmaw jong phi ka la biang ?
+Kiei ki jingbthah kiba phi lah ban buh na ka bynta lade ban iarap ia phi ban lait na ka jingshah pynshoi ? Ka nongrim jong ka Baibl : 2 Timothi 2 : 22 .
+Ka jingbakla kaba ym lah ban tip ka la jia . Kane ka kham lah ban long ka jingeh jong u Bug Buddy . Sngewbha pyntip ia kane ka jingeh da ka kti ha u no.
+Nga tip ba un ioh ha ki lai .
+Ia ki jingtip ba bniah jong u kapten barim ka India u Mahendra Singh Dhoni la pynpaw paidbah da ka Twitter jong ka Central Services Centre .
+Ka BJP ka ong ba ka Congress ka la thok ia ki nongrep da kaba buh ia u pud halor ka jingpynlait ram .
+U Marandi u la long u Myntri Rangbah ba nyngkong jong ka Jharkhand .
+Hynrei u Aaron Finch bad u David Warner ki dang sah khlem shah ktah .
+U Arjun Singh u dei u nongsynshar saiñ hima sima .
+Ia kane ka jingpyniaid la khmih lynti ba yn pyndep ha ka shiteng snem ba nyngkong jong u snem 2020 .
+Ka teknoloji ka don ka bynta kaba khraw .
+Kumno ngan pynim ia ka sngi ?
+Ki shakri jong U Jehobah ki kut jingmut ban long kiba khuid ha ka akor . Don kiba rai ban shongkurim khnang ban lait na ki jingeh ha kane ka bynta .
+Ka taiew kaba ar ka la ioh ia ka jingkamai kaba Rs .
+" " " Ka long kaba thok ia ki briew ."
+Ki pulit ki la ong ba yn sa tohkit bha ia kane ka kam bad ia ka daw ba shisha jong ka jingiap lah ban lap tang hadien ba la peit ia ka kaiphod jong ka met iap .
+Ka tnad pynroi ia ki briew ka jingshngain ha ki skul Ki sorkar jylla bad ki bor synshar jong ki jaka pdeng ki don ka jingkitkhlieh kaba beit ban pynthikna ia ka jingshngain jong ki khynnah skul ha ki skul kiba don hapoh ka jingsynshar jong ki .
+Ia kane ka jinglehkai shipai duriaw jong ka MALABAR kaba 24 la buh ban pynlong ha ki ar bynta ha u bnai Nohprah 2020 .
+Pak PM ai khublei ia u Modi ha ka sngi laitluid
+Ka jingpeit ia ka jingshah tap bnai da ka khmat ka lah ban pynmynsaw .
+Ka bha ba phin nym thmu ban pynmynsaw ia une u mrad , Mr . Ka jingbitar .
+" 20 Ka jingkwah jong ngi ban mane " " ia Uta Uba ym lah ban iohi " " ka dei ban pynlong ia ngi ban trei ban long ki nongpule kiba bha . "
+Ngi lah ban iohi ba ngi long kiba sniew khyndiat , hynrei ngi la don ki dohnud .
+" " " Ki bynta jong ka jingshna ki kynthup ia ka jingshim ia u dieng , ka jingpynsngem ia u dieng , ka jingot ia u dieng ha ki dur ba kwah , ka jingpynkhuid bad ker ia ki tiar ialehkai , ka jingpyndonkam ia ki rong bad khatduh eh ka jingpynbha ia ka mar ba la dep " " ".
+U la jubab ia ka jingkylli halor ka jinglah ban shah jied ia u kum u kyrtong myntri rangbahduh .
+Wat la katta ruh , u 6 bad u 35 ki long ki koprime .
+Ka India ka buddien bha ia ka jinglong jingman
+Ki la wan phai hadien ha ka por janmiet .
+Ki la pynlut ia ka jingkhein kaba phylla kaba long 1 , 144 , 566 , 849 kynta ban iakren bad kiwei pat shaphang U Blei bad ki jingthmu jong u .
+Halor kane la register ia ka mukotduma ha thanat Tilak Marg .
+La kynnoh ba ki pulit ki . . .
+Bad phi la bakla shaphang kane .
+Bad uta u briew un ym ioh ei ei lait noh tang ia kaei kaba u la ialeh ban ioh ?
+Ym shym la don ba mynsaw , la iathuh ka CNN .
+, Paralok , U la sdang ia ka jingleit ban tan ia ka ri jong ngi , ka imlang sahlang jong ngi na ka jingsniew , jingbymhok bad ki kam bakla kiba la rung shapoh .
+Shuwa ban shimti ia ka kam kaba mynta , u la long u Engineer Rangbah jong ka tnat shipai ba ha khlieh duh jong ka thain shatei lam mihngi .
+Katkum ka khubor na ka tnad pla tyngka , ka Pakistan ka la ioh ia ka kot jingkylli na ka kynhun peitngor ia ka jingai pisa ia ki lehnoh kaba don 150 tylli ki jingkylli , la iathuh ka Express Tribune .
+Un kyrkhu bad iada ia kito kiba sdang biang ia ka jingiasyllok kaba radbah bad ki briew jong u .
+Ki don mynta 2 , 11 , 277 ngut kiba shah peitngor ha ki district bapher bapher jong ka jylla .
+Ia kane ka phlim yn sa pynmih ha ka 15 tarik u Naitung .
+Ka Windward Islands ka la rung sha ka phainal bad ka Guyana bad hadien ba la set 155 ban jop , ka la hap noh ha ki lai tylli ki wiket ba nyngkong na ka bynta san ron .
+Kim dei ban bud ia ki briew kiba don sawdong jong ki kiba mane ia ki blei bad ki blei kynthei bapher bapher .
+Ka Hillary Clinton ruh ka don ka jingjop kaba shai halor u Trump ha ki jingthep vote jan baroh shi snem 2016 .
+Ha ka 30 tarik u Naiwieng 2013 nga la iakynduh ia u Myntri Rangbahduh jong ka Bhutan uba la leit jngoh ia ka ri India bad u la iakren ia ki mat kiba iadei bad ka jingpahara bad ka jingpyniaid ia ki khappud .
+Khlad noh u nongrwai ba pawnam u Pandit Jasraj
+Ym don ei ei kaba sah buhrieh ha ka juk mynta jong ka jingstad ba la nang la stad .
+Ia ki division la ai kyrteng kum ka Finsbury , ka Holborn , ka Kensington bad ka Tower .
+Hangno ngi la don haba u Hitler u la sdang ban pyrta ia ka jingshun jong u ha ka Syiem ?
+Kum u nongialehkai Test ngam dei ban leh ia kane .
+U myntri rangbah ka jylla u YS Jagan Mohan Reddy uba la pynkhuid ia ka file u la mynjur ia kane .
+i bad ii b . ii bad iii
+Ia kane ka phlim la pyni da u Prabhudheva bad la pynmih da ka Salma Khan , Arbaaz Khan bad u Nikhil Dwivedi hapoh ka lama jong ka Salman Khan Films .
+Ki pulit ka Warla ki la sdang ia ka jingtohkit bad ki dang tohkit ia kane ka kam na baroh ki liang .
+Yn bteng biang ha kiwei pat ki skul ha ka snem pule ban wan .
+Ka Bhilai Water Works ka don marjan bha bad ka Maitri Bagh kaba ai um kaba khuid ia ka shnong .
+U Sidhu u la kwah eh ban ioh ia ka tiket Congress na ka bynta ka tnga jong u ban iakhun na Chandigarh .
+" " " Haduh mynta , baroh ki dak kiba ngi don ki long ba ka Iran ha kano kano ka rukom ka donkti ha ka jingshah thombor ha ki karkhana pynmih umphniang jong ka Saudi , " " u la ong ha ki nongthoh khubor .
+Ka Tudu ka dei ka para jong u Rabindranath Murmu .
+1947 sha India baroh ki ri ki pynneh ia ka jingiadei paralok kaba bha .
+Shah dung u nongtrei jong ka Delhi Metro , shah lute 12 lak tyngka .
+Hynrei ka Bench ka la ong ba halor kata ka nongrim ym lah ban pdiang ia ka jingkyrpad jong u Chidambaram pyrshah ia ka rai jong ka iingbishar ba ha khlieh duh .
+Nangta u la leit ban pyniap ialade .
+Kumno ngi la leh ia kata ? Ka la long kaba eh shibun .
+Ki bor synshar ki la pynmih ia ki jingmaham ia ka jingshlei um da kaba kyrpad ia ki briew ban leit sha ki jaka kiba kham shngain .
+U kew , u kba , u phan , u kew , u kew , u sohjew , u sohjew , u duma bad u sohjew ki long ki jingthung ba kongsan .
+Ha kaba sdang , ki la pule ia ki sim rit ha ka thain Mandya , ki la shim ia ka jingim jong ki sim kiba sngewtynnad bad ki la thoh ia ka jingpynkylla jong ki ia ki jaka shong jaka sah kiba kylla .
+Kumta , ki don ka jingkitkhlieh ban pynthikna ia ka jingpyntreikam jong ki ha ka por kaba biang .
+Ngin sa jubab lyngba ka vote .
+Ki panik ki long kiba plie , bad ki don haduh 9000 tylli ki symbai ha uwei u jingthung .
+Ka jingbthei bom kaba la bthei ka la pyniap ia 41 ngut bad pynmynsaw ia 84 ngut kiwei pat hynnin ka sngi ha kawei ka jaka pynlong kolshor ha ka nongbah jong ka Afghanistan , Kabul .
+Lada kine ki lad ki don , ka jingsynshar bar ri ' kam dei ka jingsniew kaba khlem khleh lang . ka lah ban long ka jingsniew satia .
+Katto katne ki sienjam ki dang shim ha kane ka bynta .
+" " " Khublei ia ka jingsngewrit bad jingieit baroh kaba phi la pynhap ha ngi ."
+Watla ka India kam dei ka nongïalehkai ba kongsan ha ki iew pyrthei ka India ka la pyndonkam ïa ki mar kiba wan nabar , man la ka por ba don ka jingduna ha ka jingpynbiang .
+U la dei ban sdang ban iaid shakhmat !
+Ha kajuh ka por ki don sa 15 ngut kiba ioh positive thymmai ha ka jylla .
+Wat buh jingeh ia ki pulit .
+Ym don mano mano ba kwah ban shah iehnoh shadien .
+Halor ka jinglong jingman jong ka kam khaii ha India .
+Ka Ela ka la shah teh ha ka jingeh hapdeng ka jingieit jong ka ia u Atindra bad ka jingaiti jong ka ia la ka ri .
+Ka kamra shet kaba mynta ka ap ia ki nongwan hotel ryngkat bad ki jain bad ki tiar shet kiba thymmai .
+Ka kyrteng bashisha jong u ka long u Muhammad Mubariz Khan .
+Ngi lah ban pyrshang ban iohi ia ki briew kumba U Jisu u iohi ia ki , kum kiba la shah pynsniew bad shah pynpra kum ki langbrot khlem nongap langbrot .
+Yn leh da kaba tyngeh ia kito kiba shim ia ka ain ha ki kti jong ki .
+Kine ki jylla ki shaniah shibun ha kane ka lynti rel na ka bynta ban pynbiang ia u khaw , ki sboh , ki mar umphniang , ki tiar shna ïing bad kiwei kiwei ki mar .
+" 5 tylli ki Escalator ruh la buh . " " Ka Passport Seva Kendra ha Baramati ka la sam 5000 tylli ki passport haduh mynta bad ka la pynsuk ia ka jingim jong ki riew paidbah . "
+Ha ka Pentekost 33 H . E . , U Jehobah u la sdang ban jied ïa ki dkhot ba ar jong u symbai u Abraham .
+Shisien ba la dep , thep ia ka pack ha ka khmat , bad kumjuh ruh ha ki kti bad ki kjat , na ka jaka ba phi kwah ban pynduh ia ki shniuh bym kwah .
+Kumba phi lah ban mutdur , ki don bun ki jingduna hapoh ki system .
+Hapdeng kata , nga la ioh katto katne ka jingtip shaphang ka sha .
+Hadien kata , ka kynhun programming ka peit ia ki jingdonkam jong kawei pa kawei na kita ki kam bad la pynbud biang ia ka rukom treikam .
+Yn pynkmen ia phi da ka bynta Ka Paradais ba la ioh biang ! ryngkat bad ka sla ba khatduh ba la pyni dur da ki rong , kaba la ai kyrteng Ka Khubor jong ki Baibl Ka Jingbishar bniah .
+" " " Ha ka jingïalang baroh kawei , ngi pyrkhat ba ka jinglong pdeng ka treikam ."
+Nga khmih lynti ban bteng ia kane ka dur ha ka samoi ban wan .
+Wat la kiba bun ki dkhot jong ki jaitbynriew Iroquois ki la leit sha Canada ryngkat bad ki Nongïalam , kiwei pat ki la pyrshang ban sah ha New York bad ki jaka ba shathie ban pynneh pynsah ïa ki jaka jong ki .
+Ki la shim lut ia ki tiar jong nga baroh kynthup ia ka phone jong nga .
+Lada pyndonkam hok ia ka Internet ka lah ban long ka lad ban ioh jingtip kaba iarap shaphang ka jinglong ka suinbneng , ka jingleit jingwan bad kiwei kiwei ki sobjek .
+Hynrei ka jingmih ka long kaba pher .
+Kin don shibun ki jingtynjuh ha ka lynti .
+Ki dur : Ki riew pawkhmat jong ka Bollywood ha ka jingpynlait paidbah ia ka calendar 2015 jong u Dabboo Ratnani
+Kham mynshwa la peit bein ia u briew uba leit jingleit ha ka kali kaba lai .
+U briew u la bat bad 10 kg u ganja
+Ki pulit ki la register ia ka mukotduma katkum ka kyndon 504 bad 507 jong ka Indian Penal Code .
+9, 10. Balei ngim dei ban khmih sha ki briew ban ai ka jingpyllait ?
+Nga kyrmen ba ki ri kiba kham bun kum ka France kin wan shakhmat na ka bynta ka jingithuh lang ia ki jingnang jingstad khnang ba ka jingiaid lynti jong ki samla pule bad ki riew shemphang kan nang kiew , la bynrap biang u MrJavadekar .
+Ka jingpyniasoh bording bad ka um ka la shah pynduh noh .
+Ka Bajaj ka la pynthikna ba kane ka thuk thuk kan sa die biang hadien khyndiat bnai .
+La pynlong ia ka jingwad bniah ia ka koit ka khiah kaba ktah ia ki 57 863 tylli ki longing kiba la saphriang ha ki 62 tylli ki ward , ki shnong .
+Ka Tata ka jaka pule jong ka imlang sahlang , ha Mumbai .
+Ia ka hukum kaba bniah ha kaba iadei bad kane yn sa pynmih da ka tnad LS hadien .
+Nga shu sngewthuh ia ka jingmut .
+Wat hapdeng ka jingpynjot ia ki khlaw slap , ka ïew Borneo ka dang bat ïa ka jingbun jait ki jingthaw ba im hapoh jong ka , ong ka kot khubor .
+Ka jinglong ba shai jong u ka long kawei pat ka jinglong kaba sngewtynnad bad um ju artatien ban khot ia u spah spah , u la bynrap .
+Ka Embassy jong ka ri ha Budapest ha Hungary .
+Ka Korea South ka la long kaba ha khlieh duh ha ka pyrthei da ka jingstet ban download kaba 95 . 11 mbps bad ka jingstet jong ka jingpynrung ka long 17 . 55 mbps ha ka jingpyndonkam ia ki mobile .
+Mynta nga don ka lad ban long u briew uba nyngkong .
+U Andrew Strauss u kapten barim ka England u la hiar shuki kum u director jong ka ECBs ha ka kriket.
+" U la ong , " " ngi sngewthuh ba ka jingpynbna ka la pynsngewsih ia ki katto katne ki briew kynthup ia ki dkhot jong ka imlang sahlang bank ba donburom jong ngi ."
+" " " Ka Jingpynkhuid " " " .
+Kane ka dei ka thup jong ki jaka ba pawnam jong ka kolshor ha ka jylla Albacete ha Spain .
+Ki nar um kiba ju pyndonkam ki wanrah ia ki jingeh kiba rit ha kaba maramot .
+Ka dei ka lynnong kaba nyngkong jong ka Bynta XXI jong ka Riti Synshar .
+Kat kum ka kaiphod ba la ai sha ka Planning Commission kumba 2 lak hectare ki jaka ba sboh ki shah ktah ha ka jingshlei um .
+" Kito kiba la ong shaphang ki para jong ki , kumba ki sahdien , " " Lada ki la kohnguh ia ngi , kin ym shym la shah pyniap ." " To ong , " " Te to kiar na ka jingiap na lade , lada phi long kiba shisha . " " " "
+La ker sawdong ia ka Vijaynagar da ka Myanmar ha ki lai tylli ki liang bad ka liang kaba saw ka kynthup ia ki bynta jong ka Namdapha National Park .
+Ngi leit sha ki jingiaseng ha ka por mynta .
+Ka Anupriya Madhumita Lakra ka la kylla long ka kynthei riewlum kaba nyngkong eh na Odisha ban long ka nongniah liengsuiñ ha ka kam khaii .
+Ka Saskatchewan ka pyndonkam ia ki jingphiah jingkhein briew ha ka jaka jong ki county , bad ka British Columbia ka pyndonkam ia ki Regional District . Lah ban pynlyngkot ia ka County kum kawei na ki co . lane cty .
+" La iakren bad u myntri ka tnad rel u Shri Piyush Goyal bad u dang buddien bha ia ka jinglong jingman " " "
+" " " Ha Maharashtra yn sa leh shen ia ka jingpynheh ia ka kynhun Myntri ."
+Sngewbha Iadon ryngkat bad Ngi Na Ka bynta Ka Jinglehniam Ba Kyrpang Sngi Saitjain , Risaw 11 , 1998 .
+Ia kane ka mukotduma dang bishar ha ka iingbishar jong ka Germany haduh mynta ka sngi .
+Katto katne kiwei pat ki mat ba la pyrkhat ki long :
+Hadien ka sngi jong ka Ri , ngin sa pyrkhat hato ka jingim miet ha Bengaluru ka long kaba lah ne em .
+Shuh shuh la pynthymmai ia ki jaka sumar ha Tirunelveli , Coimbatore , Thanjavur bad Chengalpattu Government Medical College Hospital ha ka jinglut kaba Rs . 20 klur tyngka .
+Ka long kaba lah ba ki rel ha baroh ar ki lynti rel Iberian bad India kin iaid ha ki lynti jong uwei pa uwei khlem da pynkylla ei ei ha kiba bun ki khep .
+Hapoh ka skhim AMRUT , HADUH mynta 445 tylli ki kam kiba kot sha ka Rs . 11, 441. 32 klur la shim .
+Ha kane ka jingïaid paidbah ba sngap jar bad ïaid dieng sharak ki la ïashim bynta da u District Collector u C Sureshkumar , u Superintendent of Police u C Vijayakumar bad kiwei ki heh sorkar .
+Peit bniah ia ka shini ha ka snam , tehlakam ia ka jingbam , lehkai man ka por bad dih dawai katkum ba la bthah .
+Ha ka por ba la ker kut , u Abu Sufyan u la iakynduh ia ka jaitbynriew Jiw kaba dang sah jong ka Banu Qurayza bad u la iateh bad ki , ban hiar thma ia ki nongialeh pyrshah na shadien ki lain .
+Ujor mukotduma ka CBI pyrshah ia u Dy Legal Adviser halor ka jingleh thok , jingleh thok .
+Ki jingai sngewbha jong ki phone ba itynnad jong ka Amazon
+Ym shym la don kiba iap shabar jong ka China .
+Ha ka Kochi corporation council kaba don 74 ngut ki dkhot , ka UDF ka don 38 ngut katba ka LDF ka don 34 ngut .
+" U president ka Congress u la dep ai burom ia ki nongtrei kiba trei shitom jong ki ban pynthikna ia ka jingjop jong ka party ha Rajasthan , Madhya Pradesh bad Chhattisgarh " " u la ong ha ki nongthoh khubor hangne ​​. "
+Phang ding khlaw kaba jur ha Srinagar
+Ka rud duriaw kaba itynnad ka long ka jingbam na ka bynta ki nongieit frame ba ka bneng kaba saw ksiar , ha ka por ba sep ka sngi , ka ai .
+Lada phi ruh phi sngewkhia ha kaba iadei bad ka thyroid , te ngin sa iathuh ia phi katto katne ki jingai jingmut na iing kiba lah ban pyndonkam ban sumar ia kane ka jingpang .
+Kim sngew lehrain ne tieng .
+Hynrei ka jingthoh ka ong shuh shuh : Kiba bun ki samla ki sngew ba ki dei ban ioh katba lah ki jingdon jingem kum ki paralok jong ki , kaba pynbor ia ki ban rung ha ka jaka trei .
+Mynjur ka Centre ban thaw ia ka Govt Medical College ba thymmai ha Hoshiarpur
+Ia kane ka pisa yn buh beit sha ka account jong ki kmie ki kpa jong ki khynnah skul lyngba ka RTGS .
+" " " Haba iakren bad ki nongtrei jong ki Electronic Manufacturing Unit bapher bapher , u Myntri Rangbah u la ong ba ka ri India ka la iaid jngai bha ha ka kam shna tiar Electronic Hardware ha kine ki 4 snem ba la dep . " " "
+Baroh arliang ki long , pynban , kiba sngewskhem mar katjuh ia ka jingjop .
+Ki kynthei ruh ki leh ia ka bynta kaba kham heh ha kaba leit jingleit na ka bynta ki kam iing kam sem .
+Ka dei ka jingjop kaba ar jong kane ka samoi na ka bynta u Bottas bad kaba phra ha ka jingim jong u .
+Ki nongialehkai Paralympic ki pyndep sted ia ka jingmareh 1500m ban ia u nongjop takma ksiar ha Rio Olympic
+10 , 000 na ka bynta kawei ka jingpyniaid ba la shah , bad Rs .
+U Anil Kapoor bad u Jackie Shroff ki la khreh ban ia kynduh biang bad u nongpyniaid ia ka phlim ' Ram Lakhan ' u Subhash Ghai .
+Ka jingrwai ba la pyndonburom da u nongrwai James Arthur ka la mih ha ka 30 tarik u Iaiong 2017 .
+Kumjuh ruh ka jingpang shini ka dei ka jingpang kaba slem bha kaba ym don dawai ban pynkoit .
+Ha katei ka phlim yn iohi ia u Devgn ba u thoh ia ka bynta jong u nongialam jong ka kynhun shipai u Vijay Karnik .
+La hukum ban tohkit halor kane ka kam .
+Ki tnad pahara jong ka Pakistan kim shym la pynduh jingkyrmen namar ba kata ka khana kaba thikna ka la mih shen .
+Kane ka skhim Rs 348 kan ai ïa ki jingkhot Local bad STD khlem jingsiew ha baroh ki network ha India ryngkat bad ka data kaba 50MB .
+Ki jingjia bom ha Turkey la ngeit ba ki dei ki jingpynpaw jong ka jingbitar jong ka IS halor ka jingkylla jong ka polisi jong ka Ankara .
