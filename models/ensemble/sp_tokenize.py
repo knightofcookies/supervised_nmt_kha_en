@@ -40,24 +40,24 @@ def tokenize_file(input_file, model_prefix, output_file):
             outfile.write(" ".join(tokenized_line) + "\n")
 
 
-en_train = "en_train.txt"
-en_test = "en_test.txt"
-kha_train = "kha_train.txt"
-kha_test = "kha_test.txt"
+en_train = "C:\\Users\\ahlad\\Computer Programming\\GitHub\\supervised_nmt_kha_en\\models\\ensemble\\multi30k_train_en.txt"
+# en_test = "C:\\Users\\ahlad\\Computer Programming\\GitHub\\supervised_nmt_kha_en\\datasets\\en_nits_test.txt"
+de_train = "C:\\Users\\ahlad\\Computer Programming\\GitHub\\supervised_nmt_kha_en\\models\\ensemble\\multi30k_train_de.txt"
+# kha_test = "C:\\Users\\ahlad\\Computer Programming\\GitHub\\supervised_nmt_kha_en\\datasets\\kha_nits_test.txt"
 
-en_model_prefix = "en_nits_unigram"
-kha_model_prefix = "kha_nits_unigram"
-en_vocab_size = 500
-kha_vocab_size = 500
+en_model_prefix = "en_multi30k_unigram"
+kha_model_prefix = "de_multi30k_unigram"
+en_vocab_size = 6312
+de_vocab_size = 11068
 
 train_tokenizer(en_train, en_model_prefix, en_vocab_size)
-train_tokenizer(kha_train, kha_model_prefix, kha_vocab_size)
+train_tokenizer(de_train, kha_model_prefix, de_vocab_size)
 
 
 tokenize_file(en_train, en_model_prefix, "en_train.tok")
-tokenize_file(en_test, en_model_prefix, "en_test.tok")
-tokenize_file(kha_train, kha_model_prefix, "kha_train.tok")
-tokenize_file(kha_test, kha_model_prefix, "kha_test.tok")
+# tokenize_file(en_test, en_model_prefix, "en_test.tok")
+tokenize_file(de_train, kha_model_prefix, "de_train.tok")
+# tokenize_file(kha_test, kha_model_prefix, "kha_test.tok")
 
 
 print(

@@ -167,3 +167,12 @@ pickle_dump
 en_lines.txt
 loi.txt
 ol.txt
+en.txt
+kha.txt
+en_train.txt
+kha_train.txt
+en_test.txt
+kha_test.txt
+*.tok
+*.vocab
+*.model
