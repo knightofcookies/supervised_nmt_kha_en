@@ -413,40 +413,6 @@ class ConvMultiStepAttention(nn.Module):
         return context_output, attn
 
 
-# At the moment this class is only used by embeddings.Embeddings look-up tables
-# class Elementwise(nn.ModuleList):
-#     """
-#     A simple network container.
-#     Parameters are a list of modules.
-#     emb is a 3d Tensor whose last dimension is the same length
-#     as the list.
-#     emb_out is the result of applying modules to emb elementwise.
-#     An optional merge parameter allows the emb_out to be reduced to a
-#     single Tensor.
-#     """
-
-#     def __init__(self, merge=None, *args):
-#         assert merge in [None, "first", "concat", "sum", "mlp"]
-#         self.merge = merge
-#         super(Elementwise, self).__init__(*args)
-
-#     def forward(self, emb):
-#         emb_ = [feat.squeeze(2) for feat in emb.split(1, dim=2)]
-#         emb_out = []
-#         # for some reason list comprehension is slower in this scenario
-#         for f, x in zip(self, emb_):
-#             emb_out.append(f(x))
-#         if self.merge == "first":
-#             return emb_out[0]
-#         elif self.merge == "concat" or self.merge == "mlp":
-#             return torch.cat(emb_out, 2)
-#         elif self.merge == "sum":
-#             return sum(emb_out)
-#         else:
-#             return emb_out
-
-
-# Corrected Elementwise class
 class Elementwise(nn.ModuleList):
     def __init__(self, merge=None, *args):
         assert merge in [None, "first", "concat", "sum", "mlp"]
@@ -963,6 +929,7 @@ class CNNEncoder(nn.Module):
         self.embeddings = embeddings
         input_size = embeddings.embedding_size
         self.linear = nn.Linear(input_size, hidden_size)
+        init.xavier_uniform_(self.linear.weight) 
         self.cnn = StackedCNN(num_layers, hidden_size, cnn_kernel_width, dropout)
 
     def forward(self, input, src_len=None, hidden=None):
@@ -1010,6 +977,7 @@ class CNNDecoder(nn.Module):  # Inherit directly from nn.Module
 
         input_size = self.embeddings.embedding_size
         self.linear = nn.Linear(input_size, hidden_size)
+        init.xavier_uniform_(self.linear.weight)
         self.conv_layers = nn.ModuleList(
             [
                 GatedConv(hidden_size, cnn_kernel_width, dropout, True)
@@ -1128,7 +1096,7 @@ de_vocab = build_vocab("de_train.tok", de_sp)
 
 # 2. Create Embeddings instances:
 
-word_vec_size = 256
+word_vec_size = 512
 en_vocab_size = len(en_vocab)
 de_vocab_size = len(de_vocab)
 word_padding_idx = en_vocab["<blank>"]
@@ -1241,7 +1209,6 @@ def train_en_to_de(
         start_time = time.time()
         total_loss = 0
 
-        # Shuffle the data *before* batching
         data = list(zip(en_train, de_train))
         random.shuffle(data)
         en_train, de_train = zip(*data)
@@ -1293,6 +1260,7 @@ def train_en_to_de(
                 de_target_output.contiguous().view(-1),
             )
 
+            optimizer.zero_grad()
             loss.backward()
             optimizer.step()
             total_loss += loss.item()
@@ -1300,17 +1268,18 @@ def train_en_to_de(
         end_time = time.time()
         epoch_time = end_time - start_time
 
+        total_loss = total_loss / len(en_train)
+
         print(
             f"Epoch: {epoch+1}/{num_epochs}, Loss: {total_loss:.4f}, Time: {epoch_time:.2f}s"
         )
 
 
-# Example training call (English to desi):
 optimizer_en_de = optim.Adam(
     list(en_encoder.parameters())
     + list(de_decoder.parameters())
     + list(output_layer_de.parameters()),
-    lr=0.001,
+    lr=0.0001,
 )
 
 en_encoder.to(device)
@@ -1328,8 +1297,8 @@ train_en_to_de(
     de_vocab,
     en_sp,
     de_sp,
-    num_epochs=5,
-    batch_size=32,
+    num_epochs=30,
+    batch_size=128,
 )
 
 
