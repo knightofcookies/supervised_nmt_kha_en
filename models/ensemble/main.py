@@ -929,7 +929,7 @@ class CNNEncoder(nn.Module):
         self.embeddings = embeddings
         input_size = embeddings.embedding_size
         self.linear = nn.Linear(input_size, hidden_size)
-        init.xavier_uniform_(self.linear.weight) 
+        init.xavier_uniform_(self.linear.weight)
         self.cnn = StackedCNN(num_layers, hidden_size, cnn_kernel_width, dropout)
 
     def forward(self, input, src_len=None, hidden=None):
@@ -1081,8 +1081,8 @@ def build_vocab(filepath, tokenizer):
     return vocab
 
 
-en_model_prefix = "en_multi30k_unigram"
-de_model_prefix = "de_multi30k_unigram"
+en_model_prefix = "en_multi30k_bpe"
+de_model_prefix = "de_multi30k_bpe"
 
 en_sp = spm.SentencePieceProcessor()
 de_sp = spm.SentencePieceProcessor()
@@ -1090,17 +1090,14 @@ de_sp = spm.SentencePieceProcessor()
 en_sp.Load(f"{en_model_prefix}.model")
 de_sp.Load(f"{de_model_prefix}.model")
 
-en_vocab = build_vocab("en_train.tok", en_sp)
-de_vocab = build_vocab("de_train.tok", de_sp)
-
 
 # 2. Create Embeddings instances:
 
 word_vec_size = 512
-en_vocab_size = len(en_vocab)
-de_vocab_size = len(de_vocab)
-word_padding_idx = en_vocab["<blank>"]
-de_word_padding_idx = de_vocab["<blank>"]
+en_vocab_size = en_sp.GetPieceSize()
+de_vocab_size = de_sp.GetPieceSize()
+en_word_padding_idx = en_sp.pad_id()
+de_word_padding_idx = de_sp.pad_id()
 dropout = 0.1
 position_encoding = True
 
@@ -1108,7 +1105,7 @@ position_encoding = True
 en_embeddings = Embeddings(
     word_vec_size,
     en_vocab_size,
-    word_padding_idx,
+    en_word_padding_idx,
     position_encoding=position_encoding,
     dropout=dropout,
 )
@@ -1123,14 +1120,16 @@ de_embeddings = Embeddings(
 )
 
 
+for embedding in en_embeddings.emb_luts:
+    init.xavier_uniform_(embedding.weight)
+for embedding in de_embeddings.emb_luts:
+    init.xavier_uniform_(embedding.weight)
+
 # 3. Numericalize input and get embeddings:
 
 
-def numericalize(text, vocab, tokenizer):
-    tokens = tokenizer.EncodeAsPieces(text)
-    ids = [
-        vocab.get(token, vocab["<unk>"]) for token in tokens
-    ]  # Handle unknown tokens
+def numericalize(text, tokenizer):
+    ids = tokenizer.EncodeAsIds(text)
     return torch.tensor(ids)
 
 
@@ -1175,7 +1174,7 @@ de_decoder = CNNDecoder(
 output_layer_de = nn.Linear(512, de_vocab_size)
 
 # Loss Function
-criterion = nn.CrossEntropyLoss(ignore_index=word_padding_idx)
+criterion = nn.CrossEntropyLoss(ignore_index=de_word_padding_idx)
 
 
 # Training Loop
@@ -1185,8 +1184,6 @@ def train_en_to_de(
     output_layer_de,
     criterion,
     optimizer,
-    en_vocab,
-    de_vocab,
     en_sp,
     de_sp,
     num_epochs=10,
@@ -1203,7 +1200,7 @@ def train_en_to_de(
                 de_data.append(de_line.strip())
         return en_data, de_data
 
-    en_train, de_train = load_data("en_train.tok", "de_train.tok")
+    en_train, de_train = load_data("multi30k_train_en.txt", "multi30k_train_de.txt")
 
     for epoch in range(num_epochs):
         start_time = time.time()
@@ -1218,17 +1215,13 @@ def train_en_to_de(
             de_batch = de_train[i : i + batch_size]
 
             # Numericalize and pad the *entire batch*
-            en_numericalized = [
-                numericalize(text, en_vocab, en_sp) for text in en_batch
-            ]
-            de_numericalized = [
-                numericalize(text, de_vocab, de_sp) for text in de_batch
-            ]
+            en_numericalized = [numericalize(text, en_sp) for text in en_batch]
+            de_numericalized = [numericalize(text, de_sp) for text in de_batch]
 
             en_lengths = torch.tensor([tensor.shape[0] for tensor in en_numericalized])
 
             en_input = nn.utils.rnn.pad_sequence(
-                en_numericalized, padding_value=word_padding_idx, batch_first=True
+                en_numericalized, padding_value=en_word_padding_idx, batch_first=True
             )
             de_input = nn.utils.rnn.pad_sequence(
                 de_numericalized, padding_value=de_word_padding_idx, batch_first=True
@@ -1287,81 +1280,76 @@ de_decoder.to(device)
 output_layer_de.to(device)
 criterion.to(device)
 
-train_en_to_de(
-    en_encoder,
-    de_decoder,
-    output_layer_de,
-    criterion,
-    optimizer_en_de,
-    en_vocab,
-    de_vocab,
-    en_sp,
-    de_sp,
-    num_epochs=30,
-    batch_size=128,
-)
+# train_en_to_de(
+#     en_encoder,
+#     de_decoder,
+#     output_layer_de,
+#     criterion,
+#     optimizer_en_de,
+#     en_sp,
+#     de_sp,
+#     num_epochs=30,
+#     batch_size=128,
+# )
 
 
 def evaluate_en_to_de(
     en_encoder,
     de_decoder,
     output_layer_de,
-    en_vocab,
-    de_vocab,
     en_sp,
+    de_sp,
     en_input,
 ):
     """Evaluate English to German translation."""
     en_encoder.eval()
     de_decoder.eval()
     with torch.no_grad():
-        en_numericalized = (
-            numericalize(en_input, en_vocab, en_sp).unsqueeze(0).to(device)
-        )
-        en_lengths = torch.tensor([en_numericalized.shape[0]]).to(device)
+        en_numericalized = numericalize(en_input, en_sp).unsqueeze(0).to(device)
+        en_length = torch.tensor([en_numericalized.shape[1]]).to(device)
         en_input = nn.utils.rnn.pad_sequence(
-            en_numericalized, padding_value=word_padding_idx, batch_first=True
+            en_numericalized, padding_value=en_word_padding_idx, batch_first=True
         ).to(device)
 
-        en_encoded, en_remap, en_lengths_output = en_encoder(en_input, en_lengths)
+        en_encoded, en_remap, en_lengths_output = en_encoder(en_input, en_length)
 
         de_decoder.init_state(None, en_encoded, en_remap)
 
         de_decoded_words = []
-        de_prev_word = torch.tensor([[de_vocab["<sos>"]]]).to(device)
+        de_prev_word = torch.tensor([[de_sp.bos_id()]]).to(device)
 
-        for _ in range(50):  # Max output length
-            de_decoder_output, de_attns = de_decoder(
+        for _ in range(en_length + 5):  # Max output length
+            de_decoder_output, _ = de_decoder(
                 de_prev_word, en_encoded, memory_lengths=en_lengths_output
             )
 
             output = output_layer_de(de_decoder_output)
             de_predicted_word = output.argmax(2).squeeze()
 
-            if de_predicted_word.item() == de_vocab["<eos>"]:
+            if de_predicted_word.item() == de_sp.eos_id():
                 break
 
-            de_decoded_words.append(
-                list(de_vocab.keys())[
-                    list(de_vocab.values()).index(de_predicted_word.item())
-                ]
-            )
+            # de_decoded_words.append(
+            #     list(de_vocab.keys())[
+            #         list(de_vocab.values()).index(de_predicted_word.item())
+            #     ]
+            # )
+            de_decoded_words.append(de_sp.IdToPiece(de_predicted_word.item()))
 
             de_prev_word = de_predicted_word.view(1, 1)
 
     en_encoder.train()
     de_decoder.train()
-    return "".join(de_decoded_words).replace(" ", " ")
+    return "".join(de_decoded_words).replace("▁", " ")
 
 
-en_input_sentence = "This is an example sentence."
+en_input_sentence = "A little girl climbing into a wooden playhouse."
 translated_sentence_de = evaluate_en_to_de(
     en_encoder,
     de_decoder,
     output_layer_de,
-    en_vocab,
-    de_vocab,
     en_sp,
+    de_sp,
     en_input_sentence,
 )
 print(f"Translated Sentence (German): {translated_sentence_de}")
