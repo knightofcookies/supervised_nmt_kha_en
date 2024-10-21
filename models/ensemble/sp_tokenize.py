@@ -14,8 +14,16 @@ def train_tokenizer(input_file, model_prefix, vocab_size):
         input=input_file,
         model_prefix=model_prefix,
         vocab_size=vocab_size,
-        model_type="unigram",  # or 'unigram', 'char', 'word'
+        model_type="word",  # or 'unigram', 'char', 'bpe'
         character_coverage=1.0,  # For languages with large character sets
+        pad_id=0,
+        unk_id=1,
+        bos_id=2,
+        eos_id=3,
+        pad_piece="[PAD]",
+        unk_piece="[UNK]",
+        bos_piece="[BOS]",
+        eos_piece="[EOS]",
         #  Add other training parameters as needed (e.g., user_defined_symbols)
     )
 
@@ -45,10 +53,10 @@ en_train = "C:\\Users\\ahlad\\Computer Programming\\GitHub\\supervised_nmt_kha_e
 de_train = "C:\\Users\\ahlad\\Computer Programming\\GitHub\\supervised_nmt_kha_en\\models\\ensemble\\multi30k_train_de.txt"
 # kha_test = "C:\\Users\\ahlad\\Computer Programming\\GitHub\\supervised_nmt_kha_en\\datasets\\kha_nits_test.txt"
 
-en_model_prefix = "en_multi30k_unigram"
-kha_model_prefix = "de_multi30k_unigram"
-en_vocab_size = 6312
-de_vocab_size = 11068
+en_model_prefix = "en_multi30k_word"
+kha_model_prefix = "de_multi30k_word"
+en_vocab_size = 7500
+de_vocab_size = 7500
 
 train_tokenizer(en_train, en_model_prefix, en_vocab_size)
 train_tokenizer(de_train, kha_model_prefix, de_vocab_size)
