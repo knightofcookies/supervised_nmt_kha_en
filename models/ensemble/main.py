@@ -81,6 +81,7 @@ class Seq2SeqTransformer(nn.Module):
             num_decoder_layers=num_decoder_layers,
             dim_feedforward=dim_feedforward,
             dropout=dropout,
+            batch_first=True,
         )
         self.generator = nn.Linear(emb_size, tgt_vocab_size)
         self.src_tok_emb = TokenEmbedding(src_vocab_size, emb_size)
@@ -133,8 +134,8 @@ def generate_square_subsequent_mask(sz):
 
 
 def create_mask(src, tgt, src_pad_idx, tgt_pad_idx):
-    src_seq_len = src.shape[0]
-    tgt_seq_len = tgt.shape[0]
+    src_seq_len = src.shape[1]
+    tgt_seq_len = tgt.shape[1]
 
     tgt_mask = generate_square_subsequent_mask(tgt_seq_len)
     src_mask = torch.zeros((src_seq_len, src_seq_len), device=DEVICE).type(torch.bool)
@@ -2903,178 +2904,371 @@ optimizer = torch.optim.Adam(
 
 
 # Training Loop
-def train_en_to_de(
-    en_encoder,
-    de_decoder,
-    output_layer_de,
-    criterion,
-    optimizer,
-    en_sp,
-    de_sp,
-    num_epochs=10,
-    batch_size=32,
-):
-    def load_data(en_filepath, de_filepath):
-        en_data = []
-        de_data = []
-        with open(en_filepath, "r", encoding="utf-8") as en_f, open(
-            de_filepath, "r", encoding="utf-8"
-        ) as de_f:
-            for en_line, de_line in zip(en_f, de_f):
-                en_data.append(en_line.strip())
-                de_data.append(de_line.strip())
-        return en_data, de_data
+# def train_en_to_de(
+#     en_encoder,
+#     de_decoder,
+#     output_layer_de,
+#     criterion,
+#     optimizer,
+#     en_sp,
+#     de_sp,
+#     num_epochs=10,
+#     batch_size=32,
+# ):
+#     def load_data(en_filepath, de_filepath):
+#         en_data = []
+#         de_data = []
+#         with open(en_filepath, "r", encoding="utf-8") as en_f, open(
+#             de_filepath, "r", encoding="utf-8"
+#         ) as de_f:
+#             for en_line, de_line in zip(en_f, de_f):
+#                 en_data.append(en_line.strip())
+#                 de_data.append(de_line.strip())
+#         return en_data, de_data
 
-    en_train, de_train = load_data("multi30k_train_en.txt", "multi30k_train_de.txt")
+#     en_train, de_train = load_data("multi30k_train_en.txt", "multi30k_train_de.txt")
 
-    for epoch in range(num_epochs):
-        start_time = time.time()
-        total_loss = 0
+#     for epoch in range(num_epochs):
+#         start_time = time.time()
+#         total_loss = 0
 
-        data = list(zip(en_train, de_train))
-        random.shuffle(data)
-        en_train, de_train = zip(*data)
+#         data = list(zip(en_train, de_train))
+#         random.shuffle(data)
+#         en_train, de_train = zip(*data)
 
-        for i in range(0, len(en_train), batch_size):
-            en_batch = en_train[i : i + batch_size]
-            de_batch = de_train[i : i + batch_size]
+#         for i in range(0, len(en_train), batch_size):
+#             en_batch = en_train[i : i + batch_size]
+#             de_batch = de_train[i : i + batch_size]
 
-            # Numericalize and pad the *entire batch*
-            en_numericalized = [numericalize(text, en_sp) for text in en_batch]
-            de_numericalized = [numericalize(text, de_sp) for text in de_batch]
+#             # Numericalize and pad the *entire batch*
+#             en_numericalized = [numericalize(text, en_sp) for text in en_batch]
+#             de_numericalized = [numericalize(text, de_sp) for text in de_batch]
 
-            en_lengths = torch.tensor([tensor.shape[0] for tensor in en_numericalized])
+#             en_lengths = torch.tensor([tensor.shape[0] for tensor in en_numericalized])
 
-            en_input = nn.utils.rnn.pad_sequence(
-                en_numericalized, padding_value=en_word_padding_idx, batch_first=True
-            )
-            de_input = nn.utils.rnn.pad_sequence(
-                de_numericalized, padding_value=de_word_padding_idx, batch_first=True
-            )
+#             en_input = nn.utils.rnn.pad_sequence(
+#                 en_numericalized, padding_value=en_word_padding_idx, batch_first=True
+#             )
+#             de_input = nn.utils.rnn.pad_sequence(
+#                 de_numericalized, padding_value=de_word_padding_idx, batch_first=True
+#             )
 
-            en_input = en_input.to(device)
-            de_input = de_input.to(device)
-            en_lengths = en_lengths.to(device)
+#             en_input = en_input.to(device)
+#             de_input = de_input.to(device)
+#             en_lengths = en_lengths.to(device)
 
-            en_encoded, en_remap, _ = en_encoder(en_input, en_lengths)
+#             en_encoded, en_remap, _ = en_encoder(en_input, en_lengths)
 
-            # Decoder training (English to German) using Teacher Forcing
-            de_decoder.init_state(
-                None, en_encoded, en_remap
-            )  # Use English encoding to initialize German decoder
+#             # Decoder training (English to German) using Teacher Forcing
+#             de_decoder.init_state(
+#                 None, en_encoded, en_remap
+#             )  # Use English encoding to initialize German decoder
 
-            de_target_input = de_input[:, :-1].to(
-                device
-            )  # Shift target for teacher forcing
-            de_target_output = de_input[:, 1:].to(device)
+#             de_target_input = de_input[:, :-1].to(
+#                 device
+#             )  # Shift target for teacher forcing
+#             de_target_output = de_input[:, 1:].to(device)
 
-            de_decoded_output, _ = de_decoder(
-                de_target_input, en_encoded, memory_lengths=en_lengths
-            )  # Use English encoded output as memory bank
-            output = output_layer_de(de_decoded_output)
+#             de_decoded_output, _ = de_decoder(
+#                 de_target_input, en_encoded, memory_lengths=en_lengths
+#             )  # Use English encoded output as memory bank
+#             output = output_layer_de(de_decoded_output)
 
-            loss = criterion(
-                output.contiguous().view(-1, de_vocab_size),
-                de_target_output.contiguous().view(-1),
-            )
+#             loss = criterion(
+#                 output.contiguous().view(-1, de_vocab_size),
+#                 de_target_output.contiguous().view(-1),
+#             )
 
-            optimizer.zero_grad()
-            loss.backward()
-            optimizer.step()
-            total_loss += loss.item()
+#             optimizer.zero_grad()
+#             loss.backward()
+#             optimizer.step()
+#             total_loss += loss.item()
 
-        end_time = time.time()
-        epoch_time = end_time - start_time
+#         end_time = time.time()
+#         epoch_time = end_time - start_time
 
-        total_loss = total_loss / len(en_train)
+#         total_loss = total_loss / len(en_train)
 
-        print(
-            f"Epoch: {epoch+1}/{num_epochs}, Loss: {total_loss:.4f}, Time: {epoch_time:.2f}s"
-        )
-
-
-optimizer_en_de = optim.Adam(
-    list(en_encoder.parameters())
-    + list(de_decoder.parameters())
-    + list(output_layer_de.parameters()),
-    lr=0.0001,
-)
-
-en_encoder.to(device)
-de_decoder.to(device)
-output_layer_de.to(device)
-criterion.to(device)
-
-train_en_to_de(
-    en_encoder,
-    de_decoder,
-    output_layer_de,
-    criterion,
-    optimizer_en_de,
-    en_sp,
-    de_sp,
-    num_epochs=5,
-    batch_size=128,
-)
+#         print(
+#             f"Epoch: {epoch+1}/{num_epochs}, Loss: {total_loss:.4f}, Time: {epoch_time:.2f}s"
+#         )
 
 
-def evaluate_en_to_de(
-    en_encoder,
-    de_decoder,
-    output_layer_de,
-    en_sp,
-    de_sp,
-    en_input,
-):
-    """Evaluate English to German translation."""
-    en_encoder.eval()
-    de_decoder.eval()
-    with torch.no_grad():
-        en_numericalized = numericalize(en_input, en_sp).unsqueeze(0).to(device)
-        en_length = torch.tensor([en_numericalized.shape[1]]).to(device)
+# optimizer_en_de = optim.Adam(
+#     list(en_encoder.parameters())
+#     + list(de_decoder.parameters())
+#     + list(output_layer_de.parameters()),
+#     lr=0.0001,
+# )
+
+# en_encoder.to(device)
+# de_decoder.to(device)
+# output_layer_de.to(device)
+# criterion.to(device)
+
+# train_en_to_de(
+#     en_encoder,
+#     de_decoder,
+#     output_layer_de,
+#     criterion,
+#     optimizer_en_de,
+#     en_sp,
+#     de_sp,
+#     num_epochs=5,
+#     batch_size=128,
+# )
+
+
+# def evaluate_en_to_de(
+#     en_encoder,
+#     de_decoder,
+#     output_layer_de,
+#     en_sp,
+#     de_sp,
+#     en_input,
+# ):
+#     """Evaluate English to German translation."""
+#     en_encoder.eval()
+#     de_decoder.eval()
+#     with torch.no_grad():
+#         en_numericalized = numericalize(en_input, en_sp).unsqueeze(0).to(device)
+#         en_length = torch.tensor([en_numericalized.shape[1]]).to(device)
+#         en_input = nn.utils.rnn.pad_sequence(
+#             en_numericalized, padding_value=en_word_padding_idx, batch_first=True
+#         ).to(device)
+
+#         en_encoded, en_remap, en_lengths_output = en_encoder(en_input, en_length)
+
+#         de_decoder.init_state(None, en_encoded, en_remap)
+
+#         de_decoded_words = []
+#         de_prev_word = torch.tensor([[de_sp.bos_id()]]).to(device)
+
+#         for _ in range(en_length + 5):  # Max output length
+#             de_decoder_output, _ = de_decoder(
+#                 de_prev_word, en_encoded, memory_lengths=en_lengths_output
+#             )
+
+#             output = output_layer_de(de_decoder_output)
+#             de_predicted_word = output.argmax(2).squeeze()
+
+#             if de_predicted_word.item() == de_sp.eos_id():
+#                 break
+
+#             # de_decoded_words.append(
+#             #     list(de_vocab.keys())[
+#             #         list(de_vocab.values()).index(de_predicted_word.item())
+#             #     ]
+#             # )
+#             de_decoded_words.append(de_sp.IdToPiece(de_predicted_word.item()))
+
+#             de_prev_word = de_predicted_word.view(1, 1)
+
+#     en_encoder.train()
+#     de_decoder.train()
+#     return "".join(de_decoded_words).replace("▁", " ")
+
+
+# en_input_sentence = "A little girl climbing into a wooden playhouse."
+# translated_sentence_de = evaluate_en_to_de(
+#     en_encoder,
+#     de_decoder,
+#     output_layer_de,
+#     en_sp,
+#     de_sp,
+#     en_input_sentence,
+# )
+# print(f"Translated Sentence (German): {translated_sentence_de}")
+
+
+def train_epoch(en_train, de_train, model, optimizer, batch_size):
+    model.train()
+    losses = 0
+
+    data = list(zip(en_train, de_train))
+    random.shuffle(data)
+    en_train, de_train = zip(*data)
+
+    for i in range(0, len(en_train), batch_size):
+        en_batch = en_train[i : i + batch_size]
+        de_batch = de_train[i : i + batch_size]
+
+        # Numericalize and pad the *entire batch*
+        en_numericalized = [numericalize(text, en_sp) for text in en_batch]
+        de_numericalized = [numericalize(text, de_sp) for text in de_batch]
+
+        en_lengths = torch.tensor([tensor.shape[0] for tensor in en_numericalized])
+
         en_input = nn.utils.rnn.pad_sequence(
             en_numericalized, padding_value=en_word_padding_idx, batch_first=True
-        ).to(device)
+        )
+        de_input = nn.utils.rnn.pad_sequence(
+            de_numericalized, padding_value=de_word_padding_idx, batch_first=True
+        )
 
-        en_encoded, en_remap, en_lengths_output = en_encoder(en_input, en_length)
+        # src = en_input.to(device).transpose(0, 1)
+        # tgt = de_input.to(device).transpose(0, 1)
+        src = en_input.to(device)
+        tgt = de_input.to(device)
+        en_lengths = en_lengths.to(device)
 
-        de_decoder.init_state(None, en_encoded, en_remap)
+        tgt_input = tgt[:, :-1]
 
-        de_decoded_words = []
-        de_prev_word = torch.tensor([[de_sp.bos_id()]]).to(device)
+        src_mask, tgt_mask, src_padding_mask, tgt_padding_mask = create_mask(
+            src, tgt_input, en_word_padding_idx, de_word_padding_idx
+        )
 
-        for _ in range(en_length + 5):  # Max output length
-            de_decoder_output, _ = de_decoder(
-                de_prev_word, en_encoded, memory_lengths=en_lengths_output
-            )
+        logits = model(
+            src,
+            tgt_input,
+            src_mask,
+            tgt_mask,
+            src_padding_mask.transpose(0, 1),
+            tgt_padding_mask.transpose(0, 1),
+            src_padding_mask.transpose(0, 1),
+        )
 
-            output = output_layer_de(de_decoder_output)
-            de_predicted_word = output.argmax(2).squeeze()
+        optimizer.zero_grad()
 
-            if de_predicted_word.item() == de_sp.eos_id():
-                break
+        tgt_out = tgt[:, 1:]
+        loss = loss_fn(logits.reshape(-1, logits.shape[-1]), tgt_out.reshape(-1))
+        loss.backward()
 
-            # de_decoded_words.append(
-            #     list(de_vocab.keys())[
-            #         list(de_vocab.values()).index(de_predicted_word.item())
-            #     ]
-            # )
-            de_decoded_words.append(de_sp.IdToPiece(de_predicted_word.item()))
+        optimizer.step()
+        losses += loss.item()
 
-            de_prev_word = de_predicted_word.view(1, 1)
-
-    en_encoder.train()
-    de_decoder.train()
-    return "".join(de_decoded_words).replace("▁", " ")
+    return losses / len(en_train)
 
 
-en_input_sentence = "A little girl climbing into a wooden playhouse."
-translated_sentence_de = evaluate_en_to_de(
-    en_encoder,
-    de_decoder,
-    output_layer_de,
-    en_sp,
-    de_sp,
-    en_input_sentence,
-)
-print(f"Translated Sentence (German): {translated_sentence_de}")
+from timeit import default_timer as timer
+
+NUM_EPOCHS = 1
+
+
+def load_data(en_filepath, de_filepath):
+    en_data = []
+    de_data = []
+    with open(en_filepath, "r", encoding="utf-8") as en_f, open(
+        de_filepath, "r", encoding="utf-8"
+    ) as de_f:
+        for en_line, de_line in zip(en_f, de_f):
+            en_data.append(en_line.strip())
+            de_data.append(de_line.strip())
+    return en_data, de_data
+
+
+en_train, de_train = load_data("multi30k_train_en.txt", "multi30k_train_de.txt")
+
+
+for epoch in range(1, NUM_EPOCHS + 1):
+    start_time = timer()
+    train_loss = train_epoch(en_train, de_train, transformer, optimizer, BATCH_SIZE)
+    end_time = timer()
+    print(
+        (
+            f"Epoch: {epoch}, Train loss: {train_loss:.3f},"
+            f"Epoch time = {(end_time - start_time):.3f}s"
+        )
+    )
+
+
+def greedy_decode(model, src, src_mask, max_len, start_symbol, eos_idx):
+    src = src.to(DEVICE)
+    src_mask = src_mask.to(DEVICE)
+
+    memory = model.encode(src, src_mask)
+    ys = torch.ones(1, 1).fill_(start_symbol).type(torch.long).to(DEVICE)
+    for i in range(max_len - 1):
+        memory = memory.to(DEVICE)
+        tgt_mask = (generate_square_subsequent_mask(ys.size(1)).type(torch.bool)).to(
+            DEVICE
+        )
+        out = model.decode(ys, memory, tgt_mask)
+        out = out.transpose(0, 1)
+        prob = model.generator(out[:, -1])
+        _, next_word = torch.max(prob, dim=1)  # next_word is a tensor
+
+        next_word = next_word[0].item()  # Get the scalar value correctly
+
+        ys = torch.cat(
+            [ys, torch.ones(1, 1).type_as(src.data).fill_(next_word).to(DEVICE)], dim=1
+        )
+        if next_word == eos_idx:
+            break
+    return ys
+
+
+def translate(model: torch.nn.Module, src_sentence: str):
+    model.eval()
+    src_tokenizer = en_sp
+    tgt_tokenizer = de_sp
+    with torch.no_grad():
+        src = numericalize(src_sentence, src_tokenizer).unsqueeze(0).to(device)
+        num_tokens = src.shape[1]
+        src_mask = (
+            (torch.zeros(num_tokens, num_tokens, device=device))
+            .type(torch.bool)
+            .transpose(0, 1)
+        )
+        tgt_tokens = greedy_decode(
+            model,
+            src,
+            src_mask,
+            max_len=num_tokens + 5,
+            start_symbol=tgt_tokenizer.bos_id(),
+            eos_idx=tgt_tokenizer.eos_id(),
+        ).flatten()
+        print(tgt_tokens)
+        decoded_sentence = (
+            "".join([tgt_tokenizer.IdToPiece(idx.item()) for idx in tgt_tokens])
+            .replace("▁", " ")
+            .replace("<bos>", "")
+            .replace("<eos>", "")
+        )
+        return decoded_sentence
+
+
+# def greedy_decode(model, src, src_mask, max_len, start_symbol, eos_idx):
+#     src = src.to(DEVICE)
+#     src_mask = src_mask.to(DEVICE)
+
+#     memory = model.encode(src, src_mask)
+#     ys = torch.ones(1, 1).fill_(start_symbol).type(torch.long).to(DEVICE)
+#     for i in range(max_len - 1):
+#         memory = memory.to(DEVICE)
+#         tgt_mask = (generate_square_subsequent_mask(ys.size(0)).type(torch.bool)).to(
+#             DEVICE
+#         )
+#         out = model.decode(ys, memory, tgt_mask.transpose(0, 1))
+#         out = out.transpose(0, 1)
+#         prob = model.generator(out[:, -1])
+#         _, next_word = torch.max(prob, dim=1)
+#         next_word = next_word.item()
+
+#         ys = torch.cat([ys, torch.ones(1, 1).type_as(src.data).fill_(next_word)], dim=0)
+#         if next_word == eos_idx:
+#             break
+#     return ys
+
+# def translate(model: torch.nn.Module, src_sentence: str):
+#     model.eval()
+#     with torch.no_grad():
+#         en_numericalized = numericalize(src_sentence, en_sp).unsqueeze(0).to(device)
+#         en_length = torch.tensor([en_numericalized.shape[1]]).to(device)
+#         src = nn.utils.rnn.pad_sequence(
+#             en_numericalized, padding_value=en_word_padding_idx, batch_first=True
+#         ).to(device)
+
+#         src_mask = (torch.zeros(en_length, en_length)).type(torch.bool)
+#         tgt_tokens = greedy_decode(
+#             model,
+#             src,
+#             src_mask.transpose(0, 1),
+#             max_len=en_length + 5,
+#             start_symbol=de_sp.bos_id(),
+#             eos_idx=de_sp.eos_id(),
+#         ).flatten()
+#         print(tgt_tokens)
+
+
+print(translate(transformer, "Eine Gruppe von Menschen steht vor einem Iglu ."))
