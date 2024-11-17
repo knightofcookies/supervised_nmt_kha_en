@@ -13,7 +13,7 @@ from win11toast import toast
 THREAD_LIMIT = 250
 
 START = 1  # Delete pickle_dump if you change this
-END = 800  # Delete pickle_dump if you change this
+END = 4000  # Delete pickle_dump if you change this
 
 PICKLE_DUMP_PATH = "pickle_dump"
 
@@ -79,7 +79,7 @@ if __name__ == "__main__":
     asyncio.run(main())
     end = datetime.datetime.now()
     print(end - start)
-    winsound.Beep(500, 500)
+    winsound.Beep(500, 5000)
     with open(PICKLE_DUMP_PATH, "wb") as f:
         pickle.dump(complete, f)
     incomplete: List[int] = []

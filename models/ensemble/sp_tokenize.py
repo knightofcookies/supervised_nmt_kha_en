@@ -55,8 +55,8 @@ de_train = "C:\\Users\\ahlad\\Computer Programming\\GitHub\\supervised_nmt_kha_e
 
 en_model_prefix = "en_multi30k_word"
 kha_model_prefix = "de_multi30k_word"
-en_vocab_size = 7500
-de_vocab_size = 7500
+en_vocab_size = 10000
+de_vocab_size = 18000
 
 train_tokenizer(en_train, en_model_prefix, en_vocab_size)
 train_tokenizer(de_train, kha_model_prefix, de_vocab_size)
