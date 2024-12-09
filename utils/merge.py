@@ -11,7 +11,7 @@ kha_output_file = 'kha.txt'
 # Function to combine corresponding lines from both directories
 def combine_files_with_matching_lines(parts_directory, translated_directory, en_output, kha_output):
     with open(en_output, 'w', encoding='utf-8') as en_outfile, open(kha_output, 'w', encoding='utf-8') as kha_outfile:
-        for i in range(1, 4000):
+        for i in range(1, 4000 + 1):
             part_file_path = os.path.join(parts_directory, f'part{i}.txt')
             translated_file_path = os.path.join(translated_directory, f'part{i}_en_to_kha.txt')
 
@@ -29,7 +29,7 @@ def combine_files_with_matching_lines(parts_directory, translated_directory, en_
                         en_outfile.write(part_line.strip() + '\n')  # Write line from original part
                         kha_outfile.write(translated_line.strip() + '\n')  # Write corresponding translated line
 
-print(f"Files combined into {en_output_file} and {kha_output_file}")
+print(f"Combining files into {en_output_file} and {kha_output_file}...")
 
 # Combine files while only keeping matching lines
 combine_files_with_matching_lines(parts_dir, translated_dir, en_output_file, kha_output_file)
